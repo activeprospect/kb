@@ -10,48 +10,18 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# GitBook style settings
-page_width: 900px
-syntax_highlighter_style: monokai
-
-# Sidebar settings
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
-
-# GitBook configuration
-gitbook_version: 3.2.3
-
-# Logo and branding
-logo: /images/activeprospect_logo.png
-favicon: /images/ActiveProspect_icon_logo.png
-
-# Search
-search: true
-
-# Sharing options
-sharing:
-  facebook: false
-  twitter: false
-  google: false
-  weibo: false
-  instapaper: false
-  vk: false
-  all: false
-
-# Footer
-footer:
-  copyright: "Copyright &copy; 2024 ActiveProspect"
-  
-# Custom CSS
-extra_css:
-  - /assets/gitbook/custom.css
+  - jekyll-remote-theme
 
 # Theme
-theme: jekyll-gitbook
-remote_theme: sighingnow/jekyll-gitbook
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Cayman theme customization
+show_downloads: false
+google_analytics:
+
+# Logo
+logo: /images/activeprospect_logo.png
 
 # Default settings for documentation
 defaults:

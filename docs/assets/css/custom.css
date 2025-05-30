@@ -1,0 +1,191 @@
+/* Import Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* Override fonts */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+/* Header styling */
+.page-header {
+  background-color: #0366d6;
+  background-image: linear-gradient(120deg, #155799, #0366d6);
+  padding: 2rem 1rem;
+}
+
+.logo-link {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.site-logo {
+  max-height: 60px;
+  filter: brightness(0) invert(1);
+}
+
+.project-name {
+  margin-top: 0.5rem;
+  font-size: 2.25rem;
+}
+
+/* Main layout */
+.main-wrapper {
+  display: flex;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Sidebar navigation */
+.sidebar {
+  flex: 0 0 300px;
+  padding: 2rem 1rem;
+  background-color: #f8f9fa;
+  border-right: 1px solid #e1e4e8;
+  min-height: calc(100vh - 200px);
+  overflow-y: auto;
+}
+
+.nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin-bottom: 0.5rem;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  color: #24292e;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.nav-link:hover {
+  background-color: #e1e8ed;
+  color: #0366d6;
+}
+
+.nav-link.active {
+  background-color: #0366d6;
+  color: white;
+  font-weight: 500;
+}
+
+.nav-link.section {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #586069;
+  padding-left: 0;
+  margin-top: 1rem;
+}
+
+.nav-link.subsection {
+  font-weight: 500;
+  color: #586069;
+  font-size: 0.9rem;
+}
+
+.nav-children {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 1rem;
+}
+
+.nav-grandchildren {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 1rem;
+  font-size: 0.9rem;
+}
+
+/* Main content */
+.main-content {
+  flex: 1;
+  max-width: 900px;
+  padding: 2rem 3rem;
+}
+
+/* Typography improvements */
+.main-content h1 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+
+.main-content h2 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  margin-top: 2rem;
+  border-bottom: 1px solid #e1e4e8;
+  padding-bottom: 0.5rem;
+}
+
+.main-content h3 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+}
+
+/* Code blocks */
+.main-content pre {
+  background-color: #f6f8fa;
+  border: 1px solid #e1e4e8;
+}
+
+.main-content code {
+  background-color: #f6f8fa;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 85%;
+}
+
+/* Tables */
+.main-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.main-content table th,
+.main-content table td {
+  border: 1px solid #e1e4e8;
+  padding: 0.5rem 1rem;
+}
+
+.main-content table th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+/* Responsive design */
+@media screen and (max-width: 1024px) {
+  .main-wrapper {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    flex: 1;
+    border-right: none;
+    border-bottom: 1px solid #e1e4e8;
+    min-height: auto;
+  }
+}
+
+/* Skip to content link */
+#skip-to-content {
+  position: absolute;
+  left: -9999px;
+  z-index: 999;
+  padding: 1rem;
+  background-color: #0366d6;
+  color: white;
+  text-decoration: none;
+}
+
+#skip-to-content:focus {
+  left: 0;
+}

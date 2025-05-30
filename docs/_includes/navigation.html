@@ -1,0 +1,37 @@
+<nav class="sidebar">
+  <ul class="nav-list">
+    {% for item in site.data.toc %}
+      <li class="nav-item">
+        {% if item.url != "docs" %}
+          <a href="{{ site.baseurl }}{{ item.url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
+        {% else %}
+          <span class="nav-link section">{{ item.title }}</span>
+        {% endif %}
+        
+        {% if item.children %}
+          <ul class="nav-children">
+            {% for child in item.children %}
+              <li class="nav-child">
+                {% if child.url != "docs" %}
+                  <a href="{{ site.baseurl }}{{ child.url }}" class="nav-link {% if page.url == child.url %}active{% endif %}">{{ child.title }}</a>
+                {% else %}
+                  <span class="nav-link subsection">{{ child.title }}</span>
+                {% endif %}
+                
+                {% if child.children %}
+                  <ul class="nav-grandchildren">
+                    {% for grandchild in child.children %}
+                      <li class="nav-grandchild">
+                        <a href="{{ site.baseurl }}{{ grandchild.url }}" class="nav-link {% if page.url == grandchild.url %}active{% endif %}">{{ grandchild.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
