@@ -29,7 +29,7 @@ kb/
 ├── data/                        # Raw data sources
 │   ├── bloomfire.csv           # Exported documentation content
 │   └── whatsnew.csv            # Exported release notes and announcements
-├── build/                       # Generated documentation artifacts (created during build)
+├── docs/                       # Generated documentation artifacts (created during build)
 └── openapi/                     # API documentation
     └── openapi.yaml
 ```

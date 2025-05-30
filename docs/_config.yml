@@ -1,8 +1,8 @@
 # LeadConduit User Guide Configuration
 title: LeadConduit User Guide
 description: Comprehensive documentation for LeadConduit lead management platform
-baseurl: ""
-url: "https://reimagined-potato-jngm138.pages.github.io"
+baseurl: "/kb/docs"
+url: "https://activeprospect.github.io"
 
 # Build settings
 markdown: kramdown
