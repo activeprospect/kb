@@ -1,3 +1,8 @@
+---
+layout: page
+title: Validation and Normalization Rules
+---
+
 # Validation and Normalization Rules
 
 LeadConduit's validation and normalization system provides comprehensive data quality assurance through intelligent field types, sophisticated rules-based validation, and integrated third-party verification services. This system ensures that lead data meets business requirements, regulatory compliance standards, and quality benchmarks throughout the processing lifecycle.

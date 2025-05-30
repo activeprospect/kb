@@ -1,3 +1,8 @@
+---
+layout: page
+title: Duplicate Checking
+---
+
 # Duplicate Checking
 
 Duplicate checking in LeadConduit prevents processing the same lead multiple times, protecting both buyers from paying for duplicate leads and sellers from diminishing their reputation through redundant submissions. Understanding duplicate detection strategies and implementation ensures optimal lead quality and cost management.

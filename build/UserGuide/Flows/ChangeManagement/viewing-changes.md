@@ -1,3 +1,8 @@
+---
+layout: page
+title: Viewing Changes
+---
+
 # Viewing Changes
 
 Change viewing in LeadConduit provides comprehensive visibility into flow modifications, configuration updates, and system changes. This audit trail enables change tracking, compliance documentation, and operational transparency for effective change management and governance.

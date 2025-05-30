@@ -1,3 +1,8 @@
+---
+layout: page
+title: Ping Limits
+---
+
 # Ping Limits
 
 Ping limits in LeadConduit provide enhanced security and vendor management controls by restricting the number of ping requests from individual sources. These limits enable safe testing of new vendors, prevent abuse, and maintain system stability while optimizing partner relationships.

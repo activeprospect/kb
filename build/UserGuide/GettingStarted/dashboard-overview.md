@@ -1,3 +1,8 @@
+---
+layout: page
+title: Dashboard Overview
+---
+
 # Dashboard Overview
 
 The LeadConduit dashboard is your command center for managing lead processing operations. This overview will help you understand the interface layout, navigation structure, and key features available from your main workspace.

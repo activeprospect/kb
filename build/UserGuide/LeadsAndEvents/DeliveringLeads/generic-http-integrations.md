@@ -1,3 +1,8 @@
+---
+layout: page
+title: Generic HTTP Integrations
+---
+
 # Generic HTTP Integrations
 
 Generic HTTP integrations in LeadConduit provide flexible, customizable delivery options for recipient systems that don't have pre-built integrations. These configurations support various HTTP methods, data formats, and authentication mechanisms, enabling integration with virtually any web-based API or service.

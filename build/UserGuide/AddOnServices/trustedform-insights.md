@@ -1,3 +1,8 @@
+---
+layout: page
+title: TrustedForm Insights
+---
+
 # TrustedForm Insights
 
 TrustedForm Insights provides comprehensive intelligence about lead generation circumstances, user behavior patterns, and form interaction data that enables sophisticated lead routing, pricing optimization, and quality assessment. This powerful analytics service transforms basic lead submissions into rich data assets that support strategic decision-making and operational optimization.

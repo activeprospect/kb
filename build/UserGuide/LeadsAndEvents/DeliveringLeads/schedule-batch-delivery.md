@@ -1,3 +1,8 @@
+---
+layout: page
+title: Schedule Batch Delivery
+---
+
 # Schedule Batch Delivery
 
 Batch delivery in LeadConduit enables efficient processing of leads in scheduled groups, providing recipients with organized data files at predetermined intervals. This delivery method optimizes workflow efficiency while maintaining data quality and delivery reliability.

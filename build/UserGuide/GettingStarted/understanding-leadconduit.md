@@ -1,3 +1,8 @@
+---
+layout: page
+title: Understanding LeadConduit
+---
+
 # Understanding LeadConduit
 
 Mastering LeadConduit requires understanding its systematic design philosophy and core architectural concepts. This guide provides the conceptual foundation you need to think strategically about lead management and leverage LeadConduit's capabilities effectively. Rather than just learning individual features, you'll understand how everything fits together to create powerful, scalable lead operations.

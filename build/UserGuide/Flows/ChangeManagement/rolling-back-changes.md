@@ -1,3 +1,8 @@
+---
+layout: page
+title: Rolling Back Changes
+---
+
 # Rolling Back Changes
 
 Change rollback in LeadConduit provides critical recovery capabilities for reverting problematic modifications, restoring system stability, and maintaining operational continuity. This system enables quick recovery from failed changes while preserving data integrity and minimizing business impact.

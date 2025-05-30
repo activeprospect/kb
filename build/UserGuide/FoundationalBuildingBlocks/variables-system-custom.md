@@ -1,3 +1,8 @@
+---
+layout: page
+title: Variables System & Custom Fields
+---
+
 # Variables System & Custom Fields
 
 LeadConduit's variables system and custom field capabilities provide powerful tools for data transformation, custom business logic implementation, and flexible field management that extends beyond standard lead data to support complex business requirements and industry-specific workflows.

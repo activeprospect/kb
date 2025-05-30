@@ -1,3 +1,8 @@
+---
+layout: page
+title: Managing Sellers and Submission Access
+---
+
 # Managing Sellers and Submission Access
 
 ## Overview

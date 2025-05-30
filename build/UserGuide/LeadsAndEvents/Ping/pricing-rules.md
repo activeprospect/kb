@@ -1,3 +1,8 @@
+---
+layout: page
+title: Pricing (Rule-Based)
+---
+
 # Pricing (Rule-Based)
 
 Rule-based pricing in LeadConduit's ping system enables dynamic, intelligent bid optimization that maximizes ROI while maintaining competitive market position. This sophisticated pricing engine adapts to market conditions, lead quality, and business objectives in real-time.

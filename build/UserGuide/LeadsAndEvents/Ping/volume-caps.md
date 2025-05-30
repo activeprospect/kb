@@ -1,3 +1,8 @@
+---
+layout: page
+title: Volume Caps (Rule-Based)
+---
+
 # Volume Caps (Rule-Based)
 
 Volume caps in LeadConduit's ping system provide essential cost control and quality management by automatically limiting lead acquisition based on sophisticated rule-based criteria. These intelligent volume controls protect budget, maintain service quality, and optimize resource allocation.

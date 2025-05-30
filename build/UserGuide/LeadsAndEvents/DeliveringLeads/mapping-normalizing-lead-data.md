@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mapping & Normalizing Lead Data
+---
+
 # Mapping & Normalizing Lead Data
 
 Data mapping and normalization in LeadConduit ensures accurate, consistent lead information delivery to recipient systems. This process transforms diverse source data formats into standardized, recipient-specific formats while maintaining data integrity and improving delivery success rates.

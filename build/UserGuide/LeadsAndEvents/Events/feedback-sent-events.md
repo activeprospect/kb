@@ -1,3 +1,8 @@
+---
+layout: page
+title: Feedback-Sent Events
+---
+
 # Feedback-Sent Events
 
 Feedback-sent events in LeadConduit track outbound feedback transmission to sources, partners, and upstream systems. These events enable comprehensive communication about lead outcomes, quality assessments, and performance data, fostering improved relationships and optimization across the entire lead ecosystem.

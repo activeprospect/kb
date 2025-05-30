@@ -1,3 +1,8 @@
+---
+layout: page
+title: Scheduling & Sharing
+---
+
 # Scheduling & Sharing
 
 LeadConduit's scheduling and sharing capabilities enable automated report distribution, collaborative analytics, and systematic business intelligence delivery that ensures stakeholders receive timely, relevant insights for data-driven decision making across the organization.

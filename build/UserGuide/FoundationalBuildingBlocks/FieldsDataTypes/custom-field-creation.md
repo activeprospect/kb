@@ -1,3 +1,8 @@
+---
+layout: page
+title: Custom Field Creation
+---
+
 # Custom Field Creation
 
 Custom field creation in LeadConduit enables organizations to define specialized data structures that meet unique business requirements, industry standards, and operational workflows. This flexible system supports complex data modeling while maintaining validation integrity and system performance.

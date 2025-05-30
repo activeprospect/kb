@@ -1,3 +1,8 @@
+---
+layout: page
+title: Firehose (Real-Time Streaming)
+---
+
 # Firehose (Real-Time Streaming)
 
 LeadConduit Firehose provides real-time streaming of lead data and events to cloud storage destinations, enabling immediate data availability for analytics, machine learning, and business intelligence applications. This high-throughput streaming service supports both structured and unstructured data delivery with minimal latency.

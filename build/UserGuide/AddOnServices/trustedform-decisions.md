@@ -1,3 +1,8 @@
+---
+layout: page
+title: TrustedForm Decisions and Verify
+---
+
 # TrustedForm Decisions and Verify
 
 TrustedForm Decisions and Verify represent comprehensive compliance and verification services that ensure lead authenticity, verify regulatory compliance, and provide detailed intelligence about lead generation circumstances. These services protect businesses from legal exposure while providing valuable insights that improve lead quality and operational decision-making.

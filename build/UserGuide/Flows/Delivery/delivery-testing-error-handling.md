@@ -1,3 +1,8 @@
+---
+layout: page
+title: Delivery Testing & Error Handling
+---
+
 # Delivery Testing & Error Handling
 
 Delivery testing and error handling in LeadConduit ensure reliable lead delivery through comprehensive validation, proactive error detection, and intelligent recovery mechanisms. These systems maintain delivery quality while minimizing disruptions and maximizing system reliability.

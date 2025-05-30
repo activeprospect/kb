@@ -1,3 +1,8 @@
+---
+layout: page
+title: Manual Test Deliveries
+---
+
 # Manual Test Deliveries
 
 Manual test deliveries provide essential verification capabilities for validating recipient configurations, testing data mappings, and ensuring proper integration before processing live lead traffic. Understanding how to effectively test deliveries protects both data quality and partner relationships.

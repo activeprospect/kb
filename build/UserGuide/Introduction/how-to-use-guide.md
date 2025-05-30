@@ -1,3 +1,8 @@
+---
+layout: page
+title: How to Use This Guide
+---
+
 # How to Use This Guide
 
 This LeadConduit User Guide is designed to serve both as a comprehensive learning resource and a practical reference tool. Understanding how to navigate and utilize this guide effectively will help you find the information you need quickly and apply LeadConduit's capabilities to your specific business requirements.

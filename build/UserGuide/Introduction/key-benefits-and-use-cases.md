@@ -1,3 +1,8 @@
+---
+layout: page
+title: Key Benefits & Use Cases
+---
+
 # Key Benefits & Use Cases
 
 LeadConduit delivers measurable value across the entire lead management ecosystem. Understanding these benefits and real-world applications will help you maximize your return on investment.

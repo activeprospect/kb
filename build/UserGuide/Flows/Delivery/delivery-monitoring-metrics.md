@@ -1,3 +1,8 @@
+---
+layout: page
+title: Delivery Monitoring & Metrics
+---
+
 # Delivery Monitoring & Metrics
 
 Delivery monitoring and metrics in LeadConduit provide comprehensive visibility into lead delivery performance, system health, and business outcomes. These analytics enable data-driven optimization, proactive issue resolution, and strategic decision-making for maximum delivery effectiveness.

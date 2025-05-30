@@ -1,3 +1,8 @@
+---
+layout: page
+title: Validation & Normalization Rules
+---
+
 # Validation & Normalization Rules
 
 LeadConduit's validation and normalization engine provides comprehensive data quality assurance, format standardization, and intelligent data transformation capabilities that ensure consistent, accurate, and reliable lead data throughout complex processing workflows and business operations.

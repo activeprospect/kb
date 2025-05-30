@@ -1,3 +1,8 @@
+---
+layout: page
+title: Source-Level Acceptance Criteria (Rule-Based)
+---
+
 # Source-Level Acceptance Criteria (Rule-Based)
 
 Source-level acceptance criteria enable targeted lead filtering and qualification based on traffic source characteristics, performance history, and business requirements. These rule-based filters ensure optimal lead quality while supporting strategic source relationship management and revenue optimization.

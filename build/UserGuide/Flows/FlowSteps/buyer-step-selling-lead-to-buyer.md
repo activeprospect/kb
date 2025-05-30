@@ -1,3 +1,8 @@
+---
+layout: page
+title: Buyer Step (Selling a Lead to a Buyer)
+---
+
 # Buyer Step (Selling a Lead to a Buyer)
 
 Buyer steps in LeadConduit enable lead distribution and monetization by delivering qualified leads to recipient partners and buyers. These steps handle complex routing logic, pricing calculations, and delivery mechanisms while maintaining quality standards and partner relationships.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Handlebars Templates in LeadConduit
+---
+
 # Handlebars Templates in LeadConduit
 
 LeadConduit's Handlebars template system provides powerful dynamic content generation capabilities that enable sophisticated data transformation, conditional logic, and seamless integration across all platform features. Understanding this template system is essential for creating flexible, maintainable, and efficient lead processing flows.

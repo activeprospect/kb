@@ -1,3 +1,8 @@
+---
+layout: page
+title: Template System
+---
+
 # Template System
 
 The template system in LeadConduit provides a powerful framework for creating reusable configurations, standardizing processes, and enabling consistent implementation across different flows and business scenarios. This system supports dynamic content generation, conditional logic, and sophisticated business rule implementation.

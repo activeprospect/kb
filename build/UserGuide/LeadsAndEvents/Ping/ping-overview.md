@@ -1,3 +1,8 @@
+---
+layout: page
+title: Ping Overview
+---
+
 # Ping (Pre-submission Bidding)
 
 Ping functionality in LeadConduit enables real-time, auction-based lead purchasing that maximizes ROI by connecting you with the leads you want at the price you're willing to pay. This pre-submission bidding system allows buyers to evaluate potential leads before committing to purchase.

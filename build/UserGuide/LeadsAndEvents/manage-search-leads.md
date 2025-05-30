@@ -1,3 +1,8 @@
+---
+layout: page
+title: Manage & Search Leads
+---
+
 # Manage & Search Leads
 
 Lead management and search capabilities in LeadConduit provide comprehensive tools for tracking, analyzing, and managing lead data throughout the entire lifecycle. These features enable detailed lead investigation, performance analysis, and operational optimization through advanced search and filtering options.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Account Setup
+---
+
 # Account Setup
 
 Getting your LeadConduit account properly configured is the foundation for successful lead management operations. This guide walks you through the essential setup steps, from initial login through configuring key account settings that enable effective lead processing and team collaboration.

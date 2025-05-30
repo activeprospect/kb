@@ -1,3 +1,8 @@
+---
+layout: page
+title: Designing Maintainable Flows
+---
+
 # Designing Maintainable Flows
 
 ## Overview

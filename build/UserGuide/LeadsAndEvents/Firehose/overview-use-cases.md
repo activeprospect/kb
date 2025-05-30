@@ -1,3 +1,8 @@
+---
+layout: page
+title: Overview & Use Cases
+---
+
 # Overview & Use Cases
 
 LeadConduit's Firehose feature provides real-time streaming of lead data to Amazon Web Services (AWS) Simple Storage Service (S3), enabling long-term data storage, advanced analytics, and integration with cloud-based data processing systems. This premium feature transforms lead processing from transactional interactions into strategic data assets.

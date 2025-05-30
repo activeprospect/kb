@@ -1,3 +1,8 @@
+---
+layout: page
+title: Conversion
+---
+
 # Conversion
 
 Conversion tracking in LeadConduit provides comprehensive measurement and attribution of lead-to-sale outcomes, enabling revenue optimization, source performance analysis, and strategic business decision-making. This system captures, analyzes, and reports on conversion events to maximize business value and partner relationships.

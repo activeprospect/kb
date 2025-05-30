@@ -1,3 +1,8 @@
+---
+layout: page
+title: Enabling on a Flow
+---
+
 # Enabling on a Flow
 
 Enabling Firehose on a LeadConduit flow transforms individual lead processing into comprehensive data streaming, creating a permanent record of all lead activity for analytics, compliance, and business intelligence. This process involves flow-level configuration, step-by-step setup, and ongoing monitoring.

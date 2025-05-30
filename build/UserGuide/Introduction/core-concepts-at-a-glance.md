@@ -1,3 +1,8 @@
+---
+layout: page
+title: Core Concepts at a Glance
+---
+
 # Core Concepts at a Glance
 
 Before diving into LeadConduit's features, it's essential to understand the fundamental concepts that form the foundation of the platform. These concepts work together to create a powerful lead processing ecosystem.

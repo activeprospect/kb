@@ -1,3 +1,8 @@
+---
+layout: page
+title: What Lead Data Is Collected
+---
+
 # What Lead Data Is Collected
 
 Flow fields in LeadConduit define the structure and types of lead data collected, processed, and delivered throughout the lead lifecycle. Understanding field configuration and data collection strategies is essential for optimizing lead quality, ensuring compliance, and maximizing conversion performance.

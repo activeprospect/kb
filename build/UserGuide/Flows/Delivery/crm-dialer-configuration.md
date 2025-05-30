@@ -1,3 +1,8 @@
+---
+layout: page
+title: CRM & Dialer Configuration
+---
+
 # CRM & Dialer Configuration
 
 CRM and dialer configuration in LeadConduit enables seamless integration with customer relationship management systems and automated dialing platforms. These integrations streamline lead delivery, optimize sales processes, and maximize conversion rates through intelligent routing and real-time synchronization.

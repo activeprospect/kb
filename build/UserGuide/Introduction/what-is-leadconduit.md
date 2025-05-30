@@ -1,3 +1,8 @@
+---
+layout: page
+title: What Is LeadConduit?
+---
+
 # What Is LeadConduit?
 
 LeadConduit is ActiveProspect's real-time data integration platform designed specifically for managing online lead acquisition. It serves as the central hub for lead processing, connecting lead sources with buyers through sophisticated routing, validation, and enhancement capabilities.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Integrations
+---
+
 # Integrations
 
 LeadConduit integrations provide seamless connectivity with third-party services, CRM systems, marketing platforms, and business applications. These integrations enhance lead processing workflows by enabling data exchange, automation, and enhanced functionality across your technology stack.

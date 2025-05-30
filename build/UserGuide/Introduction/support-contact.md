@@ -1,3 +1,8 @@
+---
+layout: page
+title: Support and Contact Information
+---
+
 # Support and Contact Information
 
 Getting the help you need is essential for successful LeadConduit implementation and optimization. ActiveProspect provides comprehensive support resources designed to assist users at every level, from initial setup questions to advanced optimization strategies. Understanding these resources and how to access them ensures you can get assistance quickly and effectively when needed.

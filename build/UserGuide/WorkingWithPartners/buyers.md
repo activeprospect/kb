@@ -1,3 +1,8 @@
+---
+layout: page
+title: Managing Buyers and Requirements
+---
+
 # Managing Buyers and Requirements
 
 ## Overview

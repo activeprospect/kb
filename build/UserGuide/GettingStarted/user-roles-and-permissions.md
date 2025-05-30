@@ -1,3 +1,8 @@
+---
+layout: page
+title: User Roles & Permissions
+---
+
 # User Roles & Permissions
 
 Understanding user roles and permissions is essential for effectively managing team access to LeadConduit. This section covers how to manage users, control access levels, and maintain security within your organization.

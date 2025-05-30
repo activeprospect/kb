@@ -1,3 +1,8 @@
+---
+layout: page
+title: Using Lead Data
+---
+
 # Using Lead Data
 
 Lead qualification in LeadConduit transforms raw lead information into actionable intelligence through sophisticated data analysis, validation, and enhancement. Understanding how to leverage existing lead data effectively is fundamental to building high-performing lead processing workflows.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: API Reference
+---
+
 # API Reference
 
 LeadConduit provides comprehensive REST APIs for lead submission, data retrieval, flow management, and system integration, enabling seamless connectivity with external systems and custom application development for sophisticated lead management workflows.

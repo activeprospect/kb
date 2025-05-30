@@ -1,3 +1,8 @@
+---
+layout: page
+title: Retry Events
+---
+
 # Retry Events
 
 Retry events in LeadConduit track automatic and manual retry attempts for failed processing steps, delivery attempts, and system integrations. These events provide crucial insights into system reliability, error patterns, and optimization opportunities for improving overall lead processing success rates.

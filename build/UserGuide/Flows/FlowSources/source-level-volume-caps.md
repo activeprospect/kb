@@ -1,3 +1,8 @@
+---
+layout: page
+title: Source-Level Volume Caps
+---
+
 # Source-Level Volume Caps
 
 Source-level volume caps provide essential capacity management and quality control by setting intelligent limits on lead volume from individual traffic sources. These controls protect system performance, maintain lead quality, and support strategic source portfolio management while enabling scalable growth.

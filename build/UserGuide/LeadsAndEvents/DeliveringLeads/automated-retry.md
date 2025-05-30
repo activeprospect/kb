@@ -1,3 +1,8 @@
+---
+layout: page
+title: Automated Retry
+---
+
 # Automated Retry
 
 Automated retry in LeadConduit ensures reliable lead delivery by intelligently handling temporary failures and network issues. This system maintains delivery success rates while protecting recipient systems from excessive retry attempts and optimizing overall flow performance.

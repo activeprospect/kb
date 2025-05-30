@@ -1,3 +1,8 @@
+---
+layout: page
+title: Standard Field Types
+---
+
 # Standard Field Types
 
 Standard field types in LeadConduit provide fundamental data structures for capturing, validating, and processing lead information. These built-in field types ensure data consistency, enable advanced validation, and support comprehensive business logic while maintaining system performance and reliability.

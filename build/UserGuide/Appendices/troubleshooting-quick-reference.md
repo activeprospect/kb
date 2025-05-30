@@ -1,3 +1,8 @@
+---
+layout: page
+title: Troubleshooting Quick Reference
+---
+
 # Troubleshooting Quick Reference
 
 This quick reference guide provides immediate solutions and diagnostic steps for common LeadConduit issues, enabling rapid problem resolution and minimizing downtime for lead processing operations.

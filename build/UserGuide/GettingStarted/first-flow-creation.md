@@ -1,3 +1,8 @@
+---
+layout: page
+title: First Flow Creation
+---
+
 # First Flow Creation
 
 Creating your first LeadConduit flow is an exciting milestone that transforms your account from setup to active lead processing. This comprehensive guide walks you through building a complete, functional flow that demonstrates core LeadConduit capabilities while establishing the foundation for more sophisticated lead management operations.

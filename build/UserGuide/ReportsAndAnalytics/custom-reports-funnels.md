@@ -1,3 +1,8 @@
+---
+layout: page
+title: Custom Reports & Funnels
+---
+
 # Custom Reports & Funnels
 
 LeadConduit's custom reporting and funnel analysis capabilities provide comprehensive tools for creating tailored analytics, tracking lead progression through multi-stage processes, and generating actionable insights that drive business optimization and strategic decision-making.

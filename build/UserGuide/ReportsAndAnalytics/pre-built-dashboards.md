@@ -1,3 +1,8 @@
+---
+layout: page
+title: Pre-Built Dashboards
+---
+
 # Pre-Built Dashboards
 
 LeadConduit's pre-built dashboards provide immediate visibility into lead performance, quality metrics, and business intelligence through comprehensive visualizations and real-time analytics. These dashboards enable data-driven decision making without requiring custom report configuration.

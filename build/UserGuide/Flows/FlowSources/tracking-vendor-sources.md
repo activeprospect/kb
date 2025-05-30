@@ -1,3 +1,8 @@
+---
+layout: page
+title: Tracking Vendor Sources
+---
+
 # Tracking Vendor Sources
 
 Source tracking in LeadConduit provides comprehensive visibility into lead generation performance across your vendor network. Effective source management enables data-driven optimization, quality assessment, and strategic relationship management with traffic partners and lead generation vendors.

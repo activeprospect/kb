@@ -1,3 +1,8 @@
+---
+layout: page
+title: Common Errors and Resolutions
+---
+
 # Common Errors and Resolutions
 
 ## Overview

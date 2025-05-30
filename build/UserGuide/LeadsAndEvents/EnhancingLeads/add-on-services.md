@@ -1,3 +1,8 @@
+---
+layout: page
+title: Add-On Services
+---
+
 # Add-On Services
 
 Add-on services in LeadConduit provide powerful lead enhancement capabilities that improve data quality, increase conversion rates, and ensure compliance. These services integrate seamlessly into flows to append valuable information, validate data integrity, and optimize lead processing performance.

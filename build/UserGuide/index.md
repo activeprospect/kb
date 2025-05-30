@@ -1,3 +1,8 @@
+---
+layout: page
+title: LeadConduit User Guide
+---
+
 # LeadConduit User Guide
 
 Welcome to the comprehensive LeadConduit User Guide. This documentation will help you master ActiveProspect's real-time data integration platform for managing online lead acquisition.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Recipient Events
+---
+
 # Recipient Events
 
 Recipient events in LeadConduit track lead delivery activities, partner interactions, and post-delivery outcomes. These events provide comprehensive insights into delivery performance, partner satisfaction, and revenue optimization opportunities across your recipient network.

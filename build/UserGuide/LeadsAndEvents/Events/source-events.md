@@ -1,3 +1,8 @@
+---
+layout: page
+title: Source Events
+---
+
 # Source Events
 
 Source events in LeadConduit track and document lead submission activities, providing detailed insights into lead generation performance, source quality, and submission patterns. These events enable comprehensive analysis of traffic sources and optimization of lead acquisition strategies.

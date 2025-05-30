@@ -1,3 +1,8 @@
+---
+layout: page
+title: API Submission
+---
+
 # API Submission
 
 API submission provides real-time, programmatic lead submission to LeadConduit flows. This method enables high-volume, automated lead processing with immediate response feedback and seamless integration into existing systems and workflows.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Source-Level Pricing Rules
+---
+
 # Source-Level Pricing Rules
 
 Source-level pricing rules enable dynamic, performance-based pricing strategies that optimize revenue while maintaining strong source relationships. These intelligent pricing mechanisms support quality-based pricing, volume incentives, and strategic partnership management across your traffic source portfolio.

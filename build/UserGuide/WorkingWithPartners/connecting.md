@@ -1,3 +1,8 @@
+---
+layout: page
+title: Connecting with Partners
+---
+
 # Connecting with Partners
 
 ## Overview

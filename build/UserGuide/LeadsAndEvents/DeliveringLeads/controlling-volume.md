@@ -1,3 +1,8 @@
+---
+layout: page
+title: Controlling Volume
+---
+
 # Controlling Volume
 
 Volume control in LeadConduit enables precise management of lead delivery rates, ensuring recipient systems operate within capacity limits while optimizing revenue and maintaining service quality. These controls protect partner relationships and system stability through intelligent throttling and distribution management.

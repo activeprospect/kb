@@ -1,3 +1,8 @@
+---
+layout: page
+title: Filter Events
+---
+
 # Filter Events
 
 Filter events in LeadConduit track lead filtering, qualification, and rejection activities throughout the flow processing pipeline. These events provide detailed insights into lead quality assessment, business rule application, and optimization opportunities for improving lead acceptance rates.

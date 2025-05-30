@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sign Up & Log In
+---
+
 # Sign Up & Log In
 
 Getting started with LeadConduit begins with accessing your ActiveProspect account. This section covers account access, product launching, and initial orientation.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Manual Entry & CSV Import
+---
+
 # Manual Entry & CSV Import
 
 LeadConduit provides flexible options for submitting lead data, from individual manual entries to bulk CSV imports. Understanding these submission methods ensures you can efficiently get lead data into your flows regardless of your data source or technical requirements.

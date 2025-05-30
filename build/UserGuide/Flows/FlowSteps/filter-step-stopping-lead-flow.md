@@ -1,3 +1,8 @@
+---
+layout: page
+title: Filter Step (Stopping Lead Flow)
+---
+
 # Filter Step (Stopping Lead Flow)
 
 Filter steps in LeadConduit provide powerful lead qualification and flow control capabilities by evaluating business rules and stopping lead processing when specific criteria are not met. These steps enable quality control, compliance management, and strategic lead routing through intelligent filtering logic.

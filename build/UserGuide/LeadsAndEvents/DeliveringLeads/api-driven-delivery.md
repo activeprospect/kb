@@ -1,3 +1,8 @@
+---
+layout: page
+title: API-Driven Delivery
+---
+
 # API-Driven Delivery
 
 API-driven delivery provides real-time lead transmission to recipient systems through direct API integration. This method enables immediate lead processing, dynamic response handling, and seamless integration with CRM systems, marketing platforms, and custom applications.

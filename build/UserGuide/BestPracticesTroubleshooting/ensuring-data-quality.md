@@ -1,3 +1,8 @@
+---
+layout: page
+title: Ensuring Data Quality
+---
+
 # Ensuring Data Quality
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+layout: page
+title: S3 Configuration
+---
+
 # S3 Configuration
 
 Configuring Amazon S3 for LeadConduit Firehose requires careful setup of storage buckets, security policies, and access controls to ensure secure, efficient, and cost-effective data streaming. This configuration process establishes the foundation for real-time lead data archival and analytics.

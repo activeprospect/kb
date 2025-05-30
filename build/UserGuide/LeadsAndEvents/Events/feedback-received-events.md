@@ -1,3 +1,8 @@
+---
+layout: page
+title: Feedback-Received Events
+---
+
 # Feedback-Received Events
 
 Feedback-received events in LeadConduit capture post-delivery information from recipients about lead outcomes, conversions, and quality assessments. These events provide crucial insights for optimizing lead quality, improving source performance, and maximizing revenue through enhanced attribution and learning.

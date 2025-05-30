@@ -1,3 +1,8 @@
+---
+layout: page
+title: SuppressionList
+---
+
 # SuppressionList
 
 SuppressionList is LeadConduit's comprehensive duplicate detection and lead suppression service that protects businesses from regulatory violations, reduces operational inefficiencies, and improves overall lead quality. This powerful Add-On Service provides multiple suppression methods and filtering capabilities that can be tailored to specific business requirements and compliance needs.

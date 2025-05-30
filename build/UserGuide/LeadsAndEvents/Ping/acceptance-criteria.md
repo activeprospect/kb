@@ -1,3 +1,8 @@
+---
+layout: page
+title: Acceptance Criteria (Rule-Based)
+---
+
 # Acceptance Criteria (Rule-Based)
 
 Acceptance criteria in LeadConduit's ping system determine which leads qualify for bidding and purchase. These rule-based filters allow precise control over lead quality, ensuring you only pay for leads that meet your specific business requirements.

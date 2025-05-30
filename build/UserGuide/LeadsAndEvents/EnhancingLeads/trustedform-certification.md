@@ -1,3 +1,8 @@
+---
+layout: page
+title: Require a Valid TrustedForm Cert
+---
+
 # Require a Valid TrustedForm Cert
 
 TrustedForm certification provides essential legal protection and lead quality assurance by documenting consumer consent and form completion authenticity. This integration enables TCPA compliance, fraud prevention, and enhanced lead quality through comprehensive form submission verification.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Integration Step (Third-Party or Backend Delivery)
+---
+
 # Integration Step (Third-Party or Backend Delivery)
 
 Integration steps in LeadConduit enable seamless connectivity with external systems, APIs, databases, and business applications. These steps facilitate data exchange, workflow automation, and system synchronization while maintaining data integrity and operational reliability.

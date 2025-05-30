@@ -1,3 +1,8 @@
+---
+layout: page
+title: Glossary
+---
+
 # Glossary
 
 This comprehensive glossary provides definitions and explanations for key terms, concepts, and technical terminology used throughout LeadConduit and the lead management industry, enabling clear understanding and effective communication across all stakeholders.

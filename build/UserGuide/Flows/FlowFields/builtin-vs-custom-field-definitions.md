@@ -1,3 +1,8 @@
+---
+layout: page
+title: Built-In vs. Custom Field Definitions
+---
+
 # Built-In vs. Custom Field Definitions
 
 LeadConduit provides a comprehensive set of built-in fields for common lead data while offering extensive customization capabilities for industry-specific and business-unique requirements. Understanding the balance between standard and custom fields is crucial for optimal flow design and data management.

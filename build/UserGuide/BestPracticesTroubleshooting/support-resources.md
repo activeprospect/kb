@@ -1,3 +1,8 @@
+---
+layout: page
+title: Support Resources
+---
+
 # Support Resources
 
 ## Overview

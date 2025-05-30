@@ -1,3 +1,8 @@
+---
+layout: page
+title: Add-On Step (Appending Data to a Lead)
+---
+
 # Add-On Step (Appending Data to a Lead)
 
 Add-on steps in LeadConduit enhance lead data quality and value by integrating third-party services, validation tools, and data enrichment capabilities. These steps append valuable information to leads, improve qualification accuracy, and enable more effective routing and monetization.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Rules Engine Deep-Dive
+---
+
 # Rules Engine Deep-Dive
 
 LeadConduit's advanced rules engine provides sophisticated decision-making capabilities, complex conditional logic implementation, and flexible business rule management that enables comprehensive lead processing automation, quality control, and intelligent routing throughout sophisticated workflows.

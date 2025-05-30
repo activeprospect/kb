@@ -1,3 +1,8 @@
+---
+layout: page
+title: Welcome to the LeadConduit User Guide
+---
+
 # Welcome to the LeadConduit User Guide
 
 Welcome to the comprehensive LeadConduit User Guide, your complete resource for mastering ActiveProspect's powerful lead management and distribution platform. Whether you're new to LeadConduit or looking to optimize your existing implementation, this guide provides the knowledge and practical guidance you need to succeed.

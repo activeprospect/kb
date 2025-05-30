@@ -1,3 +1,8 @@
+---
+layout: page
+title: Templates & Handlebars
+---
+
 # Templates & Handlebars
 
 LeadConduit's templating system powered by Handlebars provides dynamic content generation, conditional logic implementation, and flexible data transformation capabilities that enable sophisticated business logic and personalized content creation throughout lead processing workflows.

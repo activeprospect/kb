@@ -1,3 +1,8 @@
+---
+layout: page
+title: Using 3rd-Party Enhancement Data
+---
+
 # Using 3rd-Party Enhancement Data
 
 Third-party enhancement services in LeadConduit provide external validation, verification, and data enrichment capabilities that dramatically improve lead quality and processing intelligence. These services append valuable information to leads, enabling more sophisticated qualification and routing decisions.

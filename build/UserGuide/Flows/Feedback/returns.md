@@ -1,3 +1,8 @@
+---
+layout: page
+title: Returns
+---
+
 # Returns
 
 Returns management in LeadConduit handles lead rejections, refund requests, and quality issues from recipients, providing comprehensive tracking, analysis, and resolution capabilities. This system protects revenue, maintains partner relationships, and drives continuous quality improvement through intelligent returns processing.
