@@ -11,6 +11,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Sass settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Theme
 theme: minima
 

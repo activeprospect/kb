@@ -1,0 +1,41 @@
+<nav class="sidebar">
+  <div class="sidebar-header">
+    <h3><a href="{{ site.baseurl }}/">{{ site.title }}</a></h3>
+  </div>
+  
+  <ul class="nav-list">
+    {% for section in site.data.navigation.docs %}
+      <li class="nav-item {% if page.url contains section.url %}active{% endif %}">
+        {% if section.url %}
+          <a href="{{ site.baseurl }}{{ section.url }}" class="nav-link section-link">{{ section.title }}</a>
+        {% else %}
+          <span class="nav-link section-link">{{ section.title }}</span>
+        {% endif %}
+        
+        {% if section.children %}
+          <ul class="nav-children">
+            {% for child in section.children %}
+              <li class="nav-child {% if page.url == child.url %}active{% endif %}">
+                {% if child.url %}
+                  <a href="{{ site.baseurl }}{{ child.url }}" class="nav-link">{{ child.title }}</a>
+                {% else %}
+                  <span class="nav-link subsection">{{ child.title }}</span>
+                {% endif %}
+                
+                {% if child.children %}
+                  <ul class="nav-grandchildren">
+                    {% for grandchild in child.children %}
+                      <li class="nav-grandchild {% if page.url == grandchild.url %}active{% endif %}">
+                        <a href="{{ site.baseurl }}{{ grandchild.url }}" class="nav-link">{{ grandchild.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
