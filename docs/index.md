@@ -1,16 +1,12 @@
 ---
 layout: home
-title: Home
-nav_order: 1
-description: "Comprehensive documentation for LeadConduit lead management platform"
+title: LeadConduit User Guide
 permalink: /
 ---
 
 # LeadConduit User Guide
-{: .fs-9 }
 
 Master ActiveProspect's real-time data integration platform for managing online lead acquisition.
-{: .fs-6 .fw-300 }
 
 Welcome to the comprehensive LeadConduit User Guide. This documentation will help you master ActiveProspect's real-time data integration platform for managing online lead acquisition.
 
