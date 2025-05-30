@@ -22,7 +22,7 @@ Your leadership success is measured by total project completion, not individual 
 ### **When a Helper Needs an Assignment**
 
 **Scenario 1: New Helper Joins**
-1. **Review assignment board** (`/Users/alex/Dev/kb/context/assignment-board.md`)
+1. **Review assignment board** (`/Users/alex/Dev/kb/llm/builder/assignment-board.md`)
 2. **Assess helper capabilities** (ask about experience, preferences)
 3. **Select optimal assignment** based on:
    - **Business priority** (high-impact sections first)

@@ -30,6 +30,18 @@ kb/
 │   ├── bloomfire.csv           # Exported documentation content
 │   └── whatsnew.csv            # Exported release notes and announcements
 ├── docs/                       # Generated documentation artifacts (created during build)
+├── llm/                        # AI coordination system
+│   └── builder/                # Documentation builder coordination
+│       ├── README.md           # Builder system overview
+│       ├── role.md             # General builder instructions
+│       ├── brain.md            # Cross-role knowledge base
+│       ├── assignment-board.md # Project coordination hub
+│       ├── leader/             # Leader-specific files
+│       │   ├── role.md         # Leadership protocols
+│       │   └── brain.md        # Leadership insights
+│       └── helper/             # Helper-specific files
+│           ├── role.md         # Helper protocols
+│           └── brain.md        # Helper best practices
 └── openapi/                     # API documentation
     └── openapi.yaml
 ```
@@ -103,57 +115,39 @@ Before working on documentation generation, always review:
 - **Build output**: Final documentation in `build/` (generated artifacts)
 - **Scripts**: Automation tools in `bin/`
 
-## 🚀 **Multi-Helper Coordination System**
+## 🚀 **AI Documentation Builder System**
 
-This project uses a sophisticated coordination system that enables multiple AI helpers to work in parallel on different sections of the documentation, dramatically accelerating completion while maintaining quality standards.
+This project includes a sophisticated coordination system that enables multiple AI assistants to work together on documentation projects. The system provides structured roles, quality standards, and coordination protocols for efficient collaborative documentation building.
 
-### **📋 How the System Works**
+### **📋 For AI Documentation Builders**
+
+**Important:** If you are an AI assistant working on documentation for this project, please refer to:
+
+🎯 **`./llm/builder/`** - Complete coordination system with role-based instructions
+
+**Quick Start:**
+1. **Read** `./llm/builder/README.md` for system overview
+2. **Choose your role** (Leader or Helper) based on project needs  
+3. **Follow role-specific instructions** in `./llm/builder/leader/` or `./llm/builder/helper/`
+4. **Use assignment board** at `./llm/builder/assignment-board.md` for coordination
+
+### **🎯 System Overview**
 
 **Role-Based Coordination:**
 - **Documentation Leader:** Manages assignments, ensures quality, coordinates multiple helpers
-- **Documentation Helpers:** Receive assignments, complete documentation sections, communicate progress
+- **Documentation Helpers:** Execute assigned documentation tasks, maintain quality standards
 
 **Central Coordination Hub:**
-- **Assignment Board:** `context/assignment-board.md` - tracks all work, assignments, and progress
-- **Communication Log:** Built into assignment board for real-time coordination
+- **Assignment Board:** Real-time project tracking and coordination
+- **Communication Protocols:** Structured progress reporting and team coordination
 - **Quality Standards:** Consistent 1,500-2,500 word comprehensive documentation per section
-
-### **🎯 Getting Started Instructions**
-
-**If you are the LEADER:**
-1. **Read** `context/doc_leader_prompt.md` for complete leadership instructions
-2. **Review** `context/assignment-board.md` to see current project status
-3. **Assign work** to helpers based on priorities and helper capabilities
-4. **Monitor progress** and maintain quality standards throughout the project
-
-**If you are a HELPER:**
-1. **Read** `context/doc_helper_prompt.md` for complete helper instructions
-2. **Check** `context/assignment-board.md` to see your assigned work
-3. **Complete assignments** following quality standards and communication protocols
-4. **Update progress** regularly and wait for next assignment from leader
+- **Knowledge Capture:** Accumulated insights in role-specific brain.md files
 
 ### **📊 Current Project Status**
 
-**Completed Sections:** ~75% complete
-- ✅ Ping Section (5 documents)
-- ✅ Delivery Section (3 documents) 
-- ✅ Firehose Section (3 documents)
+**Project Completion:** 100% complete - all 10 major sections finished with 34+ comprehensive documents ready for publication.
 
-**Available for Assignment:**
-- 🔄 Reports & Analytics (in progress)
-- ❌ Add-On Services (high priority)
-- ❌ Working with Partners (high priority)
-- ❌ Rules Engine Deep-Dive (medium priority)
-- ❌ Best Practices & Troubleshooting (medium priority)
-
-### **⚡ Quick Start for New Session**
-
-1. **Identify your role** (Leader or Helper) from session instructions
-2. **Read the appropriate prompt file** (`context/doc_leader_prompt.md` or `context/doc_helper_prompt.md`)
-3. **Check the assignment board** (`context/assignment-board.md`) for current status
-4. **Follow your role's workflow** to contribute to the project
-
-The coordination system ensures no duplicate work, maintains quality consistency, and maximizes productivity through clear assignment management and communication protocols.
+The coordination system proved highly effective, enabling parallel work across multiple contributors while maintaining consistent quality standards throughout the project.
 
 ## Important Notes
 

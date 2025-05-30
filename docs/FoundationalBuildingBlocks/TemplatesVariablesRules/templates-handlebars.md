@@ -61,15 +61,18 @@ Template Processing Pipeline:
 
 **Simple Field Access:**
 ```handlebars
+{% raw %}
 {{lead.first_name}}          // Lead's first name
 {{lead.email}}               // Lead's email address
 {{lead.phone}}               // Lead's phone number
 {{lead.state}}               // Lead's state
 {{lead.custom_field_name}}   // Custom field value
+{% endraw %}
 ```
 
 **Submission Context Variables:**
 ```handlebars
+{% raw %}
 {{submission.timestamp}}               // When the lead was submitted
 {{submission.id}}                     // Unique submission identifier
 {{submission.ip}}                     // Lead's IP address
@@ -78,10 +81,12 @@ Template Processing Pipeline:
 {{submission.utm_source}}             // UTM tracking source
 {{submission.utm_campaign}}           // UTM tracking campaign
 {{submission.landing_page}}           // Landing page URL
+{% endraw %}
 ```
 
 **Recipient and System Variables:**
 ```handlebars
+{% raw %}
 {{recipient.name}}                    // Destination system name
 {{recipient.id}}                      // Recipient identifier
 {{user.name}}                         // Current user name
@@ -89,24 +94,29 @@ Template Processing Pipeline:
 {{organization.name}}                 // Organization name
 {{flow.name}}                         // Current flow name
 {{step.name}}                         // Current step name
+{% endraw %}
 ```
 
 ### Advanced Variable Patterns
 
 **Nested Object Access:**
 ```handlebars
+{% raw %}
 {{lead.address.street}}               // Nested address data
 {{lead.contact.preferences.email}}    // Deep nested access
 {{submission.geo.city}}               // Geographic data
 {{submission.device.mobile}}          // Device information
+{% endraw %}
 ```
 
 **Array and Collection Access:**
 ```handlebars
+{% raw %}
 {{lead.tags[0]}}                      // First tag in array
 {{lead.products[1].name}}             // Second product name
 {{submission.events.length}}          // Number of events
 {{recipient.mappings[field_name]}}    // Dynamic mapping access
+{% endraw %}
 ```
 
 ## Template Functions and Operations
@@ -128,16 +138,19 @@ Template Processing Pipeline:
 
 **String Building and Concatenation:**
 ```handlebars
+{% raw %}
 {{lead.first_name + " " + lead.last_name}}          // Full name
 {{recipient.name + " - " + lead.email}}             // Composite identifier
 {{"Hello " + lead.first_name + ", welcome!"}}       // Greeting message
 {{lead.address.street + ", " + lead.address.city}}  // Address line
+{% endraw %}
 ```
 
 ### Mathematical Operations
 
 **Arithmetic and Calculations:**
 ```handlebars
+{% raw %}
 {{lead.age + 5}}                                     // Age plus 5 years
 {{lead.income * 12}}                                 // Annual income calculation
 {{lead.score / 100}}                                 // Percentage conversion
@@ -145,50 +158,60 @@ Template Processing Pipeline:
 {{Math.round(lead.rating * 10) / 10}}               // Round to 1 decimal place
 {{Math.max(lead.score1, lead.score2, lead.score3)}} // Maximum score
 {{Math.min(lead.budget, 10000)}}                    // Budget cap
+{% endraw %}
 ```
 
 **Advanced Mathematical Functions:**
 ```handlebars
+{% raw %}
 {{Math.abs(lead.latitude - 40.7128)}}               // Distance calculation
 {{Math.pow(lead.base_score, 2)}}                    // Square calculation
 {{Math.sqrt(lead.area)}}                            // Square root
 {{Math.floor(lead.percentage * 100)}}               // Round down percentage
 {{Math.ceil(lead.estimated_time)}}                  // Round up time
+{% endraw %}
 ```
 
 ### Date and Time Functions
 
 **Date Formatting and Manipulation:**
 ```handlebars
+{% raw %}
 {{submission.timestamp.format('YYYY-MM-DD')}}                    // "2024-01-15"
 {{submission.timestamp.format('MM/DD/YYYY HH:mm:ss')}}          // "01/15/2024 14:30:25"
 {{submission.timestamp.format('dddd, MMMM Do YYYY')}}           // "Monday, January 15th 2024"
 {{submission.timestamp.add(30, 'days').format('YYYY-MM-DD')}}   // 30 days later
 {{submission.timestamp.subtract(1, 'hour').format('HH:mm')}}    // 1 hour earlier
 {{new Date().format('YYYY-MM-DD HH:mm:ss')}}                    // Current timestamp
+{% endraw %}
 ```
 
 **Time Zone and Regional Formatting:**
 ```handlebars
+{% raw %}
 {{submission.timestamp.tz('America/New_York').format('YYYY-MM-DD HH:mm:ss')}}     // EST/EDT time
 {{submission.timestamp.tz('Europe/London').format('DD/MM/YYYY')}}                 // UK format
 {{submission.timestamp.utc().format('YYYY-MM-DD[T]HH:mm:ss[Z]')}}                // UTC ISO format
 {{submission.timestamp.local().format('h:mm A')}}                                 // Local 12-hour format
+{% endraw %}
 ```
 
 ### Conditional Logic and Control Flow
 
 **Simple Conditional Expressions:**
 ```handlebars
+{% raw %}
 {{lead.state == 'CA' ? 'California' : 'Other State'}}              // Ternary operator
 {{lead.age >= 18 ? 'Adult' : 'Minor'}}                             // Age classification
 {{lead.income > 50000 ? 'Premium' : 'Standard'}}                   // Tier assignment
 {{lead.email.includes('@gmail.com') ? 'Gmail' : 'Other'}}          // Email provider
 {{lead.phone ? lead.phone : 'No phone provided'}}                  // Default values
+{% endraw %}
 ```
 
 **Complex Conditional Logic:**
 ```handlebars
+{% raw %}
 {{lead.state == 'CA' || lead.state == 'NY' ? 'High Value' : 
   lead.state == 'TX' || lead.state == 'FL' ? 'Medium Value' : 'Standard'}}
 
@@ -198,15 +221,18 @@ Template Processing Pipeline:
 
 {{lead.income > 100000 && lead.credit_score > 750 ? 'Premium Plus' :
   lead.income > 50000 && lead.credit_score > 650 ? 'Premium' : 'Standard'}}
+{% endraw %}
 ```
 
 **Boolean and Logical Operations:**
 ```handlebars
+{% raw %}
 {{lead.email && lead.phone}}                                       // Both fields present
 {{lead.first_name || lead.company_name}}                          // Either field present
 {{!lead.do_not_call}}                                             // Not opted out
 {{lead.age >= 18 && lead.state != 'CA'}}                          // Multiple conditions
 {{lead.tags.includes('vip') || lead.score > 90}}                  // VIP or high score
+{% endraw %}
 ```
 
 ## Advanced Template Patterns
@@ -237,6 +263,7 @@ Template Processing Pipeline:
 
 **Lead Scoring Templates:**
 ```handlebars
+{% raw %}
 {{(lead.income / 1000) + 
   (lead.age * 0.5) + 
   (lead.credit_score / 10) + 
@@ -247,10 +274,12 @@ Template Processing Pipeline:
   lead.time_on_site / 60 + 
   (lead.form_completions * 10) + 
   (lead.download_count * 5)}}                                                   // Engagement score
+{% endraw %}
 ```
 
 **Dynamic Routing Templates:**
 ```handlebars
+{% raw %}
 {{lead.state == 'CA' ? 'west-coast-team' : 
   lead.state == 'NY' || lead.state == 'NJ' ? 'east-coast-team' : 
   lead.state == 'TX' ? 'south-team' : 'central-team'}}                         // Geographic routing
@@ -258,12 +287,14 @@ Template Processing Pipeline:
 {{lead.budget > 100000 ? 'enterprise-sales' :
   lead.budget > 25000 ? 'mid-market-sales' :
   lead.budget > 5000 ? 'small-business-sales' : 'inside-sales'}}               // Budget-based routing
+{% endraw %}
 ```
 
 ### Integration and API Templates
 
 **API Parameter Building:**
 ```handlebars
+{% raw %}
 {{"first_name=" + encodeURIComponent(lead.first_name) + 
   "&last_name=" + encodeURIComponent(lead.last_name) + 
   "&email=" + encodeURIComponent(lead.email)}}                                 // URL parameters
@@ -271,10 +302,12 @@ Template Processing Pipeline:
 {{"Bearer " + recipient.api_token}}                                             // Authorization header
 {{"application/json; charset=utf-8"}}                                          // Content type header
 {{submission.id + "-" + Date.now()}}                                           // Unique request ID
+{% endraw %}
 ```
 
 **Dynamic JSON Construction:**
 ```handlebars
+{% raw %}
 {{"{ \"contact\": { \"firstName\": \"" + lead.first_name + 
   "\", \"lastName\": \"" + lead.last_name + 
   "\", \"email\": \"" + lead.email + 
@@ -286,6 +319,7 @@ Template Processing Pipeline:
     score: lead.calculated_score,
     timestamp: submission.timestamp.format()
   }) + "}"}}                                                                    // Complex JSON
+{% endraw %}
 ```
 
 ## Template Usage Contexts
@@ -321,34 +355,42 @@ Template Processing Pipeline:
 
 **Dynamic Field Mapping:**
 ```handlebars
+{% raw %}
 {{lead.first_name + " " + lead.last_name}}                                     // Full name creation
 {{lead.company_name || lead.first_name + " " + lead.last_name}}                // Company or personal name
 {{submission.utm_source + "/" + submission.utm_medium + "/" + submission.utm_campaign}}  // Campaign tracking
 {{lead.address.street + ", " + lead.address.city + ", " + lead.address.state + " " + lead.address.zip}}  // Full address
+{% endraw %}
 ```
 
 **Conditional Mapping Values:**
 ```handlebars
+{% raw %}
 {{lead.mobile_phone || lead.home_phone || lead.work_phone}}                    // Phone priority fallback
 {{lead.email_work && lead.email_work.includes('@') ? lead.email_work : lead.email_personal}}  // Email preference
 {{lead.state == 'CA' ? lead.timezone || 'PST' : lead.timezone || 'EST'}}      // Regional timezone default
+{% endraw %}
 ```
 
 ### Pricing and Financial Calculations
 
 **Dynamic Pricing Templates:**
 ```handlebars
+{% raw %}
 {{lead.estimated_value * 0.15}}                                                // Percentage-based pricing
 {{lead.state == 'CA' ? 25.00 : lead.state == 'NY' ? 22.50 : 20.00}}          // Geographic pricing
 {{Math.min(lead.calculated_value, 100.00)}}                                    // Price ceiling
 {{lead.quality_score >= 80 ? 30.00 : lead.quality_score >= 60 ? 20.00 : 10.00}}  // Tiered pricing
+{% endraw %}
 ```
 
 **Revenue Optimization Templates:**
 ```handlebars
+{% raw %}
 {{(lead.lifetime_value * 0.1) + (lead.urgency_score * 0.5)}}                  // Value + urgency pricing
 {{lead.competitor_offers.length > 0 ? lead.max_competitor_price * 1.05 : lead.base_price}}  // Competitive pricing
 {{lead.referral_source == 'partner' ? lead.base_price * 0.85 : lead.base_price}}  // Partner discount
+{% endraw %}
 ```
 
 ## Performance Optimization
@@ -364,6 +406,7 @@ Template Processing Pipeline:
 
 **High-Performance Template Patterns:**
 ```handlebars
+{% raw %}
 // Efficient: Single calculation stored in custom field
 {{lead.cached_composite_score}}
 
@@ -375,23 +418,28 @@ Template Processing Pipeline:
 
 // Less efficient: Complex conditional evaluation
 {{lead.income > 100000 && lead.credit_score > 750 && lead.age >= 30}}
+{% endraw %}
 ```
 
 ### Error Handling and Fallbacks
 
 **Defensive Template Programming:**
 ```handlebars
+{% raw %}
 {{lead.phone || "Phone not provided"}}                                         // Null handling
 {{lead.income ? lead.income : 0}}                                              // Default numeric values
 {{lead.tags && lead.tags.length > 0 ? lead.tags[0] : "No tags"}}              // Array safety
 {{lead.address && lead.address.state ? lead.address.state : "Unknown"}}        // Nested object safety
+{% endraw %}
 ```
 
 **Template Error Recovery:**
 ```handlebars
+{% raw %}
 {{try(lead.complex_calculation, lead.fallback_value, "Default")}}              // Error fallback chain
 {{lead.api_response && lead.api_response.success ? lead.api_response.data : lead.local_data}}  // API fallback
 {{isValid(lead.email) ? lead.email : lead.backup_contact}}                     // Validation-based fallback
+{% endraw %}
 ```
 
 ## Debugging and Troubleshooting
@@ -407,6 +455,7 @@ Template Processing Pipeline:
 
 **Common Template Issues:**
 ```handlebars
+{% raw %}
 // Problem: Undefined variable reference
 {{lead.nonexistent_field}}                    // Returns empty/null
 
@@ -425,6 +474,7 @@ Template Processing Pipeline:
 // Solution: Simplified logic structure
 {{(lead.a == 'x' && lead.b == 'y') ? 'result1' : 
   (lead.a == 'x') ? 'result2' : 'result3'}}
+{% endraw %}
 ```
 
 ### Template Performance Monitoring
@@ -449,22 +499,27 @@ Template Processing Pipeline:
 
 **Score Normalization Templates:**
 ```handlebars
+{% raw %}
 {{(lead.ml_score - recipient.score_min) / (recipient.score_max - recipient.score_min) * 100}}  // Score normalization
 {{Math.max(0, Math.min(100, lead.raw_ml_score * recipient.score_multiplier))}}                  // Bounded score scaling
 {{lead.model_confidence > 0.8 ? lead.ml_prediction : lead.fallback_score}}                     // Confidence-based scoring
+{% endraw %}
 ```
 
 **A/B Testing Templates:**
 ```handlebars
+{% raw %}
 {{submission.id % 2 == 0 ? 'variant_a' : 'variant_b'}}                                         // Simple A/B split
 {{Math.abs(lead.email.hashCode()) % 100 < 25 ? 'test_group' : 'control_group'}}                // 25% test allocation
 {{lead.signup_date >= '2024-01-01' ? 'new_flow' : 'legacy_flow'}}                             // Date-based routing
+{% endraw %}
 ```
 
 ### Real-Time Personalization
 
 **Dynamic Content Generation:**
 ```handlebars
+{% raw %}
 {{"Hello " + (lead.first_name || "there") + "! Based on your interest in " + 
   (lead.product_category || "our services") + ", we have special offers in " + 
   (lead.state || "your area") + "."}}                                                          // Personalized messaging
@@ -472,15 +527,18 @@ Template Processing Pipeline:
 {{lead.previous_purchases.length > 0 ? 
   "Welcome back! Your last purchase was " + lead.previous_purchases[0].product_name :
   "Welcome! Discover our " + lead.interests[0] + " solutions."}}                               // Purchase history personalization
+{% endraw %}
 ```
 
 **Behavioral Targeting Templates:**
 ```handlebars
+{% raw %}
 {{lead.page_views > 10 ? 'highly_engaged' : 
   lead.page_views > 3 ? 'moderately_engaged' : 'low_engagement'}}                             // Engagement classification
 
 {{lead.session_duration > 300 ? 'deep_researcher' :
   lead.bounce_rate < 0.3 ? 'interested_browser' : 'casual_visitor'}}                          // Visitor behavior analysis
+{% endraw %}
 ```
 
 ## Integration Patterns
@@ -489,34 +547,42 @@ Template Processing Pipeline:
 
 **Salesforce Integration:**
 ```handlebars
+{% raw %}
 {{lead.source_detail || lead.utm_source || "Unknown"}}                                        // Campaign source mapping
 {{lead.lead_score >= 80 ? "Hot" : lead.lead_score >= 60 ? "Warm" : "Cold"}}                  // Lead temperature
 {{submission.timestamp.format("YYYY-MM-DD[T]HH:mm:ss[Z]")}}                                   // ISO timestamp format
 {{lead.annual_revenue ? "Enterprise" : "SMB"}}                                                // Company size classification
+{% endraw %}
 ```
 
 **HubSpot Integration:**
 ```handlebars
+{% raw %}
 {{"lifecyclestage=" + (lead.customer_type || "lead")}}                                        // Lifecycle stage mapping
 {{"lead_source=" + encodeURIComponent(lead.original_source || "Direct")}}                     // Source attribution
 {{lead.contact_preference == 'email' ? lead.email : lead.phone}}                             // Preferred contact method
+{% endraw %}
 ```
 
 ### Marketing Automation Templates
 
 **Email Marketing Integration:**
 ```handlebars
+{% raw %}
 {{lead.segmentation_tags.join(",")}}                                                          // Tag concatenation
 {{lead.purchase_intent > 70 ? "high_intent" : "nurture"}}                                    // List assignment
 {{lead.email_frequency_preference || "weekly"}}                                               // Communication cadence
 {{lead.industry + "_" + lead.company_size + "_template"}}                                     // Dynamic template selection
+{% endraw %}
 ```
 
 **Analytics Integration:**
 ```handlebars
+{% raw %}
 {{"event_category=lead_generation&event_action=form_submit&event_label=" + lead.form_name}}    // Google Analytics events
 {{lead.conversion_value || lead.estimated_value || 0}}                                        // Conversion tracking
 {{submission.utm_source + "|" + submission.utm_medium + "|" + submission.utm_campaign}}      // Campaign attribution
+{% endraw %}
 ```
 
 The Handlebars template system in LeadConduit provides powerful capabilities for creating dynamic, intelligent lead processing flows that adapt to data conditions, optimize for business outcomes, and integrate seamlessly with external systems. Mastering these template patterns enables sophisticated lead processing automation that drives measurable business results while maintaining flexibility and maintainability.

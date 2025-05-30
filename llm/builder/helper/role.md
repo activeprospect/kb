@@ -20,7 +20,7 @@ Your success is measured by the team's total project completion, not just your i
 ## 📋 **Getting Your Assignment**
 
 ### **Step 1: Check the Assignment Board**
-- Read `/Users/alex/Dev/kb/context/assignment-board.md`
+- Read `/Users/alex/Dev/kb/llm/builder/assignment-board.md`
 - Look for assignments marked as "ASSIGNED TO: Helper [X]" 
 - **If no assignment is marked for you:** Add a Communication Log entry saying "Helper [X] ready for assignment" and WAIT. Do not repeatedly check or ask.
 - **If assignment board seems to be updating:** Wait 2-3 minutes before checking again to avoid conflicts with leader updates
