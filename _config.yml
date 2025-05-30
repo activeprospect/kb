@@ -33,7 +33,7 @@ defaults:
     values:
       layout: "page"
   - scope:
-      path: "build/UserGuide"
+      path: "build"
       type: "pages"
     values:
       layout: "page"
