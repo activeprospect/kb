@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Add-On Step (Appending Data to a Lead)
+permalink: /Flows/FlowSteps/addon-step-appending-data
 ---
 
 # Add-On Step (Appending Data to a Lead)

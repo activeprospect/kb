@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Standard Field Types
+permalink: /FoundationalBuildingBlocks/FieldsDataTypes/standard-field-types
 ---
 
 # Standard Field Types

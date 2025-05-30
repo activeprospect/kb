@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Using 3rd-Party Enhancement Data
+permalink: /LeadsAndEvents/QualifyingLeads/using-third-party-enhancement-data
 ---
 
 # Using 3rd-Party Enhancement Data

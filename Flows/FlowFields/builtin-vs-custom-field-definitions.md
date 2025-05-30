@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Built-In vs. Custom Field Definitions
+permalink: /Flows/FlowFields/builtin-vs-custom-field-definitions
 ---
 
 # Built-In vs. Custom Field Definitions

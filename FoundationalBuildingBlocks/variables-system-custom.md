@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Variables System & Custom Fields
+permalink: /FoundationalBuildingBlocks/variables-system-custom
 ---
 
 # Variables System & Custom Fields

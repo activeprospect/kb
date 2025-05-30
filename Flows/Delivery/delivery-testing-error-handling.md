@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Delivery Testing & Error Handling
+permalink: /Flows/Delivery/delivery-testing-error-handling
 ---
 
 # Delivery Testing & Error Handling

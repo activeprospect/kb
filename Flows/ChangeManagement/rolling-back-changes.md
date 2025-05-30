@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rolling Back Changes
+permalink: /Flows/ChangeManagement/rolling-back-changes
 ---
 
 # Rolling Back Changes

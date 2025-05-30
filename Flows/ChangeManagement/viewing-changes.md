@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Viewing Changes
+permalink: /Flows/ChangeManagement/viewing-changes
 ---
 
 # Viewing Changes

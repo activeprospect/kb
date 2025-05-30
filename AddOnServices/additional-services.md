@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Additional Services
+permalink: /AddOnServices/additional-services
 ---
 
 # Additional Services

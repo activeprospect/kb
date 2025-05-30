@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Delivery Monitoring & Metrics
+permalink: /Flows/Delivery/delivery-monitoring-metrics
 ---
 
 # Delivery Monitoring & Metrics

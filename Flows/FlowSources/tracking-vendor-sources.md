@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tracking Vendor Sources
+permalink: /Flows/FlowSources/tracking-vendor-sources
 ---
 
 # Tracking Vendor Sources

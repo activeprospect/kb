@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Managing Sellers and Submission Access
+permalink: /WorkingWithPartners/sellers
 ---
 
 # Managing Sellers and Submission Access

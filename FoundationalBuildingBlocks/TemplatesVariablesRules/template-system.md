@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Template System
+permalink: /FoundationalBuildingBlocks/TemplatesVariablesRules/template-system
 ---
 
 # Template System

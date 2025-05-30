@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What Lead Data Is Collected
+permalink: /Flows/FlowFields/what-lead-data-collected
 ---
 
 # What Lead Data Is Collected

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Handlebars Templates in LeadConduit
+permalink: /FoundationalBuildingBlocks/TemplatesVariablesRules/templates-handlebars
 ---
 
 # Handlebars Templates in LeadConduit

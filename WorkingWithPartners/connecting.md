@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Connecting with Partners
+permalink: /WorkingWithPartners/connecting
 ---
 
 # Connecting with Partners

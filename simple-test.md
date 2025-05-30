@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Simple Test
+permalink: /simple-test
 ---
 
 # Simple Test

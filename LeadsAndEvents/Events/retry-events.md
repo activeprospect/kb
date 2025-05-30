@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Retry Events
+permalink: /LeadsAndEvents/Events/retry-events
 ---
 
 # Retry Events

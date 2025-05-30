@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How to Use This Guide
+permalink: /Introduction/how-to-use-guide/
 ---
 
 # How to Use This Guide

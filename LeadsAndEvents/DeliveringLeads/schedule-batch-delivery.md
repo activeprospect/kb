@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule Batch Delivery
+permalink: /LeadsAndEvents/DeliveringLeads/schedule-batch-delivery
 ---
 
 # Schedule Batch Delivery

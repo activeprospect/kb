@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Support Resources
+permalink: /BestPracticesTroubleshooting/support-resources
 ---
 
 # Support Resources

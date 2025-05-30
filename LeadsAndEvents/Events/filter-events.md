@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Filter Events
+permalink: /LeadsAndEvents/Events/filter-events
 ---
 
 # Filter Events

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Templates & Handlebars
+permalink: /FoundationalBuildingBlocks/templates-handlebars
 ---
 
 # Templates & Handlebars

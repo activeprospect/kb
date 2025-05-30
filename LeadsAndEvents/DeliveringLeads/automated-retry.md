@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Automated Retry
+permalink: /LeadsAndEvents/DeliveringLeads/automated-retry
 ---
 
 # Automated Retry

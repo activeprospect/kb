@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Custom Field Creation
+permalink: /FoundationalBuildingBlocks/FieldsDataTypes/custom-field-creation
 ---
 
 # Custom Field Creation

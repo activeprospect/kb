@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Troubleshooting Quick Reference
+permalink: /Appendices/troubleshooting-quick-reference
 ---
 
 # Troubleshooting Quick Reference

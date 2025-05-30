@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Returns
+permalink: /Flows/Feedback/returns
 ---
 
 # Returns

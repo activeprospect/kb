@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Source-Level Acceptance Criteria (Rule-Based)
+permalink: /Flows/FlowSources/source-level-acceptance-criteria
 ---
 
 # Source-Level Acceptance Criteria (Rule-Based)

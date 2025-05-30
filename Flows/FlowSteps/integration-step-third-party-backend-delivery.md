@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Integration Step (Third-Party or Backend Delivery)
+permalink: /Flows/FlowSteps/integration-step-third-party-backend-delivery
 ---
 
 # Integration Step (Third-Party or Backend Delivery)

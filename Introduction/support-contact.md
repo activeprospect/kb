@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Support and Contact Information
+permalink: /Introduction/support-contact
 ---
 
 # Support and Contact Information

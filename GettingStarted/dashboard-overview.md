@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dashboard Overview
+permalink: /GettingStarted/dashboard-overview
 ---
 
 # Dashboard Overview

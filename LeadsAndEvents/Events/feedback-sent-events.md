@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Feedback-Sent Events
+permalink: /LeadsAndEvents/Events/feedback-sent-events
 ---
 
 # Feedback-Sent Events

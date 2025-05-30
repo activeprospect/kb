@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Manual Entry & CSV Import
+permalink: /LeadsAndEvents/SubmittingLeads/manual-entry-and-csv-import
 ---
 
 # Manual Entry & CSV Import

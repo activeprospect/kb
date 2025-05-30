@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Understanding LeadConduit
+permalink: /GettingStarted/understanding-leadconduit
 ---
 
 # Understanding LeadConduit

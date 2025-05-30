@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conversion
+permalink: /Flows/Feedback/conversion
 ---
 
 # Conversion

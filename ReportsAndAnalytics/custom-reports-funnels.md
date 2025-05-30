@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Custom Reports & Funnels
+permalink: /ReportsAndAnalytics/custom-reports-funnels
 ---
 
 # Custom Reports & Funnels

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mapping & Normalizing Lead Data
+permalink: /LeadsAndEvents/DeliveringLeads/mapping-normalizing-lead-data
 ---
 
 # Mapping & Normalizing Lead Data

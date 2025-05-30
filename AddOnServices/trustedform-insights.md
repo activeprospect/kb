@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TrustedForm Insights
+permalink: /AddOnServices/trustedform-insights
 ---
 
 # TrustedForm Insights

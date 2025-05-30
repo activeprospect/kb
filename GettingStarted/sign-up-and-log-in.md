@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sign Up & Log In
+permalink: /GettingStarted/sign-up-and-log-in
 ---
 
 # Sign Up & Log In

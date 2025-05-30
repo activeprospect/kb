@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Generic HTTP Integrations
+permalink: /LeadsAndEvents/DeliveringLeads/generic-http-integrations
 ---
 
 # Generic HTTP Integrations

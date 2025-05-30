@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Firehose (Real-Time Streaming)
+permalink: /LeadsAndEvents/firehose-real-time-streaming
 ---
 
 # Firehose (Real-Time Streaming)

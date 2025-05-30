@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CRM & Dialer Configuration
+permalink: /Flows/Delivery/crm-dialer-configuration
 ---
 
 # CRM & Dialer Configuration

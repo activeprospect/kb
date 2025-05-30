@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Manage & Search Leads
+permalink: /LeadsAndEvents/manage-search-leads
 ---
 
 # Manage & Search Leads

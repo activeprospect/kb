@@ -1,6 +1,7 @@
 ---
 layout: page
 title: API Submission
+permalink: /LeadsAndEvents/SubmittingLeads/api-submission
 ---
 
 # API Submission

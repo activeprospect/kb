@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Filter Step (Stopping Lead Flow)
+permalink: /Flows/FlowSteps/filter-step-stopping-lead-flow
 ---
 
 # Filter Step (Stopping Lead Flow)

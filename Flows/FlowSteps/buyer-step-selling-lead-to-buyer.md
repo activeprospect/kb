@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Buyer Step (Selling a Lead to a Buyer)
+permalink: /Flows/FlowSteps/buyer-step-selling-lead-to-buyer
 ---
 
 # Buyer Step (Selling a Lead to a Buyer)

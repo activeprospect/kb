@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ensuring Data Quality
+permalink: /BestPracticesTroubleshooting/ensuring-data-quality
 ---
 
 # Ensuring Data Quality

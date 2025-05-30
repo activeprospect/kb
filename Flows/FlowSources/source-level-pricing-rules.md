@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Source-Level Pricing Rules
+permalink: /Flows/FlowSources/source-level-pricing-rules
 ---
 
 # Source-Level Pricing Rules

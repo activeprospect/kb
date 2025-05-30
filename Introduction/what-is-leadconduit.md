@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What Is LeadConduit?
+permalink: /Introduction/what-is-leadconduit
 ---
 
 # What Is LeadConduit?

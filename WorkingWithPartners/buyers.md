@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Managing Buyers and Requirements
+permalink: /WorkingWithPartners/buyers
 ---
 
 # Managing Buyers and Requirements

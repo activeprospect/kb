@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Using Lead Data
+permalink: /LeadsAndEvents/QualifyingLeads/using-lead-data
 ---
 
 # Using Lead Data

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: API Reference
+permalink: /Appendices/api-reference
 ---
 
 # API Reference

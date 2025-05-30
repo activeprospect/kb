@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Require a Valid TrustedForm Cert
+permalink: /LeadsAndEvents/EnhancingLeads/trustedform-certification
 ---
 
 # Require a Valid TrustedForm Cert

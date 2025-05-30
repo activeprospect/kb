@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Scheduling & Sharing
+permalink: /ReportsAndAnalytics/scheduling-sharing
 ---
 
 # Scheduling & Sharing

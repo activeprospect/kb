@@ -1,6 +1,7 @@
 ---
 layout: page
 title: S3 Configuration
+permalink: /LeadsAndEvents/Firehose/s3-configuration
 ---
 
 # S3 Configuration

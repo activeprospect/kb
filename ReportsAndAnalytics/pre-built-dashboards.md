@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pre-Built Dashboards
+permalink: /ReportsAndAnalytics/pre-built-dashboards
 ---
 
 # Pre-Built Dashboards

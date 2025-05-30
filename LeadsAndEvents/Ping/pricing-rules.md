@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pricing (Rule-Based)
+permalink: /LeadsAndEvents/Ping/pricing-rules
 ---
 
 # Pricing (Rule-Based)

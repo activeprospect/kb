@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Key Benefits & Use Cases
+permalink: /Introduction/key-benefits-and-use-cases
 ---
 
 # Key Benefits & Use Cases

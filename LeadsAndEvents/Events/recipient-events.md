@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Recipient Events
+permalink: /LeadsAndEvents/Events/recipient-events
 ---
 
 # Recipient Events

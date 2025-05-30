@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Controlling Volume
+permalink: /LeadsAndEvents/DeliveringLeads/controlling-volume
 ---
 
 # Controlling Volume

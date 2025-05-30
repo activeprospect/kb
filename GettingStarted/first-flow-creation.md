@@ -1,6 +1,7 @@
 ---
 layout: page
 title: First Flow Creation
+permalink: /GettingStarted/first-flow-creation
 ---
 
 # First Flow Creation

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SuppressionList
+permalink: /AddOnServices/suppressionlist
 ---
 
 # SuppressionList

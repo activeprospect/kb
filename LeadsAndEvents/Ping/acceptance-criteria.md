@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acceptance Criteria (Rule-Based)
+permalink: /LeadsAndEvents/Ping/acceptance-criteria
 ---
 
 # Acceptance Criteria (Rule-Based)

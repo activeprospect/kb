@@ -1,6 +1,7 @@
 ---
 layout: page
 title: User Roles & Permissions
+permalink: /GettingStarted/user-roles-and-permissions
 ---
 
 # User Roles & Permissions

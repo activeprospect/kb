@@ -1,6 +1,7 @@
 ---
 layout: page
 title: API-Driven Delivery
+permalink: /LeadsAndEvents/DeliveringLeads/api-driven-delivery
 ---
 
 # API-Driven Delivery

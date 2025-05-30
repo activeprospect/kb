@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Duplicate Checking
+permalink: /LeadsAndEvents/QualifyingLeads/duplicate-checking
 ---
 
 # Duplicate Checking

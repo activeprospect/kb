@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Account Setup
+permalink: /GettingStarted/account-setup
 ---
 
 # Account Setup

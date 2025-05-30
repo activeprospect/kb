@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Enabling on a Flow
+permalink: /LeadsAndEvents/Firehose/enabling-on-flow
 ---
 
 # Enabling on a Flow

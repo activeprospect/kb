@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Validation and Normalization Rules
+permalink: /FoundationalBuildingBlocks/TemplatesVariablesRules/validation-normalization-rules
 ---
 
 # Validation and Normalization Rules

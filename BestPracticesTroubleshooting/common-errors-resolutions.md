@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Common Errors and Resolutions
+permalink: /BestPracticesTroubleshooting/common-errors-resolutions
 ---
 
 # Common Errors and Resolutions

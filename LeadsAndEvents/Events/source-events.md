@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Source Events
+permalink: /LeadsAndEvents/Events/source-events
 ---
 
 # Source Events

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Designing Maintainable Flows
+permalink: /BestPracticesTroubleshooting/designing-maintainable-flows
 ---
 
 # Designing Maintainable Flows

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Volume Caps (Rule-Based)
+permalink: /LeadsAndEvents/Ping/volume-caps
 ---
 
 # Volume Caps (Rule-Based)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Overview of Add-On Services
+permalink: /AddOnServices/overview-of-addons
 ---
 
 # Overview of Add-On Services

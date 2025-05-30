@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ping Limits
+permalink: /LeadsAndEvents/Ping/ping-limits
 ---
 
 # Ping Limits

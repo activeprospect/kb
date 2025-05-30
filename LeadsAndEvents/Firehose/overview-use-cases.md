@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Overview & Use Cases
+permalink: /LeadsAndEvents/Firehose/overview-use-cases
 ---
 
 # Overview & Use Cases

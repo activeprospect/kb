@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rules Engine Deep-Dive
+permalink: /FoundationalBuildingBlocks/TemplatesVariablesRules/rules-engine-deep-dive
 ---
 
 # Rules Engine Deep-Dive

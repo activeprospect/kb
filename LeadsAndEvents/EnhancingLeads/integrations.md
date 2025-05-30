@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Integrations
+permalink: /LeadsAndEvents/EnhancingLeads/integrations
 ---
 
 # Integrations

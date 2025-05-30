@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TrustedForm Decisions and Verify
+permalink: /AddOnServices/trustedform-decisions
 ---
 
 # TrustedForm Decisions and Verify

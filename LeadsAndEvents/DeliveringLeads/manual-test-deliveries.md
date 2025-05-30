@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Manual Test Deliveries
+permalink: /LeadsAndEvents/DeliveringLeads/manual-test-deliveries
 ---
 
 # Manual Test Deliveries

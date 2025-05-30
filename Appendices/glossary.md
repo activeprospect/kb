@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Glossary
+permalink: /Appendices/glossary
 ---
 
 # Glossary
