@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Welcome to the LeadConduit User Guide
-permalink: /Introduction/welcome
+layout: default
+title: Welcome
+parent: Introduction
+nav_order: 1
 ---
 
 # Welcome to the LeadConduit User Guide
