@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Core Concepts at a Glance
-permalink: /build/UserGuide/Introduction/core-concepts-at-a-glance/
+permalink: /Introduction/core-concepts-at-a-glance/
 ---
 
 # Core Concepts at a Glance

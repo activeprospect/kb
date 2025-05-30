@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to the LeadConduit User Guide
-permalink: /build/UserGuide/Introduction/welcome/
+permalink: /Introduction/welcome/
 ---
 
 # Welcome to the LeadConduit User Guide
@@ -13,7 +13,7 @@ Welcome to the comprehensive LeadConduit User Guide, your complete resource for 
 This user guide is designed to take you from initial setup through advanced optimization, with detailed coverage of every LeadConduit capability and real-world examples that help you apply platform features to your specific business needs.
 
 ### For New Users
-If you're just getting started with LeadConduit, begin with our [**Getting Started**]({{ site.baseurl }}/build/UserGuide/GettingStarted/) section, which walks you through account setup, creating your first flow, and understanding core concepts. These foundational topics provide the knowledge base you need to begin processing leads effectively.
+If you're just getting started with LeadConduit, begin with our [**Getting Started**]({{ site.baseurl }}/GettingStarted/) section, which walks you through account setup, creating your first flow, and understanding core concepts. These foundational topics provide the knowledge base you need to begin processing leads effectively.
 
 ### For Experienced Users
 Experienced users will find comprehensive documentation on advanced features, optimization strategies, best practices, and troubleshooting guidance that helps you maximize platform value and operational efficiency.
@@ -72,7 +72,7 @@ LeadConduit continues to evolve with new features and capabilities, and this gui
 While this guide provides comprehensive coverage of LeadConduit capabilities, you may occasionally need additional assistance or have questions about specific implementation scenarios.
 
 ### Support Resources
-ActiveProspect provides multiple support channels, including technical support, account management, and community resources. The [**Support Resources**]({{ site.baseurl }}/build/UserGuide/Introduction/support-contact) section of this guide provides complete information about accessing help when you need it.
+ActiveProspect provides multiple support channels, including technical support, account management, and community resources. The [**Support Resources**]({{ site.baseurl }}/Introduction/support-contact) section of this guide provides complete information about accessing help when you need it.
 
 ### Community Knowledge
 The LeadConduit user community is an excellent resource for practical insights, implementation ideas, and collaborative problem-solving. Many users share their experiences and discoveries through community channels.
