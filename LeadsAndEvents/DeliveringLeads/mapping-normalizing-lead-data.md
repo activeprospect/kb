@@ -85,11 +85,11 @@ Direct Mapping Examples:
 **Template Syntax:**
 ```
 Template Mapping Examples:
-├── Full Name: "{{lead.first_name}} {{lead.last_name}}"
-├── Address: "{{lead.address}}, {{lead.city}}, {{lead.state}} {{lead.zip}}"
-├── Lead Score: "{{lead.quality_score + lead.value_score}}"
-├── Campaign ID: "{{source.name}}_{{submission.date.format('YYYYMM')}}"
-└── Priority: "{{lead.value >= 1000 ? 'High' : 'Standard'}}"
+├── Full Name: "{% raw %}{{lead.first_name}} {{lead.last_name}}{% endraw %}"
+├── Address: "{% raw %}{{lead.address}}, {{lead.city}}, {{lead.state}} {{lead.zip}}{% endraw %}"
+├── Lead Score: "{% raw %}{{lead.quality_score + lead.value_score}}{% endraw %}"
+├── Campaign ID: "{% raw %}{{source.name}}_{{submission.date.format('YYYYMM')}}{% endraw %}"
+└── Priority: "{% raw %}{{lead.value >= 1000 ? 'High' : 'Standard'}}{% endraw %}"
 ```
 
 **Conditional Logic:**
@@ -115,20 +115,20 @@ Conditional Mapping Examples:
 Nested Object Example:
 {
   "contact": {
-    "name": "{{lead.first_name}} {{lead.last_name}}",
-    "email": "{{lead.email}}",
-    "phone": "{{lead.phone}}"
+    "name": "{% raw %}{{lead.first_name}} {{lead.last_name}}{% endraw %}",
+    "email": "{% raw %}{{lead.email}}{% endraw %}",
+    "phone": "{% raw %}{{lead.phone}}{% endraw %}"
   },
   "location": {
-    "address": "{{lead.address}}",
-    "city": "{{lead.city}}",
-    "state": "{{lead.state}}",
-    "zip": "{{lead.zip}}"
+    "address": "{% raw %}{{lead.address}}{% endraw %}",
+    "city": "{% raw %}{{lead.city}}{% endraw %}",
+    "state": "{% raw %}{{lead.state}}{% endraw %}",
+    "zip": "{% raw %}{{lead.zip}}{% endraw %}"
   },
   "metadata": {
-    "source": "{{source.name}}",
-    "campaign": "{{source.campaign}}",
-    "created": "{{submission.timestamp}}"
+    "source": "{% raw %}{{source.name}}{% endraw %}",
+    "campaign": "{% raw %}{{source.campaign}}{% endraw %}",
+    "created": "{% raw %}{{submission.timestamp}}{% endraw %}"
   }
 }
 ```
@@ -282,10 +282,10 @@ Boolean Conversion:
 **Basic Variable Substitution:**
 ```
 Template Examples:
-├── {{lead.first_name}} - Simple field reference
-├── {{lead.email | lower}} - Apply filter function
-├── {{#if lead.phone}}{{lead.phone}}{{/if}} - Conditional output
-└── {{submission.timestamp | date 'MM/DD/YYYY'}} - Date formatting
+├── {% raw %}{{lead.first_name}}{% endraw %} - Simple field reference
+├── {% raw %}{{lead.email | lower}}{% endraw %} - Apply filter function
+├── {% raw %}{{#if lead.phone}}{{lead.phone}}{{/if}}{% endraw %} - Conditional output
+└── {% raw %}{{submission.timestamp | date 'MM/DD/YYYY'}}{% endraw %} - Date formatting
 ```
 
 **Built-in Helper Functions:**
@@ -299,11 +299,11 @@ Template Examples:
 **Data Transformation Functions:**
 ```
 Custom Function Examples:
-├── {{lead.phone | formatPhone}} - Custom phone formatting
-├── {{lead.name | titleCase}} - Custom capitalization
-├── {{lead.state | stateCode}} - State name to code conversion
-├── {{lead.income | formatCurrency}} - Currency formatting
-└── {{submission.timestamp | businessHours}} - Business time check
+├── {% raw %}{{lead.phone | formatPhone}}{% endraw %} - Custom phone formatting
+├── {% raw %}{{lead.name | titleCase}}{% endraw %} - Custom capitalization
+├── {% raw %}{{lead.state | stateCode}}{% endraw %} - State name to code conversion
+├── {% raw %}{{lead.income | formatCurrency}}{% endraw %} - Currency formatting
+└── {% raw %}{{submission.timestamp | businessHours}}{% endraw %} - Business time check
 ```
 
 **Validation Functions:**
@@ -317,10 +317,10 @@ Custom Function Examples:
 **Conditional Data Assignment:**
 ```
 Advanced Conditional Examples:
-├── {{#if (gte lead.age 65)}}Senior{{else}}Standard{{/if}}
-├── {{#switch lead.state}}{{#case 'CA'}}West{{/case}}{{#case 'NY'}}East{{/case}}{{/switch}}
-├── {{#unless lead.phone}}Email Only{{/unless}}
-└── {{#with lead.address}}{{street}}, {{city}}, {{state}}{{/with}}
+├── {% raw %}{{#if (gte lead.age 65)}}Senior{{else}}Standard{{/if}}{% endraw %}
+├── {% raw %}{{#switch lead.state}}{{#case 'CA'}}West{{/case}}{{#case 'NY'}}East{{/case}}{{/switch}}{% endraw %}
+├── {% raw %}{{#unless lead.phone}}Email Only{{/unless}}{% endraw %}
+└── {% raw %}{{#with lead.address}}{{street}}, {{city}}, {{state}}{{/with}}{% endraw %}
 ```
 
 **Data Aggregation:**

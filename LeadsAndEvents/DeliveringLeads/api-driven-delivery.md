@@ -125,10 +125,10 @@ Field Mapping Examples:
 **Dynamic Value Generation:**
 ```
 Template Mapping Examples:
-├── Full Name: "{{lead.first_name}} {{lead.last_name}}"
-├── Lead Score: "{{lead.base_score + lead.quality_bonus}}"
-├── Campaign ID: "{{source.name}}_{{submission.date.format('YYYYMM')}}"
-└── Priority: "{{lead.value >= 1000 ? 'High' : 'Standard'}}"
+├── Full Name: "{% raw %}{{lead.first_name}} {{lead.last_name}}{% endraw %}"
+├── Lead Score: "{% raw %}{{lead.base_score + lead.quality_bonus}}{% endraw %}"
+├── Campaign ID: "{% raw %}{{source.name}}_{{submission.date.format('YYYYMM')}}{% endraw %}"
+└── Priority: "{% raw %}{{lead.value >= 1000 ? 'High' : 'Standard'}}{% endraw %}"
 ```
 
 **Conditional Mapping:**
@@ -143,11 +143,11 @@ Conditional Field Assignment:
 **Advanced Template Functions:**
 ```
 Template Function Examples:
-├── Date formatting: {{submission.timestamp.format('MM/DD/YYYY')}}
-├── String manipulation: {{lead.email.split('@')[1]}}
-├── Mathematical operations: {{lead.monthly_income * 12}}
-├── Conditional logic: {{lead.homeowner == 'yes' ? 'Owner' : 'Renter'}}
-└── Data validation: {{lead.email.isValidEmail() ? lead.email : 'invalid'}}
+├── Date formatting: {% raw %}{{submission.timestamp.format('MM/DD/YYYY')}}{% endraw %}
+├── String manipulation: {% raw %}{{lead.email.split('@')[1]}}{% endraw %}
+├── Mathematical operations: {% raw %}{{lead.monthly_income * 12}}{% endraw %}
+├── Conditional logic: {% raw %}{{lead.homeowner == 'yes' ? 'Owner' : 'Renter'}}{% endraw %}
+└── Data validation: {% raw %}{{lead.email.isValidEmail() ? lead.email : 'invalid'}}{% endraw %}
 ```
 
 ## Authentication and Security

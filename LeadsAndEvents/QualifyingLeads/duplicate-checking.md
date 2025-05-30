@@ -126,7 +126,7 @@ Time-Based Rules:
 **Filter Rule Example:**
 ```
 Duplicate Check Filter:
-├── Rule: {{lead.email}} has been seen in last 24 hours
+├── Rule: {% raw %}{{lead.email}}{% endraw %} has been seen in last 24 hours
 ├── Outcome: failure
 ├── Reason: "Duplicate lead detected"
 └── Action: Stop processing, return failure response
@@ -160,14 +160,14 @@ Custom Duplicate Rules:
 **Advanced Template Logic:**
 ```
 // Complex duplicate detection template
-{{
+{% raw %}{{
   (lead.email.toLowerCase() == previous.email.toLowerCase()) ||
   (
     lead.phone.replace(/\D/g, '') == previous.phone.replace(/\D/g, '') &&
     lead.first_name.toLowerCase() == previous.first_name.toLowerCase() &&
     lead.last_name.toLowerCase() == previous.last_name.toLowerCase()
   )
-}}
+}}{% endraw %}
 ```
 
 ## Configuration Strategies

@@ -67,9 +67,9 @@ Basic HTTP Setup:
 ```
 URL Template Examples:
 ├── Static: https://api.recipient.com/leads
-├── Dynamic: https://api.recipient.com/{{source.campaign}}/leads
-├── Path Params: https://api.recipient.com/leads/{{lead.id}}
-└── Query Params: https://api.recipient.com/leads?source={{source.name}}
+├── Dynamic: https://api.recipient.com/{% raw %}{{source.campaign}}{% endraw %}/leads
+├── Path Params: https://api.recipient.com/leads/{% raw %}{{lead.id}}{% endraw %}
+└── Query Params: https://api.recipient.com/leads?source={% raw %}{{source.name}}{% endraw %}
 ```
 
 ### HTTP Headers Configuration
@@ -100,11 +100,11 @@ Authentication Header Examples:
 **Form Data (POST):**
 ```
 Form Data Example:
-first_name={{lead.first_name}}&
-last_name={{lead.last_name}}&
-email={{lead.email}}&
-phone={{lead.phone}}&
-state={{lead.state}}
+first_name={% raw %}{{lead.first_name}}{% endraw %}&
+last_name={% raw %}{{lead.last_name}}{% endraw %}&
+email={% raw %}{{lead.email}}{% endraw %}&
+phone={% raw %}{{lead.phone}}{% endraw %}&
+state={% raw %}{{lead.state}}{% endraw %}
 ```
 
 **JSON Payload:**
@@ -112,16 +112,16 @@ state={{lead.state}}
 JSON Payload Example:
 {
   "contact": {
-    "firstName": "{{lead.first_name}}",
-    "lastName": "{{lead.last_name}}",
-    "email": "{{lead.email}}",
-    "phone": "{{lead.phone}}"
+    "firstName": "{% raw %}{{lead.first_name}}{% endraw %}",
+    "lastName": "{% raw %}{{lead.last_name}}{% endraw %}",
+    "email": "{% raw %}{{lead.email}}{% endraw %}",
+    "phone": "{% raw %}{{lead.phone}}{% endraw %}"
   },
   "lead": {
-    "source": "{{source.name}}",
-    "campaign": "{{source.campaign}}",
-    "value": {{lead.value}},
-    "created": "{{submission.timestamp}}"
+    "source": "{% raw %}{{source.name}}{% endraw %}",
+    "campaign": "{% raw %}{{source.campaign}}{% endraw %}",
+    "value": {% raw %}{{lead.value}}{% endraw %},
+    "created": "{% raw %}{{submission.timestamp}}{% endraw %}"
   }
 }
 ```
@@ -131,15 +131,15 @@ JSON Payload Example:
 XML Payload Example:
 <lead>
   <contact>
-    <firstName>{{lead.first_name}}</firstName>
-    <lastName>{{lead.last_name}}</lastName>
-    <email>{{lead.email}}</email>
-    <phone>{{lead.phone}}</phone>
+    <firstName>{% raw %}{{lead.first_name}}{% endraw %}</firstName>
+    <lastName>{% raw %}{{lead.last_name}}{% endraw %}</lastName>
+    <email>{% raw %}{{lead.email}}{% endraw %}</email>
+    <phone>{% raw %}{{lead.phone}}{% endraw %}</phone>
   </contact>
   <metadata>
-    <source>{{source.name}}</source>
-    <campaign>{{source.campaign}}</campaign>
-    <timestamp>{{submission.timestamp}}</timestamp>
+    <source>{% raw %}{{source.name}}{% endraw %}</source>
+    <campaign>{% raw %}{{source.campaign}}{% endraw %}</campaign>
+    <timestamp>{% raw %}{{submission.timestamp}}{% endraw %}</timestamp>
   </metadata>
 </lead>
 ```
@@ -163,10 +163,10 @@ XML Payload Example:
 **API Key Configuration:**
 ```
 API Key Methods:
-├── Header: Authorization: Bearer {{api_key}}
-├── Custom Header: X-API-Key: {{api_key}}
-├── Query Parameter: ?api_key={{api_key}}
-└── Body Parameter: {"api_key": "{{api_key}}"}
+├── Header: Authorization: Bearer {% raw %}{{api_key}}{% endraw %}
+├── Custom Header: X-API-Key: {% raw %}{{api_key}}{% endraw %}
+├── Query Parameter: ?api_key={% raw %}{{api_key}}{% endraw %}
+└── Body Parameter: {"api_key": "{% raw %}{{api_key}}{% endraw %}"}
 ```
 
 ### OAuth Integration
@@ -217,10 +217,10 @@ Basic Auth Setup:
 **Custom Authentication Examples:**
 ```
 Custom Auth Methods:
-├── Bearer: Authorization: Bearer {{token}}
-├── JWT: Authorization: Bearer {{jwt_token}}
-├── HMAC: X-Signature: {{hmac_signature}}
-└── Custom: X-Auth-Token: {{custom_token}}
+├── Bearer: Authorization: Bearer {% raw %}{{token}}{% endraw %}
+├── JWT: Authorization: Bearer {% raw %}{{jwt_token}}{% endraw %}
+├── HMAC: X-Signature: {% raw %}{{hmac_signature}}{% endraw %}
+└── Custom: X-Auth-Token: {% raw %}{{custom_token}}{% endraw %}
 ```
 
 ## Response Handling
@@ -297,8 +297,8 @@ Error Handling Strategy:
 **Conditional Examples:**
 ```
 Conditional Integration:
-├── URL: {{#if lead.premium}}premium-api{{else}}standard-api{{/if}}.com/leads
-├── Headers: {{#if lead.urgent}}X-Priority: High{{/if}}
+├── URL: {% raw %}{{#if lead.premium}}premium-api{{else}}standard-api{{/if}}{% endraw %}.com/leads
+├── Headers: {% raw %}{{#if lead.urgent}}X-Priority: High{{/if}}{% endraw %}
 ├── Payload: Include additional fields for high-value leads
 └── Authentication: Different credentials for different lead types
 ```
@@ -445,12 +445,12 @@ Headers:
 
 Payload:
 {
-  "first_name": "{{lead.first_name}}",
-  "last_name": "{{lead.last_name}}",
-  "email": "{{lead.email}}",
-  "phone": "{{lead.phone}}",
-  "source": "{{source.name}}",
-  "campaign_id": "{{source.campaign}}"
+  "first_name": "{% raw %}{{lead.first_name}}{% endraw %}",
+  "last_name": "{% raw %}{{lead.last_name}}{% endraw %}",
+  "email": "{% raw %}{{lead.email}}{% endraw %}",
+  "phone": "{% raw %}{{lead.phone}}{% endraw %}",
+  "source": "{% raw %}{{source.name}}{% endraw %}",
+  "campaign_id": "{% raw %}{{source.campaign}}{% endraw %}"
 }
 ```
 
@@ -467,13 +467,13 @@ Headers:
 Payload:
 {
   "event": "lead.created",
-  "timestamp": "{{submission.timestamp}}",
+  "timestamp": "{% raw %}{{submission.timestamp}}{% endraw %}",
   "lead": {
-    "id": "{{lead.id}}",
+    "id": "{% raw %}{{lead.id}}{% endraw %}",
     "contact": {
-      "name": "{{lead.first_name}} {{lead.last_name}}",
-      "email": "{{lead.email}}",
-      "phone": "{{lead.phone}}"
+      "name": "{% raw %}{{lead.first_name}} {{lead.last_name}}{% endraw %}",
+      "email": "{% raw %}{{lead.email}}{% endraw %}",
+      "phone": "{% raw %}{{lead.phone}}{% endraw %}"
     }
   }
 }
@@ -493,10 +493,10 @@ Payload:
 <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
   <soap:Body>
     <CreateLead>
-      <FirstName>{{lead.first_name}}</FirstName>
-      <LastName>{{lead.last_name}}</LastName>
-      <Email>{{lead.email}}</Email>
-      <Phone>{{lead.phone}}</Phone>
+      <FirstName>{% raw %}{{lead.first_name}}{% endraw %}</FirstName>
+      <LastName>{% raw %}{{lead.last_name}}{% endraw %}</LastName>
+      <Email>{% raw %}{{lead.email}}{% endraw %}</Email>
+      <Phone>{% raw %}{{lead.phone}}{% endraw %}</Phone>
     </CreateLead>
   </soap:Body>
 </soap:Envelope>

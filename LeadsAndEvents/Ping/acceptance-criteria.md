@@ -268,7 +268,7 @@ Advanced Acceptance Scenarios:
 ```
 Dynamic Rule Examples:
 ├── Market-Responsive Pricing:
-│   ├── Template: {{market_demand >= 'high' ? 6.5 : 7.5}}
+│   ├── Template: {% raw %}{{market_demand >= 'high' ? 6.5 : 7.5}}{% endraw %}
 │   ├── Variable: lead_score >= {{calculated_threshold}}
 │   ├── Context: Real-time market conditions
 │   └── Update: Every 15 minutes
