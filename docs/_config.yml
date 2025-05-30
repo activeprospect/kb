@@ -1,0 +1,53 @@
+# LeadConduit User Guide Configuration
+title: LeadConduit User Guide
+description: Comprehensive documentation for LeadConduit lead management platform
+baseurl: ""
+url: "https://reimagined-potato-jngm138.pages.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme
+theme: minima
+
+# Default settings for documentation
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude files from processing
+exclude:
+  - bin/
+  - build/
+  - data/
+  - context/
+  - content/
+  - openapi/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - "*.gemspec"
+  - README.md
+  - whythisissofucked.md
+  - howimgoingtofixitimmediately.md
+
+# SEO settings
+author: ActiveProspect
+
+# Social links
+social:
+  name: ActiveProspect
+  links:
+    - https://twitter.com/activeprospect
+    - https://github.com/activeprospect
