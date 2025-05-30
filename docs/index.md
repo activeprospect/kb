@@ -59,4 +59,6 @@ Optimize your setup and resolve common issues.
 
 ---
 
-*This documentation is actively maintained and updated. Last updated: {{ site.time | date: "%B %d, %Y" }}*
+*This documentation is actively maintained and updated. Last updated: {{ site.time | date: "%B %d, %Y at %H:%M:%S UTC" }}*
+
+<!-- Build timestamp: 2025-05-30 17:45:00 UTC -->
