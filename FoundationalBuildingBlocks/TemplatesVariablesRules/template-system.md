@@ -196,7 +196,7 @@ Template Syntax Elements:
 ├── Conditional Syntax:
 │   ├── If Statements: {% if condition %} content {% endif %}
 │   ├── If-Else: {% if condition %} content {% else %} alternative {% endif %}
-│   ├── Elif Chains: {% if condition1 %} content1 {% elif condition2 %} content2 {% endif %}
+│   ├── Elsif Chains: {% if condition1 %} content1 {% elsif condition2 %} content2 {% endif %}
 │   ├── Unless: {% unless condition %} content {% endunless %}
 │   └── Case Statements: {% case variable %} {% when value %} content {% endcase %}
 ├── Loop Syntax:

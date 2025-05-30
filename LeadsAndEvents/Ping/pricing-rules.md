@@ -153,22 +153,22 @@ Dynamic Pricing Framework:
 ```
 Advanced Dynamic Rules:
 ├── Market Intelligence Template:
-│   ├── Rule: price = {{base_price * market_multiplier[state][hour]}}
+│   ├── Rule: price = {% raw %}{{base_price * market_multiplier[state][hour]}}{% endraw %}
 │   ├── Variables: Real-time market demand data
 │   ├── Update: Every 15 minutes
 │   └── Fallback: base_price if data unavailable
 ├── Performance Optimization Template:
-│   ├── Rule: price = {{roi_optimized_price[source_id][quality_tier]}}
+│   ├── Rule: price = {% raw %}{{roi_optimized_price[source_id][quality_tier]}}{% endraw %}
 │   ├── Variables: Historical conversion and ROI data
 │   ├── Update: Daily recalculation
 │   └── Fallback: quality_tier_price if no history
 ├── Competitive Response Template:
-│   ├── Rule: price = {{competitor_response[market_segment]}}
+│   ├── Rule: price = {% raw %}{{competitor_response[market_segment]}}{% endraw %}
 │   ├── Variables: Real-time competitive intelligence
 │   ├── Update: Hourly market analysis
 │   └── Fallback: standard_competitive_price
 └── Seasonal Adjustment Template:
-    ├── Rule: price = {{seasonal_price[month][product][geography]}}
+    ├── Rule: price = {% raw %}{{seasonal_price[month][product][geography]}}{% endraw %}
     ├── Variables: Historical seasonal performance
     ├── Update: Monthly pattern analysis
     └── Fallback: annual_average_price
