@@ -201,7 +201,7 @@ Template Syntax Elements:
 │   └── Case Statements: {% case variable %} {% when value %} content {% endcase %}
 ├── Loop Syntax:
 │   ├── For Loops: {% for item in collection %} content {% endfor %}
-│   ├── While Loops: {% while condition %} content {% endwhile %}
+│   ├── While Loops: (Not supported in Jekyll/Liquid)
 │   ├── Range Loops: {% for i in (1..10) %} content {% endfor %}
 │   ├── Break/Continue: {% break %} and {% continue %}
 │   └── Loop Variables: {{ forloop.index }}, {{ forloop.first }}
@@ -212,11 +212,11 @@ Template Syntax Elements:
 │   ├── Custom Functions: {{ variable | custom_function }}
 │   └── Math Functions: {{ number | plus: 5 | minus: 2 }}
 └── Advanced Syntax:
-    ├── Comments: {# This is a comment #}
-    ├── Includes: {% include 'template_name' %}
-    ├── Extends: {% extends 'base_template' %}
-    ├── Blocks: {% block block_name %} content {% endblock %}
-    └── Macros: {% macro macro_name(parameters) %} content {% endmacro %}
+    ├── Comments: {% comment %} This is a comment {% endcomment %}
+    ├── Includes: {% include template_name %}
+    ├── Extends: (Not supported in Jekyll/Liquid)
+    ├── Blocks: (Not supported in Jekyll/Liquid)
+    └── Macros: (Not supported in Jekyll/Liquid)
 ```
 
 ### Data Context
