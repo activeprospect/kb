@@ -17,23 +17,12 @@ theme: minima
 
 # Navigation structure
 header_pages:
-  - docs/index.md
-
-# Collections for documentation
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:name/
+  - index.md
 
 # Default settings for documentation
 defaults:
   - scope:
-      path: "docs"
-      type: "pages"
-    values:
-      layout: "page"
-  - scope:
-      path: "build"
+      path: ""
       type: "pages"
     values:
       layout: "page"
@@ -41,6 +30,7 @@ defaults:
 # Exclude files from processing
 exclude:
   - bin/
+  - build/
   - data/
   - context/
   - content/
@@ -55,9 +45,8 @@ exclude:
   - "*.gemspec"
   - README.md
 
-# Include the build directory
-include:
-  - build/
+# Include only necessary directories
+include: []
 
 # Kramdown settings
 kramdown:
