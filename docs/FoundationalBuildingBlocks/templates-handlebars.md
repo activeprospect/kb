@@ -37,6 +37,7 @@ LeadConduit's templating system powered by Handlebars provides dynamic content g
 
 **Core Handlebars Syntax:**
 ```handlebars
+{% raw %}
 <!-- Basic variable access -->
 {{lead.first_name}}              <!-- Simple field interpolation -->
 {{lead.email}}                   <!-- Email field value -->
@@ -52,6 +53,7 @@ LeadConduit's templating system powered by Handlebars provides dynamic content g
 {{lead.phone_numbers.[0]}}       <!-- First element access -->
 {{lead.tags.[last]}}             <!-- Last element access -->
 {{lead.history.length}}          <!-- Array length property -->
+{% endraw %}
 ```
 
 **String Interpolation and Concatenation:**
@@ -112,6 +114,7 @@ https://{{domain.name}}/profile/{{lead.id}}?source={{source.id}}&campaign={{camp
 
 **String Manipulation Functions:**
 ```handlebars
+{% raw %}
 <!-- Case conversion -->
 {{upper(lead.first_name)}}           <!-- Uppercase conversion -->
 {{lower(lead.email)}}                <!-- Lowercase conversion -->
@@ -128,10 +131,12 @@ https://{{domain.name}}/profile/{{lead.id}}?source={{source.id}}&campaign={{camp
 {{starts_with(lead.phone, '+1')}}    <!-- Starts with validation -->
 {{ends_with(lead.email, '.com')}}    <!-- Ends with validation -->
 {{matches(lead.phone, '^\\d{10}$')}} <!-- Regex pattern matching -->
+{% endraw %}
 ```
 
 **Mathematical Functions:**
 ```handlebars
+{% raw %}
 <!-- Basic arithmetic -->
 {{add(lead.base_price, lead.taxes)}} <!-- Addition -->
 {{subtract(lead.budget, lead.down_payment)}} <!-- Subtraction -->
@@ -148,10 +153,12 @@ https://{{domain.name}}/profile/{{lead.id}}?source={{source.id}}&campaign={{camp
 <!-- Statistical functions -->
 {{avg(lead.monthly_income, lead.spouse_income)}} <!-- Average -->
 {{sum(lead.expense1, lead.expense2, lead.expense3)}} <!-- Sum -->
+{% endraw %}
 ```
 
 **Date and Time Functions:**
 ```handlebars
+{% raw %}
 <!-- Current date and time -->
 {{now()}}                            <!-- Current timestamp -->
 {{today()}}                          <!-- Current date -->
@@ -172,6 +179,7 @@ https://{{domain.name}}/profile/{{lead.id}}?source={{source.id}}&campaign={{camp
 {{days_between(lead.created_at, now())}} <!-- Days difference -->
 {{age_from_birthdate(lead.birth_date)}}  <!-- Age calculation -->
 {{business_days_add(now(), 5)}}          <!-- Business day calculation -->
+{% endraw %}
 ```
 
 ## Advanced Template Patterns
