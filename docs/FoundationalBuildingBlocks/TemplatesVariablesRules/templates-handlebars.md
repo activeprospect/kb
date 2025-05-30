@@ -115,6 +115,7 @@ Template Processing Pipeline:
 
 **Text Processing and Formatting:**
 ```handlebars
+{% raw %}
 {{lead.first_name.toUpperCase()}}                    // "JOHN"
 {{lead.last_name.toLowerCase()}}                     // "smith"
 {{lead.email.replace("@old.com", "@new.com")}}      // Email domain replacement
@@ -122,6 +123,7 @@ Template Processing Pipeline:
 {{lead.description.substring(0, 100)}}              // First 100 characters
 {{lead.city.trim()}}                                 // Remove whitespace
 {{lead.name.split(" ")[0]}}                         // First word only
+{% endraw %}
 ```
 
 **String Building and Concatenation:**
@@ -213,18 +215,22 @@ Template Processing Pipeline:
 
 **Field Validation Templates:**
 ```handlebars
+{% raw %}
 {{lead.email.match(/^[^\s@]+@[^\s@]+\.[^\s@]+$/) ? 'Valid' : 'Invalid'}}        // Email validation
 {{lead.phone.replace(/[^\d]/g, '').length >= 10 ? 'Valid' : 'Invalid'}}         // Phone validation
 {{lead.zip_code.match(/^\d{5}(-\d{4})?$/) ? 'Valid' : 'Invalid'}}               // ZIP code validation
 {{lead.age >= 18 && lead.age <= 120 ? 'Valid' : 'Invalid'}}                     // Age range validation
+{% endraw %}
 ```
 
 **Data Standardization Templates:**
 ```handlebars
+{% raw %}
 {{lead.state.toUpperCase().substring(0, 2)}}                                     // State abbreviation
 {{lead.phone.replace(/[^\d]/g, '').replace(/(\d{3})(\d{3})(\d{4})/, '($1) $2-$3')}}  // Phone formatting
 {{lead.email.toLowerCase().trim()}}                                              // Email normalization
 {{lead.name.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ')}}  // Title case
+{% endraw %}
 ```
 
 ### Business Logic Implementation
@@ -288,6 +294,7 @@ Template Processing Pipeline:
 
 **Rule Value Templates:**
 ```handlebars
+{% raw %}
 // Left-hand rule values (what you're testing)
 {{lead.calculated_score}}                                                       // Dynamic score calculation
 {{lead.age + lead.experience_years}}                                            // Combined metrics
@@ -298,13 +305,16 @@ Template Processing Pipeline:
 {{recipient.minimum_score}}                                                     // Dynamic threshold
 {{Math.floor(lead.income / 12)}}                                               // Monthly income calculation
 {{new Date().subtract(30, 'days').format('YYYY-MM-DD')}}                      // 30 days ago
+{% endraw %}
 ```
 
 **Complex Rule Expressions:**
 ```handlebars
+{% raw %}
 {{(lead.credit_score * 0.4) + (lead.income / 1000 * 0.3) + (lead.age * 0.3)}} // Weighted scoring
 {{lead.utm_source == 'google' && lead.utm_medium == 'cpc' ? 100 : 50}}        // Campaign-based scoring
-{{lead.phone ? 10 : 0) + (lead.email ? 15 : 0) + (lead.address ? 5 : 0)}}     // Contact completeness score
+{{(lead.phone ? 10 : 0) + (lead.email ? 15 : 0) + (lead.address ? 5 : 0)}}     // Contact completeness score
+{% endraw %}
 ```
 
 ### Field Mappings and Transformations

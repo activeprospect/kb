@@ -149,7 +149,7 @@ This project uses a sophisticated coordination system that enables multiple AI h
 ### **⚡ Quick Start for New Session**
 
 1. **Identify your role** (Leader or Helper) from session instructions
-2. **Read the appropriate prompt file** (`doc_leader_prompt.md` or `doc_helper_prompt.md`)
+2. **Read the appropriate prompt file** (`context/doc_leader_prompt.md` or `context/doc_helper_prompt.md`)
 3. **Check the assignment board** (`context/assignment-board.md`) for current status
 4. **Follow your role's workflow** to contribute to the project
 
