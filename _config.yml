@@ -1,0 +1,84 @@
+# LeadConduit User Guide Configuration
+title: LeadConduit User Guide
+description: Comprehensive documentation for LeadConduit lead management platform
+baseurl: "/kb"
+url: "https://activeprospect.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Theme
+theme: minima
+
+# Navigation structure
+header_pages:
+  - docs/index.md
+
+# Collections for documentation
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Default settings for documentation
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "build/UserGuide"
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude files from processing
+exclude:
+  - bin/
+  - data/
+  - context/
+  - content/
+  - openapi/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - "*.gemspec"
+  - README.md
+
+# Include the build directory
+include:
+  - build/
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+
+# SEO settings
+author: ActiveProspect
+twitter:
+  username: activeprospect
+  card: summary
+
+# Social links
+social:
+  name: ActiveProspect
+  links:
+    - https://twitter.com/activeprospect
+    - https://github.com/activeprospect
