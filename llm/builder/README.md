@@ -4,6 +4,8 @@
 
 This directory contains the coordination system for AI assistants working on documentation projects. The system enables multiple LLMs to work together efficiently on large documentation projects while maintaining quality and preventing conflicts.
 
+**Note:** This is specifically for the **documentation builder** role. For other LLM roles in this project, see the parent `llm/` directory.
+
 ## 🏗️ **Builder Roles**
 
 ### **Documentation Leader**

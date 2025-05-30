@@ -31,17 +31,20 @@ kb/
 │   └── whatsnew.csv            # Exported release notes and announcements
 ├── docs/                       # Generated documentation artifacts (created during build)
 ├── llm/                        # AI coordination system
-│   └── builder/                # Documentation builder coordination
-│       ├── README.md           # Builder system overview
-│       ├── role.md             # General builder instructions
-│       ├── brain.md            # Cross-role knowledge base
-│       ├── assignment-board.md # Project coordination hub
-│       ├── leader/             # Leader-specific files
-│       │   ├── role.md         # Leadership protocols
-│       │   └── brain.md        # Leadership insights
-│       └── helper/             # Helper-specific files
-│           ├── role.md         # Helper protocols
-│           └── brain.md        # Helper best practices
+│   ├── README.md               # LLM role selection guide
+│   ├── builder/                # Documentation builder coordination
+│   │   ├── README.md           # Builder system overview
+│   │   ├── role.md             # General builder instructions
+│   │   ├── brain.md            # Cross-role knowledge base
+│   │   ├── assignment-board.md # Project coordination hub
+│   │   ├── leader/             # Leader-specific files
+│   │   │   ├── role.md         # Leadership protocols
+│   │   │   └── brain.md        # Leadership insights
+│   │   └── helper/             # Helper-specific files
+│   │       ├── role.md         # Helper protocols
+│   │       └── brain.md        # Helper best practices
+│   └── modeler/                # Data model analysis role
+│       └── role.md             # Model analysis instructions
 └── openapi/                     # API documentation
     └── openapi.yaml
 ```
@@ -115,32 +118,37 @@ Before working on documentation generation, always review:
 - **Build output**: Final documentation in `build/` (generated artifacts)
 - **Scripts**: Automation tools in `bin/`
 
-## 🚀 **AI Documentation Builder System**
+## 🚀 **AI Coordination System**
 
-This project includes a sophisticated coordination system that enables multiple AI assistants to work together on documentation projects. The system provides structured roles, quality standards, and coordination protocols for efficient collaborative documentation building.
+This project includes a sophisticated coordination system that enables multiple AI assistants to work together on different aspects of the knowledge base project. The system provides structured roles, quality standards, and coordination protocols for efficient collaborative work.
 
-### **📋 For AI Documentation Builders**
+### **📋 For AI Assistants**
 
-**Important:** If you are an AI assistant working on documentation for this project, please refer to:
+**Important:** If you are an AI assistant working on this project, please refer to:
 
-🎯 **`./llm/builder/`** - Complete coordination system with role-based instructions
+🎯 **`./llm/`** - Complete coordination system with role-based instructions
 
 **Quick Start:**
-1. **Read** `./llm/builder/README.md` for system overview
-2. **Choose your role** (Leader or Helper) based on project needs  
-3. **Follow role-specific instructions** in `./llm/builder/leader/` or `./llm/builder/helper/`
-4. **Use assignment board** at `./llm/builder/assignment-board.md` for coordination
+1. **Read** `./llm/README.md` for role selection guide
+2. **Choose your role** based on your task:
+   - **Documentation work** → `./llm/builder/` (Leader or Helper)
+   - **Technical analysis** → `./llm/modeler/`
+3. **Follow role-specific instructions** in the appropriate subdirectory
+4. **Use coordination systems** provided for each role
 
-### **🎯 System Overview**
+### **🎯 Available Roles**
 
-**Role-Based Coordination:**
+**Documentation Roles:**
 - **Documentation Leader:** Manages assignments, ensures quality, coordinates multiple helpers
-- **Documentation Helpers:** Execute assigned documentation tasks, maintain quality standards
+- **Documentation Helper:** Execute assigned documentation tasks, maintain quality standards
 
-**Central Coordination Hub:**
-- **Assignment Board:** Real-time project tracking and coordination
+**Analysis Roles:**
+- **Data Model Analyst:** Analyze technical specifications and reveal system design patterns
+
+**Coordination Features:**
+- **Assignment Board:** Real-time project tracking and coordination (for builders)
 - **Communication Protocols:** Structured progress reporting and team coordination
-- **Quality Standards:** Consistent 1,500-2,500 word comprehensive documentation per section
+- **Quality Standards:** Role-specific quality standards and best practices
 - **Knowledge Capture:** Accumulated insights in role-specific brain.md files
 
 ### **📊 Current Project Status**

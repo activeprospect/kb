@@ -1,7 +1,7 @@
 # LeadConduit User Guide Configuration
 title: LeadConduit User Guide
 description: Comprehensive documentation for LeadConduit lead management platform
-baseurl: "/kb/docs"
+baseurl: "/kb"
 url: "https://activeprospect.github.io"
 
 # Build settings
