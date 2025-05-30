@@ -21,20 +21,12 @@ header_pages:
 
 # Collections for documentation
 collections:
-  userguide:
-    output: true
-    permalink: /:path/
   docs:
     output: true
     permalink: /:collection/:name/
 
 # Default settings for documentation
 defaults:
-  - scope:
-      path: "_userguide"
-      type: "userguide"
-    values:
-      layout: "page"
   - scope:
       path: "docs"
       type: "pages"

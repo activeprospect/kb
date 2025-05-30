@@ -10,15 +10,15 @@ This section provides access to the complete LeadConduit User Guide documentatio
 
 ## User Guide Sections
 
-- [Introduction]({{ site.baseurl }}/Introduction/) - What is LeadConduit and key concepts
-- [Getting Started]({{ site.baseurl }}/GettingStarted/) - Account setup and first steps  
-- [Leads & Events]({{ site.baseurl }}/LeadsAndEvents/) - Managing lead data and events
-- [Flows]({{ site.baseurl }}/Flows/) - Building and managing lead processing workflows
-- [Foundational Building Blocks]({{ site.baseurl }}/FoundationalBuildingBlocks/) - Core concepts and configuration
-- [Working with Partners]({{ site.baseurl }}/WorkingWithPartners/) - Source and buyer relationships
-- [Reports & Analytics]({{ site.baseurl }}/ReportsAndAnalytics/) - Performance tracking and insights
-- [Add-On Services]({{ site.baseurl }}/AddOnServices/) - Premium features and integrations
-- [Best Practices & Troubleshooting]({{ site.baseurl }}/BestPracticesAndTroubleshooting/) - Optimization and problem resolution
+- [Introduction]({{ site.baseurl }}/build/UserGuide/Introduction/) - What is LeadConduit and key concepts
+- [Getting Started]({{ site.baseurl }}/build/UserGuide/GettingStarted/) - Account setup and first steps  
+- [Leads & Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/) - Managing lead data and events
+- [Flows]({{ site.baseurl }}/build/UserGuide/Flows/) - Building and managing lead processing workflows
+- [Foundational Building Blocks]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/) - Core concepts and configuration
+- [Working with Partners]({{ site.baseurl }}/build/UserGuide/WorkingWithPartners/) - Source and buyer relationships
+- [Reports & Analytics]({{ site.baseurl }}/build/UserGuide/ReportsAndAnalytics/) - Performance tracking and insights
+- [Add-On Services]({{ site.baseurl }}/build/UserGuide/AddOnServices/) - Premium features and integrations
+- [Best Practices & Troubleshooting]({{ site.baseurl }}/build/UserGuide/BestPracticesAndTroubleshooting/) - Optimization and problem resolution
 
 ## Additional Resources
 
@@ -28,4 +28,4 @@ This section provides access to the complete LeadConduit User Guide documentatio
 
 ---
 
-For the most up-to-date information, always refer to the main [User Guide]({{ site.baseurl }}/).
+For the most up-to-date information, always refer to the main [User Guide]({{ site.baseurl }}/build/UserGuide/).

@@ -20,35 +20,35 @@ This guide covers everything from basic concepts to advanced configurations:
 
 ## Quick Start
 
-Ready to begin? Start with our [Introduction]({{ site.baseurl }}/Introduction/) to understand the core concepts, then move to [Getting Started]({{ site.baseurl }}/GettingStarted/) for your first steps.
+Ready to begin? Start with our [Introduction]({{ site.baseurl }}/build/UserGuide/Introduction/) to understand the core concepts, then move to [Getting Started]({{ site.baseurl }}/build/UserGuide/GettingStarted/) for your first steps.
 
 ## Documentation Sections
 
-### [Introduction]({{ site.baseurl }}/Introduction/)
+### [Introduction]({{ site.baseurl }}/build/UserGuide/Introduction/)
 Learn what LeadConduit is and how it can transform your lead management operations.
 
-### [Getting Started]({{ site.baseurl }}/GettingStarted/)
+### [Getting Started]({{ site.baseurl }}/build/UserGuide/GettingStarted/)
 Set up your account and learn to navigate the LeadConduit interface.
 
-### [Leads & Events]({{ site.baseurl }}/LeadsAndEvents/)
+### [Leads & Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/)
 Master lead submission, processing, and event tracking.
 
-### [Flows]({{ site.baseurl }}/Flows/)
+### [Flows]({{ site.baseurl }}/build/UserGuide/Flows/)
 Build and manage sophisticated lead processing workflows.
 
-### [Foundational Building Blocks]({{ site.baseurl }}/FoundationalBuildingBlocks/)
+### [Foundational Building Blocks]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/)
 Understand fields, templates, variables, and rules that power your flows.
 
-### [Working with Partners]({{ site.baseurl }}/WorkingWithPartners/)
+### [Working with Partners]({{ site.baseurl }}/build/UserGuide/WorkingWithPartners/)
 Connect and manage relationships with lead sources and buyers.
 
-### [Reports & Analytics]({{ site.baseurl }}/ReportsAndAnalytics/)
+### [Reports & Analytics]({{ site.baseurl }}/build/UserGuide/ReportsAndAnalytics/)
 Track performance and gain insights into your lead operations.
 
-### [Add-On Services]({{ site.baseurl }}/AddOnServices/)
+### [Add-On Services]({{ site.baseurl }}/build/UserGuide/AddOnServices/)
 Enhance your lead processing with premium features and integrations.
 
-### [Best Practices & Troubleshooting]({{ site.baseurl }}/BestPracticesAndTroubleshooting/)
+### [Best Practices & Troubleshooting]({{ site.baseurl }}/build/UserGuide/BestPracticesAndTroubleshooting/)
 Optimize your setup and resolve common issues.
 
 ## Getting Help
