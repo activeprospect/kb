@@ -9,9 +9,9 @@ Reference materials, quick lookup guides, and supplementary documentation.
 
 ## Available Documentation
 
-- [Glossary]({{ site.baseurl }}/build/UserGuide/Appendices/glossary) - Comprehensive terminology and definitions
-- [API Reference]({{ site.baseurl }}/build/UserGuide/Appendices/api-reference) - Technical API documentation and examples
-- [Troubleshooting Quick Reference]({{ site.baseurl }}/build/UserGuide/Appendices/troubleshooting-quick-reference) - Fast problem resolution guide
+- [Glossary]({{ site.baseurl }}/Appendices/glossary) - Comprehensive terminology and definitions
+- [API Reference]({{ site.baseurl }}/Appendices/api-reference) - Technical API documentation and examples
+- [Troubleshooting Quick Reference]({{ site.baseurl }}/Appendices/troubleshooting-quick-reference) - Fast problem resolution guide
 
 ## Overview
 
@@ -19,4 +19,4 @@ The Appendices section provides essential reference materials that support your 
 
 ---
 
-*Navigate to specific topics using the links above, or return to the [main User Guide]({{ site.baseurl }}/build/UserGuide/).*
+*Navigate to specific topics using the links above, or return to the [main User Guide]({{ site.baseurl }}/).*

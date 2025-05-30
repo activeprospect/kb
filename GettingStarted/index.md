@@ -9,12 +9,12 @@ Step-by-step guidance for new users, covering account setup, basic concepts, and
 
 ## Available Documentation
 
-- [Sign Up and Log In]({{ site.baseurl }}/build/UserGuide/GettingStarted/sign-up-and-log-in) - Account access and authentication
-- [Account Setup]({{ site.baseurl }}/build/UserGuide/GettingStarted/account-setup) - Initial configuration and setup steps
-- [Understanding LeadConduit]({{ site.baseurl }}/build/UserGuide/GettingStarted/understanding-leadconduit) - Platform fundamentals for new users
-- [User Roles and Permissions]({{ site.baseurl }}/build/UserGuide/GettingStarted/user-roles-and-permissions) - Access control and user management
-- [First Flow Creation]({{ site.baseurl }}/build/UserGuide/GettingStarted/first-flow-creation) - Creating your first lead processing workflow
-- [Dashboard Overview]({{ site.baseurl }}/build/UserGuide/GettingStarted/dashboard-overview) - Navigating the LeadConduit interface
+- [Sign Up and Log In]({{ site.baseurl }}/GettingStarted/sign-up-and-log-in) - Account access and authentication
+- [Account Setup]({{ site.baseurl }}/GettingStarted/account-setup) - Initial configuration and setup steps
+- [Understanding LeadConduit]({{ site.baseurl }}/GettingStarted/understanding-leadconduit) - Platform fundamentals for new users
+- [User Roles and Permissions]({{ site.baseurl }}/GettingStarted/user-roles-and-permissions) - Access control and user management
+- [First Flow Creation]({{ site.baseurl }}/GettingStarted/first-flow-creation) - Creating your first lead processing workflow
+- [Dashboard Overview]({{ site.baseurl }}/GettingStarted/dashboard-overview) - Navigating the LeadConduit interface
 
 ## Overview
 
@@ -22,4 +22,4 @@ The Getting Started section is designed for new LeadConduit users who need pract
 
 ---
 
-*Navigate to specific topics using the links above, or return to the [main User Guide]({{ site.baseurl }}/build/UserGuide/).*
+*Navigate to specific topics using the links above, or return to the [main User Guide]({{ site.baseurl }}/).*
