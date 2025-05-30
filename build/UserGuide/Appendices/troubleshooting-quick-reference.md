@@ -7,6 +7,11 @@ title: Troubleshooting Quick Reference
 
 This quick reference guide provides immediate solutions and diagnostic steps for common LeadConduit issues, enabling rapid problem resolution and minimizing downtime for lead processing operations.
 
+**💡 Related Resources:**
+- [Glossary]({{ '/UserGuide/Appendices/glossary/' | relative_url }}) - Terminology reference
+- [API Reference]({{ '/UserGuide/Appendices/api-reference/' | relative_url }}) - Technical integration guide  
+- [Best Practices]({{ '/UserGuide/BestPracticesTroubleshooting/' | relative_url }}) - Preventive guidelines
+
 ## Common Issues & Quick Fixes
 
 ### Lead Submission Problems

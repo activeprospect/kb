@@ -1,0 +1,63 @@
+title: LeadConduit User Guide
+description: Comprehensive documentation for LeadConduit lead management platform
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Navigation structure
+nav_sections:
+  - title: "Introduction"
+    url: "/UserGuide/Introduction/"
+    icon: "📖"
+  - title: "Getting Started" 
+    url: "/UserGuide/GettingStarted/"
+    icon: "🚀"
+  - title: "Foundational Building Blocks"
+    url: "/UserGuide/FoundationalBuildingBlocks/"
+    icon: "🏗️"
+  - title: "Leads & Events"
+    url: "/UserGuide/LeadsAndEvents/"
+    icon: "📊"
+  - title: "Flows"
+    url: "/UserGuide/Flows/"
+    icon: "🔄"
+  - title: "Reports & Analytics"
+    url: "/UserGuide/ReportsAndAnalytics/"
+    icon: "📈"
+  - title: "Add-On Services"
+    url: "/UserGuide/AddOnServices/"
+    icon: "⚡"
+  - title: "Working with Partners"
+    url: "/UserGuide/WorkingWithPartners/"
+    icon: "🤝"
+  - title: "Best Practices & Troubleshooting"
+    url: "/UserGuide/BestPracticesTroubleshooting/"
+    icon: "🛠️"
+  - title: "Appendices"
+    url: "/UserGuide/Appendices/"
+    icon: "📚"
+
+# Collections
+collections:
+  userguide:
+    output: true
+    permalink: /:collection/:path/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
