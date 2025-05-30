@@ -9,11 +9,11 @@ Enhanced capabilities through SuppressionList, TrustedForm, and other value-adde
 
 ## Available Documentation
 
-- [Overview of Add-ons](overview-of-addons) - Available services and integration overview
-- [SuppressionList](suppressionlist) - Lead filtering and compliance service
-- [TrustedForm Decisions](trustedform-decisions) - Lead verification and decision making
-- [TrustedForm Insights](trustedform-insights) - Advanced analytics and reporting
-- [Additional Services](additional-services) - Other value-added platform services
+- [Overview of Add-ons]({{ site.baseurl }}/build/UserGuide/AddOnServices/overview-of-addons) - Available services and integration overview
+- [SuppressionList]({{ site.baseurl }}/build/UserGuide/AddOnServices/suppressionlist) - Lead filtering and compliance service
+- [TrustedForm Decisions]({{ site.baseurl }}/build/UserGuide/AddOnServices/trustedform-decisions) - Lead verification and decision making
+- [TrustedForm Insights]({{ site.baseurl }}/build/UserGuide/AddOnServices/trustedform-insights) - Advanced analytics and reporting
+- [Additional Services]({{ site.baseurl }}/build/UserGuide/AddOnServices/additional-services) - Other value-added platform services
 
 ## Overview
 

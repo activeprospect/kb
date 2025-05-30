@@ -9,9 +9,9 @@ Comprehensive reporting capabilities to track performance and gain insights into
 
 ## Available Documentation
 
-- [Pre-built Dashboards](pre-built-dashboards) - Standard reports and analytics views
-- [Custom Reports & Funnels](custom-reports-funnels) - Creating custom analytics and funnel analysis  
-- [Scheduling & Sharing](scheduling-sharing) - Automating report delivery and collaboration
+- [Pre-built Dashboards]({{ site.baseurl }}/build/UserGuide/ReportsAndAnalytics/pre-built-dashboards) - Standard reports and analytics views
+- [Custom Reports & Funnels]({{ site.baseurl }}/build/UserGuide/ReportsAndAnalytics/custom-reports-funnels) - Creating custom analytics and funnel analysis  
+- [Scheduling & Sharing]({{ site.baseurl }}/build/UserGuide/ReportsAndAnalytics/scheduling-sharing) - Automating report delivery and collaboration
 
 ## Overview
 

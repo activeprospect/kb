@@ -9,9 +9,9 @@ Complete guidance for managing seller and buyer relationships, including connect
 
 ## Available Documentation
 
-- [Connecting](connecting) - Partner connection and onboarding processes
-- [Sellers](sellers) - Working with lead source partners
-- [Buyers](buyers) - Managing lead buyer relationships
+- [Connecting]({{ site.baseurl }}/build/UserGuide/WorkingWithPartners/connecting) - Partner connection and onboarding processes
+- [Sellers]({{ site.baseurl }}/build/UserGuide/WorkingWithPartners/sellers) - Working with lead source partners
+- [Buyers]({{ site.baseurl }}/build/UserGuide/WorkingWithPartners/buyers) - Managing lead buyer relationships
 
 ## Overview
 

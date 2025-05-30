@@ -10,20 +10,20 @@ Detailed exploration of rules, templates, variables, and other core platform com
 ## Available Documentation
 
 ### Fields & Data Types
-- [Standard Field Types](FieldsDataTypes/standard-field-types) - Built-in field definitions and data types
-- [Custom Field Creation](FieldsDataTypes/custom-field-creation) - Creating and managing custom fields
+- [Standard Field Types]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/FieldsDataTypes/standard-field-types) - Built-in field definitions and data types
+- [Custom Field Creation]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/FieldsDataTypes/custom-field-creation) - Creating and managing custom fields
 
 ### Templates, Variables & Rules
-- [Template System](TemplatesVariablesRules/template-system) - Template creation and management
-- [Templates & Handlebars](TemplatesVariablesRules/templates-handlebars) - Handlebars templating syntax
-- [Rules Engine Deep-Dive](TemplatesVariablesRules/rules-engine-deep-dive) - Advanced rule configuration
-- [Validation & Normalization Rules](TemplatesVariablesRules/validation-normalization-rules) - Data quality rules
+- [Template System]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/TemplatesVariablesRules/template-system) - Template creation and management
+- [Templates & Handlebars]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/TemplatesVariablesRules/templates-handlebars) - Handlebars templating syntax
+- [Rules Engine Deep-Dive]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/TemplatesVariablesRules/rules-engine-deep-dive) - Advanced rule configuration
+- [Validation & Normalization Rules]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/TemplatesVariablesRules/validation-normalization-rules) - Data quality rules
 
 ### Core Components
-- [Variables System & Custom](variables-system-custom) - Variable management and customization
-- [Templates & Handlebars](templates-handlebars) - Template syntax and usage
-- [Rules Engine Deep-Dive](rules-engine-deep-dive) - Complete rules documentation
-- [Validation & Normalization Rules](validation-normalization-rules) - Data processing rules
+- [Variables System & Custom]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/variables-system-custom) - Variable management and customization
+- [Templates & Handlebars]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/templates-handlebars) - Template syntax and usage
+- [Rules Engine Deep-Dive]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/rules-engine-deep-dive) - Complete rules documentation
+- [Validation & Normalization Rules]({{ site.baseurl }}/build/UserGuide/FoundationalBuildingBlocks/validation-normalization-rules) - Data processing rules
 
 ## Overview
 

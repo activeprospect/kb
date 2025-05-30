@@ -9,9 +9,9 @@ Reference materials, quick lookup guides, and supplementary documentation.
 
 ## Available Documentation
 
-- [Glossary](glossary) - Comprehensive terminology and definitions
-- [API Reference](api-reference) - Technical API documentation and examples
-- [Troubleshooting Quick Reference](troubleshooting-quick-reference) - Fast problem resolution guide
+- [Glossary]({{ site.baseurl }}/build/UserGuide/Appendices/glossary) - Comprehensive terminology and definitions
+- [API Reference]({{ site.baseurl }}/build/UserGuide/Appendices/api-reference) - Technical API documentation and examples
+- [Troubleshooting Quick Reference]({{ site.baseurl }}/build/UserGuide/Appendices/troubleshooting-quick-reference) - Fast problem resolution guide
 
 ## Overview
 

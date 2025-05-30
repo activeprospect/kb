@@ -10,50 +10,50 @@ Comprehensive coverage of lead lifecycle management, from initial ping and submi
 ## Available Documentation
 
 ### Submitting Leads
-- [API Submission](SubmittingLeads/api-submission) - Programmatic lead submission methods
-- [Manual Entry and CSV Import](SubmittingLeads/manual-entry-and-csv-import) - Manual lead management options
+- [API Submission]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/SubmittingLeads/api-submission) - Programmatic lead submission methods
+- [Manual Entry and CSV Import]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/SubmittingLeads/manual-entry-and-csv-import) - Manual lead management options
 
 ### Qualifying Leads  
-- [Duplicate Checking](QualifyingLeads/duplicate-checking) - Lead deduplication strategies
-- [Using Lead Data](QualifyingLeads/using-lead-data) - Leveraging lead information for qualification
-- [Using Third-Party Enhancement Data](QualifyingLeads/using-third-party-enhancement-data) - External data integration
+- [Duplicate Checking]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/QualifyingLeads/duplicate-checking) - Lead deduplication strategies
+- [Using Lead Data]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/QualifyingLeads/using-lead-data) - Leveraging lead information for qualification
+- [Using Third-Party Enhancement Data]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/QualifyingLeads/using-third-party-enhancement-data) - External data integration
 
 ### Enhancing Leads
-- [Add-On Services](EnhancingLeads/add-on-services) - Value-added lead enhancement services  
-- [Integrations](EnhancingLeads/integrations) - Third-party integration capabilities
-- [TrustedForm Certification](EnhancingLeads/trustedform-certification) - Lead verification and compliance
+- [Add-On Services]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/EnhancingLeads/add-on-services) - Value-added lead enhancement services  
+- [Integrations]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/EnhancingLeads/integrations) - Third-party integration capabilities
+- [TrustedForm Certification]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/EnhancingLeads/trustedform-certification) - Lead verification and compliance
 
 ### Delivering Leads
-- [API-Driven Delivery](DeliveringLeads/api-driven-delivery) - Automated lead distribution
-- [Automated Retry](DeliveringLeads/automated-retry) - Handling delivery failures
-- [Controlling Volume](DeliveringLeads/controlling-volume) - Managing lead flow rates
-- [Generic HTTP Integrations](DeliveringLeads/generic-http-integrations) - Custom delivery endpoints
-- [Manual Test Deliveries](DeliveringLeads/manual-test-deliveries) - Testing delivery configurations
-- [Mapping & Normalizing Lead Data](DeliveringLeads/mapping-normalizing-lead-data) - Data transformation
-- [Schedule Batch Delivery](DeliveringLeads/schedule-batch-delivery) - Batch processing options
+- [API-Driven Delivery]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/DeliveringLeads/api-driven-delivery) - Automated lead distribution
+- [Automated Retry]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/DeliveringLeads/automated-retry) - Handling delivery failures
+- [Controlling Volume]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/DeliveringLeads/controlling-volume) - Managing lead flow rates
+- [Generic HTTP Integrations]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/DeliveringLeads/generic-http-integrations) - Custom delivery endpoints
+- [Manual Test Deliveries]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/DeliveringLeads/manual-test-deliveries) - Testing delivery configurations
+- [Mapping & Normalizing Lead Data]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/DeliveringLeads/mapping-normalizing-lead-data) - Data transformation
+- [Schedule Batch Delivery]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/DeliveringLeads/schedule-batch-delivery) - Batch processing options
 
 ### Events
-- [Source Events](Events/source-events) - Lead source event tracking
-- [Recipient Events](Events/recipient-events) - Lead delivery event monitoring  
-- [Filter Events](Events/filter-events) - Flow filtering event logs
-- [Retry Events](Events/retry-events) - Delivery retry event tracking
-- [Feedback Sent Events](Events/feedback-sent-events) - Outbound feedback tracking
-- [Feedback Received Events](Events/feedback-received-events) - Inbound feedback processing
+- [Source Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Events/source-events) - Lead source event tracking
+- [Recipient Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Events/recipient-events) - Lead delivery event monitoring  
+- [Filter Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Events/filter-events) - Flow filtering event logs
+- [Retry Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Events/retry-events) - Delivery retry event tracking
+- [Feedback Sent Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Events/feedback-sent-events) - Outbound feedback tracking
+- [Feedback Received Events]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Events/feedback-received-events) - Inbound feedback processing
 
 ### Ping System
-- [Ping Overview](Ping/ping-overview) - Real-time lead bidding system
-- [Acceptance Criteria](Ping/acceptance-criteria) - Qualifying ping responses
-- [Pricing Rules](Ping/pricing-rules) - Dynamic pricing strategies
-- [Volume Caps](Ping/volume-caps) - Managing ping volume limits  
-- [Ping Limits](Ping/ping-limits) - System and account limitations
+- [Ping Overview]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Ping/ping-overview) - Real-time lead bidding system
+- [Acceptance Criteria]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Ping/acceptance-criteria) - Qualifying ping responses
+- [Pricing Rules]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Ping/pricing-rules) - Dynamic pricing strategies
+- [Volume Caps]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Ping/volume-caps) - Managing ping volume limits  
+- [Ping Limits]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Ping/ping-limits) - System and account limitations
 
 ### Firehose
-- [Overview & Use Cases](Firehose/overview-use-cases) - Real-time data streaming
-- [Enabling on Flow](Firehose/enabling-on-flow) - Configuration and setup
-- [S3 Configuration](Firehose/s3-configuration) - AWS integration setup
+- [Overview & Use Cases]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Firehose/overview-use-cases) - Real-time data streaming
+- [Enabling on Flow]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Firehose/enabling-on-flow) - Configuration and setup
+- [S3 Configuration]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/Firehose/s3-configuration) - AWS integration setup
 
 ### Management & Search
-- [Manage & Search Leads](manage-search-leads) - Lead database operations
+- [Manage & Search Leads]({{ site.baseurl }}/build/UserGuide/LeadsAndEvents/manage-search-leads) - Lead database operations
 
 ## Overview
 

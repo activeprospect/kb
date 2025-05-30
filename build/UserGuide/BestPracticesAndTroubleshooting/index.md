@@ -9,10 +9,10 @@ Proven strategies for designing maintainable flows, ensuring data quality, and r
 
 ## Available Documentation
 
-- [Designing Maintainable Flows](designing-maintainable-flows) - Flow architecture best practices
-- [Ensuring Data Quality](ensuring-data-quality) - Data validation and quality control
-- [Common Errors & Resolutions](common-errors-resolutions) - Troubleshooting guide
-- [Support Resources](support-resources) - Getting help and additional resources
+- [Designing Maintainable Flows]({{ site.baseurl }}/build/UserGuide/BestPracticesAndTroubleshooting/designing-maintainable-flows) - Flow architecture best practices
+- [Ensuring Data Quality]({{ site.baseurl }}/build/UserGuide/BestPracticesAndTroubleshooting/ensuring-data-quality) - Data validation and quality control
+- [Common Errors & Resolutions]({{ site.baseurl }}/build/UserGuide/BestPracticesAndTroubleshooting/common-errors-resolutions) - Troubleshooting guide
+- [Support Resources]({{ site.baseurl }}/build/UserGuide/BestPracticesAndTroubleshooting/support-resources) - Getting help and additional resources
 
 ## Overview
 
