@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to the LeadConduit User Guide
-permalink: /Introduction/welcome/
+permalink: /Introduction/welcome
 ---
 
 # Welcome to the LeadConduit User Guide

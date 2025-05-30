@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ping Overview
-permalink: /LeadsAndEvents/Ping/ping-overview/
+permalink: /LeadsAndEvents/Ping/ping-overview
 ---
 
 # Ping (Pre-submission Bidding)
