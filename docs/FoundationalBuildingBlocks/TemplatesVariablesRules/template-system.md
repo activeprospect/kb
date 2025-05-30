@@ -204,13 +204,13 @@ Template Syntax Elements:
 │   ├── While Loops: (Not supported in Jekyll/Liquid)
 │   ├── Range Loops: {% for i in (1..10) %} content {% endfor %}
 │   ├── Break/Continue: {% break %} and {% continue %}
-│   └── Loop Variables: {{ forloop.index }}, {{ forloop.first }}
+│   └── Loop Variables: {% raw %}{{ forloop.index }}, {{ forloop.first }}{% endraw %}
 ├── Function Syntax:
-│   ├── Built-in Functions: {{ variable | function_name }}
-│   ├── Function Parameters: {{ variable | function_name: parameter }}
-│   ├── Function Chaining: {{ variable | function1 | function2 }}
-│   ├── Custom Functions: {{ variable | custom_function }}
-│   └── Math Functions: {{ number | plus: 5 | minus: 2 }}
+│   ├── Built-in Functions: {% raw %}{{ variable | function_name }}{% endraw %}
+│   ├── Function Parameters: {% raw %}{{ variable | function_name: parameter }}{% endraw %}
+│   ├── Function Chaining: {% raw %}{{ variable | function1 | function2 }}{% endraw %}
+│   ├── Custom Functions: {% raw %}{{ variable | custom_function }}{% endraw %}
+│   └── Math Functions: {% raw %}{{ number | plus: 5 | minus: 2 }}{% endraw %}
 └── Advanced Syntax:
     ├── Comments: {% comment %} This is a comment {% endcomment %}
     ├── Includes: {% include template_name %}
