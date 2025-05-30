@@ -1,8 +1,97 @@
-# Document360 Markdown Import Guide
+# Documentation Publishing & Deployment Guide
 
 ## Overview
 
-This guide provides a structured approach to importing a Markdown-based user guide into Document360. By organizing your content appropriately, you can ensure that Document360 accurately interprets your documentation, creating a coherent and navigable knowledge base.
+This guide covers both GitHub Pages deployment for web publishing and Document360 import for enterprise knowledge base systems. Choose the approach that best fits your documentation publishing needs.
+
+## GitHub Pages Deployment (Web Publishing)
+
+### Quick Setup Summary
+This project is configured for automatic GitHub Pages deployment using Jekyll and GitHub Actions. The setup provides clean URLs and professional documentation hosting.
+
+**Live Documentation URL Pattern:**
+- Clean URLs: `https://activeprospect.github.io/kb/SectionName/page-name`
+- No `/build/UserGuide/` prefix needed
+- Automatic deployment on every push to main branch
+
+### GitHub Pages Architecture
+
+**Jekyll Configuration:**
+- Jekyll static site generator with GitHub Actions deployment
+- Custom `_config.yml` with proper baseurl and collections setup
+- Jekyll collections for clean URL structure (`_userguide` collection)
+- Minima theme with customizations for documentation
+
+**URL Structure Transformation:**
+- **Original structure**: `/build/UserGuide/SectionName/page-name.md`
+- **Published URLs**: `/SectionName/page-name/` (clean, no extensions)
+- **Navigation**: Uses `{{ site.baseurl }}` templating for portable URLs
+
+**Key Files Created:**
+1. **`_config.yml`**: Jekyll configuration with collections and defaults
+2. **`Gemfile`**: Ruby dependencies for Jekyll build
+3. **`.github/workflows/deploy.yml`**: GitHub Actions deployment workflow
+4. **`index.md`**: Homepage with navigation to all sections
+5. **`docs/index.md`**: Documentation landing page
+6. **Section `index.md` files**: Navigation pages for each documentation section
+7. **`.nojekyll`**: Prevents GitHub's default Jekyll processing
+
+### Navigation & Linking Best Practices
+
+**Link Format for Internal Navigation:**
+```markdown
+[Link Text]({{ site.baseurl }}/SectionName/page-name)
+```
+
+**Common Issues Resolved:**
+1. **404 errors on section URLs**: Fixed by creating `index.md` files in each section
+2. **Broken relative links**: Converted all relative paths to Jekyll `{{ site.baseurl }}` templating
+3. **Nested subdirectory navigation**: Updated all nested paths to work with Jekyll routing
+4. **Clean URL accessibility**: Configured Jekyll collections to remove `/build/UserGuide/` prefix
+
+### Deployment Process
+
+**Automatic Deployment:**
+1. Push changes to `main` branch
+2. GitHub Actions workflow triggers automatically
+3. Jekyll builds site with all content and navigation
+4. Deployment completes in 2-3 minutes
+5. Live site updates at `https://activeprospect.github.io/kb/`
+
+**Monitoring Deployment:**
+- Check **Actions** tab in GitHub repository for build status
+- Green ✅ = successful deployment
+- Red ❌ = build failed (check logs for errors)
+- Yellow 🟡 = currently building
+
+### Content Management
+
+**Content Location:**
+- **Source content**: `build/UserGuide/` (maintained by documentation workers)
+- **Jekyll collection**: `_userguide/` (automatically synced for web publishing)
+- **Navigation**: All section index files provide comprehensive navigation
+
+**Adding New Content:**
+1. Workers add content to `build/UserGuide/` structure
+2. Content automatically copied to `_userguide/` collection during build
+3. New content appears on live site after deployment
+4. Internal links use Jekyll templating for proper routing
+
+### Maintenance & Updates
+
+**Content Updates:**
+- Workers continue using existing `build/UserGuide/` workflow
+- Git commits trigger automatic deployment
+- No manual intervention needed for routine content updates
+
+**Navigation Updates:**
+- Update section `index.md` files for new navigation links
+- Use `{{ site.baseurl }}/SectionName/page-name` format for all internal links
+- Maintain consistent structure across all sections
+
+---
+
+## Document360 Import (Enterprise Knowledge Base)
 
 ## Folder Structure
 
