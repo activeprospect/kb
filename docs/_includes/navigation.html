@@ -2,7 +2,7 @@
   <ul class="nav-list">
     {% for item in site.data.toc %}
       <li class="nav-item{% if item.children %} has-children expanded{% endif %}">
-        {% if item.url \!= "docs" %}
+        {% if item.url != "docs" %}
           <a href="{{ site.baseurl }}{{ item.url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
         {% else %}
           <span class="nav-link section" onclick="toggleSection(this)">{{ item.title }}</span>
@@ -12,7 +12,7 @@
           <ul class="nav-children">
             {% for child in item.children %}
               <li class="nav-child{% if child.children %} has-children expanded{% endif %}">
-                {% if child.url \!= "docs" %}
+                {% if child.url != "docs" %}
                   <a href="{{ site.baseurl }}{{ child.url }}" class="nav-link {% if page.url == child.url %}active{% endif %}">{{ child.title }}</a>
                 {% else %}
                   <span class="nav-link subsection" onclick="toggleSection(this)">{{ child.title }}</span>
@@ -44,4 +44,3 @@ function toggleSection(element) {
   }
 }
 </script>
-EOF < /dev/null
