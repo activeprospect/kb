@@ -80,16 +80,28 @@ analyze_content() {
         article_types+=("article")
     fi
     
-    # Content Tags Detection - Refined tagging
-    echo "$content" | grep -qi "leadconduit\|flow\|step.*component\|source\|recipient\|lead.*management" && content_tags+=("lead-management")
+    # Content Tags Detection - Based on official LeadConduit API concepts
+    echo "$content" | grep -qi "flow\|flows" && content_tags+=("flows")
+    echo "$content" | grep -qi "destination\|destinations\|recipient\|recipients\|buyer\|buyers" && content_tags+=("destinations") 
+    echo "$content" | grep -qi "source\|sources\|vendor\|vendors\|partner\|partners" && content_tags+=("entities")
+    echo "$content" | grep -qi "field\|fields\|lead.*data\|data.*field" && content_tags+=("fields")
+    echo "$content" | grep -qi "event\|events\|lead.*event\|step.*event" && content_tags+=("events")
+    echo "$content" | grep -qi "rule\|rules\|filter\|filters\|acceptance.*criteria" && content_tags+=("rules")
+    echo "$content" | grep -qi "lead\|leads" && content_tags+=("leads")
+    echo "$content" | grep -qi "credential\|credentials\|authentication\|auth" && content_tags+=("credentials")
+    echo "$content" | grep -qi "report\|reports\|analytics\|dashboard\|metrics\|statistics" && content_tags+=("reports")
+    echo "$content" | grep -qi "variable\|variables\|mapping\|mappings" && content_tags+=("variables")
+    echo "$content" | grep -qi "cap\|caps\|limit\|limits\|volume" && content_tags+=("caps-and-limits")
+    echo "$content" | grep -qi "submission\|submit\|posting\|lead.*submission" && content_tags+=("lead-submission")
+    
+    # Non-API concept tags
     echo "$content" | grep -qi "trustedform\|certificate\|cert.*url\|consent\|verify\|certify" && content_tags+=("trustedform")
     echo "$content" | grep -qi "tcpa\|fcc\|compliance\|consent\|opt.*in\|do.*not.*call\|regulation\|legal" && content_tags+=("compliance")
     echo "$content" | grep -qi "batch\|delivery\|file.*export\|integration\|webhook\|api" && content_tags+=("data-integration")
-    echo "$content" | grep -qi "quality\|validation\|verification\|filter\|scoring\|enhance.*lead" && content_tags+=("lead-quality")
+    echo "$content" | grep -qi "quality\|validation\|verification\|scoring\|enhance.*lead" && content_tags+=("lead-quality")
     echo "$content" | grep -qi "configuration\|config\|setup\|settings\|customize" && content_tags+=("configuration")
     echo "$content" | grep -qi "real.*time\|ping.*post\|instant\|live\|immediate" && content_tags+=("real-time")
-    echo "$content" | grep -qi "report\|analytics\|dashboard\|metrics\|statistics" && content_tags+=("reporting")
-    echo "$content" | grep -qi "suppression\|blacklist\|filter.*out\|exclude" && content_tags+=("suppression")
+    echo "$content" | grep -qi "suppressionlist\|suppression.*list\|blacklist\|filter.*out\|exclude" && content_tags+=("suppressionlist")
     echo "$content" | grep -qi "pricing\|cost\|billing\|payment\|subscription" && content_tags+=("pricing")
     
     # Authentication tag - only for content primarily about authentication
