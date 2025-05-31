@@ -1,21 +1,21 @@
 <nav class="sidebar">
   <ul class="nav-list">
     {% for item in site.data.toc %}
-      <li class="nav-item">
-        {% if item.url != "docs" %}
+      <li class="nav-item{% if item.children %} has-children expanded{% endif %}">
+        {% if item.url \!= "docs" %}
           <a href="{{ site.baseurl }}{{ item.url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
         {% else %}
-          <span class="nav-link section">{{ item.title }}</span>
+          <span class="nav-link section" onclick="toggleSection(this)">{{ item.title }}</span>
         {% endif %}
         
         {% if item.children %}
           <ul class="nav-children">
             {% for child in item.children %}
-              <li class="nav-child">
-                {% if child.url != "docs" %}
+              <li class="nav-child{% if child.children %} has-children expanded{% endif %}">
+                {% if child.url \!= "docs" %}
                   <a href="{{ site.baseurl }}{{ child.url }}" class="nav-link {% if page.url == child.url %}active{% endif %}">{{ child.title }}</a>
                 {% else %}
-                  <span class="nav-link subsection">{{ child.title }}</span>
+                  <span class="nav-link subsection" onclick="toggleSection(this)">{{ child.title }}</span>
                 {% endif %}
                 
                 {% if child.children %}
@@ -35,3 +35,13 @@
     {% endfor %}
   </ul>
 </nav>
+
+<script>
+function toggleSection(element) {
+  const parentItem = element.closest('.nav-item, .nav-child');
+  if (parentItem && parentItem.classList.contains('has-children')) {
+    parentItem.classList.toggle('expanded');
+  }
+}
+</script>
+EOF < /dev/null

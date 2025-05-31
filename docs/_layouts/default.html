@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<\!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -17,11 +17,12 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <a href="{{ site.baseurl }}/" class="logo-link">
-        <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" class="site-logo">
-      </a>
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <div class="header-content">
+        <a href="{{ site.baseurl }}/" class="logo-link">
+          <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" class="site-logo">
+        </a>
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      </div>
     </header>
 
     <div class="main-wrapper">
@@ -40,3 +41,4 @@
     </div>
   </body>
 </html>
+EOF < /dev/null
