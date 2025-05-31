@@ -43,8 +43,10 @@ kb/
 │   │   └── helper/             # Helper-specific files
 │   │       ├── role.md         # Helper protocols
 │   │       └── brain.md        # Helper best practices
-│   └── modeler/                # Data model analysis role
-│       └── role.md             # Model analysis instructions
+│   ├── modeler/                # Data model analysis role
+│   │   └── role.md             # Model analysis instructions
+│   └── processor/              # Data processing role
+│       └── role.md             # Data processing instructions
 └── openapi/                     # API documentation
     └── openapi.yaml
 ```
@@ -133,6 +135,7 @@ This project includes a sophisticated coordination system that enables multiple 
 2. **Choose your role** based on your task:
    - **Documentation work** → `./llm/builder/` (Leader or Helper)
    - **Technical analysis** → `./llm/modeler/`
+   - **Data processing** → `./llm/processor/`
 3. **Follow role-specific instructions** in the appropriate subdirectory
 4. **Use coordination systems** provided for each role
 
@@ -144,6 +147,9 @@ This project includes a sophisticated coordination system that enables multiple 
 
 **Analysis Roles:**
 - **Data Model Analyst:** Analyze technical specifications and reveal system design patterns
+
+**Processing Roles:**
+- **Data Processor:** Process raw data files and convert them to structured formats
 
 **Coordination Features:**
 - **Assignment Board:** Real-time project tracking and coordination (for builders)

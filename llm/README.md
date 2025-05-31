@@ -18,6 +18,12 @@ This directory contains role-based coordination systems for AI assistants workin
 - **Output:** User-focused explanations of technical system design
 - **Instructions:** Read `./modeler/role.md` to get started
 
+### **🔄 Data Processor** (`./processor/`)
+- **Purpose:** Process raw data files and convert them to structured formats
+- **Activities:** CSV processing, data transformation, content organization
+- **Output:** Individual markdown files from multi-document data sources
+- **Instructions:** Read `./processor/role.md` to get started
+
 ## 🎯 **Choosing Your Role**
 
 ### **If you are working on documentation creation:**
@@ -30,9 +36,15 @@ This directory contains role-based coordination systems for AI assistants workin
 - Read role.md for complete analysis instructions
 - Focus on OpenAPI specification analysis and pattern discovery
 
+### **If you are working on data processing:**
+- Go to `./processor/` directory
+- Read role.md for complete processing instructions
+- Focus on CSV processing and content transformation
+
 ### **If you are unsure which role fits your task:**
 - **Documentation tasks** → Use Builder role
 - **Technical analysis tasks** → Use Modeler role
+- **Data processing tasks** → Use Processor role
 - **Project coordination** → Use Builder Leader role
 
 ## 📁 **Directory Structure**
@@ -51,8 +63,10 @@ llm/
 │   └── helper/           # Helper-specific files
 │       ├── role.md      # Helper protocols
 │       └── brain.md     # Helper best practices
-└── modeler/              # Data model analysis role
-    └── role.md          # Model analysis instructions
+├── modeler/              # Data model analysis role
+│   └── role.md          # Model analysis instructions
+└── processor/            # Data processing role
+    └── role.md          # Data processing instructions
 ```
 
 ## 🔄 **Cross-Role Coordination**
@@ -66,7 +80,8 @@ llm/
 ### **Output Coordination:**
 - **Builder outputs:** Documentation in `/docs` and `/build` directories
 - **Modeler outputs:** Analysis documents in `/content` directory
-- **Shared resources:** Both roles can reference `/context` files and source content
+- **Processor outputs:** Structured content in `/content/[source-name]` directories
+- **Shared resources:** All roles can reference `/context` files and source content
 
 ## 🎯 **Success Principles**
 
@@ -79,6 +94,7 @@ llm/
 - All roles maintain high quality standards appropriate to their function
 - Builder: 1,500-2,500 words per major document with comprehensive coverage
 - Modeler: User-focused insights with practical applications and clear explanations
+- Processor: 100% data integrity with consistent file organization and naming
 
 ### **Coordination Efficiency**
 - Use established protocols to minimize coordination overhead

@@ -1,0 +1,54 @@
+---
+URL: https://activeprospect.com/resources/how-to-leverage-the-power-of-advertising-on-tiktok/
+Page Title: How to leverage TikTok Ads for lead generation - ActiveProspect
+Screenshot URL: https://service.firecrawl.dev/storage/v1/object/public/media/screenshot-8bb082c5-dddd-4fcf-90df-e707672ce8bb.png
+Scraped At: 2025-05-30 23:36:23.170
+---
+# How to leverage the power of advertising on TikTok to boost lead generation campaigns
+
+If you’ve always wanted to join in on TikTok for Business but never knew how, this is your chance!
+
+Register now and **get immediate access** to a special webinar with TikTok.
+
+A very special guest from TikTok will show us how to leverage a powerful tool such as TikTok Ads to take lead generation campaigns to new heights.
+
+![](https://activeprospect.com/wp-content/uploads/2022/02/Webinar_TikTokFeb22V2.png)
+
+### Watch the webinar today!
+
+First name\*
+
+Last name\*
+
+Email address\*
+
+Phone number\*
+
+Company name\*
+
+UTM Medium (HubSpot)
+
+UTM Source (HubSpot)
+
+UTM Campaign (HubSpot)
+
+UTM Content (HubSpot)
+
+UTM term (HubSpot)
+
+Channel (Hubspot)
+
+Channel Drilldown 1 (Hubspot)
+
+Channel Drilldown 2 (Hubspot)
+
+Channel Drilldown 3 (Hubspot)
+
+Landing Page (Hubspot)
+
+Landing Page Group (Hubspot)
+
+Landing Page URL
+
+ActiveProspect needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, please review our [Privacy Policy](https://activeprospect.com/privacy-policy/ ""Privacy Policy"").
+

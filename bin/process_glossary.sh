@@ -2,7 +2,7 @@
 
 set -e
 
-# Script to parse glossary.csv and generate markdown documents
+# Script to parse glossary.csv and generate clean markdown documents
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 DATA_DIR="$PROJECT_ROOT/data"
@@ -24,6 +24,87 @@ sanitize_filename() {
                    sed 's/^-\+\|-\+$//g' | \
                    cut -c1-${max_length} | \
                    sed 's/-*$//'
+}
+
+# Function to clean content and extract only conceptual content
+clean_content() {
+    local temp_file="$1"
+    local clean_file="$2"
+    
+    # Use awk to process the file and extract only the conceptual content
+    awk '
+        BEGIN {
+            in_frontmatter = 0
+            frontmatter_done = 0
+            content_started = 0
+            content_ended = 0
+        }
+        
+        # Handle YAML frontmatter
+        /^---$/ {
+            if (!frontmatter_done) {
+                if (in_frontmatter) {
+                    # End of frontmatter
+                    frontmatter_done = 1
+                    in_frontmatter = 0
+                    print "---"
+                } else {
+                    # Start of frontmatter
+                    in_frontmatter = 1
+                    print "---"
+                }
+                next
+            }
+        }
+        
+        # Print frontmatter as-is
+        in_frontmatter {
+            print $0
+            next
+        }
+        
+        # Skip everything until we find the first main heading (# Title)
+        frontmatter_done && !content_started {
+            if (/^# /) {
+                content_started = 1
+                print $0
+            }
+            next
+        }
+        
+        # Filter out tracking, promotional, and boilerplate content
+        content_started && !content_ended {
+            # Stop processing at tracking images or promotional content
+            if (/^!\[\]\(https:\/\/bat\.bing\.com/ || 
+                /^!\[\]\(https:\/\/.*\.hubspot/ ||
+                /^Schedule a time/ ||
+                /^Loading$/ ||
+                /^WEBINAR ALERT:/ ||
+                /^Home Services Perspective/ ||
+                /^\[Register Now/ ||
+                /hubspot/ ||
+                /chili-piper/ ||
+                /^!\[hello/ ||
+                /portalId=/ ||
+                /encryptedPayload=/) {
+                content_ended = 1
+                next
+            }
+            
+            # Skip lines that are clearly tracking or promotional
+            if (/^!\[\]\(https:\/\/.*action\/0\?ti=/ ||
+                /msclkid=/ ||
+                /utm_/ ||
+                /^\[.*\]\(https:\/\/cta-service-cms2\.hubspot/ ||
+                /webInteractiveId=/ ||
+                /campaignId=/) {
+                next
+            }
+            
+            # Print clean content lines
+            print $0
+        }
+    ' "$temp_file" > "$clean_file"
 }
 
 # Function to process the glossary CSV file
@@ -70,7 +151,7 @@ process_glossary_csv() {
              }
          }'
     
-    # Second pass: rename files based on page titles or URLs
+    # Second pass: clean content and rename files based on page titles or URLs
     local counter=1
     
     for temp_file in "$output_dir"/temp_*.md; do
@@ -103,13 +184,36 @@ process_glossary_csv() {
                     ((dup_counter++))
                 done
                 
-                # Move to final filename
-                mv "$temp_file" "$output_dir/${final_name}.md"
-                echo "Created: ${final_name}.md"
+                # Clean content and save to final filename
+                local final_file="$output_dir/${final_name}.md"
+                clean_content "$temp_file" "$final_file"
+                
+                # Remove temp file
+                rm "$temp_file"
+                
+                # Check if the cleaned file has actual content (more than just frontmatter)
+                local content_lines=$(grep -v "^---$" "$final_file" | grep -v "^URL:" | grep -v "^Page Title:" | grep -v "^Screenshot URL:" | grep -v "^Scraped At:" | grep -c "^.")
+                
+                if [[ $content_lines -gt 0 ]]; then
+                    echo "Created: ${final_name}.md (${content_lines} content lines)"
+                else
+                    echo "Skipped: ${final_name}.md (no conceptual content found)"
+                    rm "$final_file"
+                fi
             else
                 # Fallback if no title found
-                mv "$temp_file" "$output_dir/glossary-entry-${counter}.md"
-                echo "Created: glossary-entry-${counter}.md (no title found)"
+                local fallback_file="$output_dir/glossary-entry-${counter}.md"
+                clean_content "$temp_file" "$fallback_file"
+                rm "$temp_file"
+                
+                local content_lines=$(grep -v "^---$" "$fallback_file" | grep -v "^URL:" | grep -v "^Page Title:" | grep -v "^Screenshot URL:" | grep -v "^Scraped At:" | grep -c "^.")
+                
+                if [[ $content_lines -gt 0 ]]; then
+                    echo "Created: glossary-entry-${counter}.md (${content_lines} content lines, no title found)"
+                else
+                    echo "Skipped: glossary-entry-${counter}.md (no conceptual content found)"
+                    rm "$fallback_file"
+                fi
             fi
             ((counter++))
         fi
@@ -117,12 +221,17 @@ process_glossary_csv() {
     
     # Count generated files
     local count=$(ls -1 "$output_dir"/*.md 2>/dev/null | wc -l)
-    echo "Generated $count glossary documents in $output_dir"
+    echo "Generated $count clean glossary documents in $output_dir"
 }
 
 # Process glossary.csv
 if [[ -f "$DATA_DIR/glossary.csv" ]]; then
     echo "Found glossary.csv, processing..."
+    
+    # Clean existing glossary files first
+    echo "Removing existing glossary files..."
+    rm -f "$CONTENT_DIR/glossary"/*.md
+    
     process_glossary_csv "$DATA_DIR/glossary.csv" "$CONTENT_DIR/glossary"
 else
     echo "Error: $DATA_DIR/glossary.csv not found"

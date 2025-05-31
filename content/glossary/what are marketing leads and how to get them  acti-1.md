@@ -1,0 +1,16 @@
+---
+URL: https://activeprospect.com/glossary/marketing-leads/
+Page Title: What are marketing leads and how to get them? - ActiveProspect
+Screenshot URL: https://service.firecrawl.dev/storage/v1/object/public/media/screenshot-ba3ff132-aae6-4917-8261-eb94c1d94275.png
+Scraped At: 2025-05-30 23:32:03.117
+---
+# Marketing Leads
+
+Marketing leads have expressed an interest in learning more but aren’t necessarily ready to buy. A marketing lead could be a subscriber to your email newsletter or someone that downloads one of your white papers. An E-Commerce company might acquire marketing leads in the form of email subscribers with the goal that they will eventually make a purchase on the site. A Consumer Packaged Goods company might use marketing leads for a loyalty program to distribute special offers or samples to their customer base. Their marketing database provides a means to build and maintain a relationship with their customers – even though purchases are made through retailers/distributors.
+
+Marketing leads are typically comprised of only a few data fields (name & email) and are cheaper to acquire than sales leads. A marketing lead might be generated via Facebook Lead Ads or a CPL ad placement on a registration path. A marketing lead might eventually turn into a sales lead, but that is not necessarily the goal.
+
+[Discover more](https://activeprospect.com/blog/sales-leads-vs-marketing-leads/)
+
+[iframe](https://td.doubleclick.net/td/rul/1064715784?random=1748647917403&cv=11&fst=1748647917403&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be55t0h2v890149784z86705227za200zb6705227&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075~104612245~104612247&ptag_exp=101509157~103116026~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075~104612245~104612247&u_w=1280&u_h=720&url=https%3A%2F%2Factiveprospect.com%2Fglossary%2Fmarketing-leads%2F&_ng=1&hn=www.googleadservices.com&frm=0&tiba=What%20are%20marketing%20leads%20and%20how%20to%20get%20them%3F%20-%20ActiveProspect&npa=0&pscdl=noapi&auid=689708694.1748647917&uaa=x86&uab=64&uafvl=Chromium%3B131.0.6778.33%7CNot_A%2520Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&fledge=1&data=event%3Dgtag.config)[iframe](https://td.doubleclick.net/td/rul/1064715784?random=1748647917453&cv=11&fst=1748647917453&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be55t0h2v890149784z86705227za200zb6705227&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103252644~103252646~103351869~103351871~104481633~104481635~104559073~104559075~104612245~104612247&ptag_exp=101509157~103116026~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075~104612245~104612247&u_w=1280&u_h=720&url=https%3A%2F%2Factiveprospect.com%2Fglossary%2Fmarketing-leads%2F&_ng=1&hn=www.googleadservices.com&frm=0&tiba=What%20are%20marketing%20leads%20and%20how%20to%20get%20them%3F%20-%20ActiveProspect&npa=0&pscdl=noapi&auid=689708694.1748647917&uaa=x86&uab=64&uafvl=Chromium%3B131.0.6778.33%7CNot_A%2520Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&fledge=1&_tu=Cg)
+
