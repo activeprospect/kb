@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: LeadConduit User Guide
 permalink: /
 ---
