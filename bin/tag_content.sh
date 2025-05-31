@@ -82,8 +82,6 @@ analyze_content() {
     
     # Content Tags Detection - Based on official LeadConduit API concepts
     echo "$content" | grep -qi "flow\|flows" && content_tags+=("flows")
-    echo "$content" | grep -qi "destination\|destinations\|recipient\|recipients\|buyer\|buyers" && content_tags+=("destinations") 
-    echo "$content" | grep -qi "source\|sources\|vendor\|vendors\|partner\|partners" && content_tags+=("entities")
     echo "$content" | grep -qi "field\|fields\|lead.*data\|data.*field" && content_tags+=("fields")
     echo "$content" | grep -qi "event\|events\|lead.*event\|step.*event" && content_tags+=("events")
     echo "$content" | grep -qi "rule\|rules\|filter\|filters\|acceptance.*criteria" && content_tags+=("rules")
@@ -93,6 +91,26 @@ analyze_content() {
     echo "$content" | grep -qi "variable\|variables\|mapping\|mappings" && content_tags+=("variables")
     echo "$content" | grep -qi "cap\|caps\|limit\|limits\|volume" && content_tags+=("caps-and-limits")
     echo "$content" | grep -qi "submission\|submit\|posting\|lead.*submission" && content_tags+=("lead-submission")
+    
+    # Lead Flow Direction Tags
+    echo "$content" | grep -qi "source\|sources" && content_tags+=("sources")
+    echo "$content" | grep -qi "destination\|destinations\|recipient\|recipients" && content_tags+=("recipients")
+    
+    # Business Relationship Tags
+    echo "$content" | grep -qi "seller\|sellers\|vendor\|vendors" && content_tags+=("sellers")
+    echo "$content" | grep -qi "buyer\|buyers" && content_tags+=("buyers")
+    echo "$content" | grep -qi "partner\|partners" && content_tags+=("partners")
+    echo "$content" | grep -qi "form\|forms\|web.*form" && content_tags+=("forms")
+    echo "$content" | grep -qi "crm\|salesforce\|hubspot\|email.*service" && content_tags+=("crm")
+    
+    # Service Integration Tags
+    echo "$content" | grep -qi "integration\|integrations\|connect\|connecting\|api.*key\|webhook\|credential" && content_tags+=("integrations")
+    echo "$content" | grep -qi "add.*on\|addon\|marketplace\|trustedform\|suppressionlist\|briteverify" && content_tags+=("add-ons")
+    
+    # Entity Management Tags
+    echo "$content" | grep -qi "standard.*entit\|built.*in.*entit\|directory" && content_tags+=("standard-entities")
+    echo "$content" | grep -qi "account.*entit\|leadconduit.*account" && content_tags+=("account-entities")
+    echo "$content" | grep -qi "custom.*entit\|create.*entit" && content_tags+=("custom-entities")
     
     # Non-API concept tags
     echo "$content" | grep -qi "trustedform\|certificate\|cert.*url\|consent\|verify\|certify" && content_tags+=("trustedform")
