@@ -20,6 +20,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 # Cayman theme customization
 show_downloads: false
 google_analytics:
+github:
+  is_project_page: false
 
 # Logo
 logo: /images/activeprospect_logo.png
