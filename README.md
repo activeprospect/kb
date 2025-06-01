@@ -88,6 +88,8 @@ Generated documentation artifacts are placed in the **`build/`** directory accor
 When generating new documentation, you must:
 - **Consult `context/outline.md`** to ensure coverage of all required topics
 - **Follow `context/build.md`** for proper artifact structure and formatting
+- **📝 CRITICAL: Follow `context/vibes.md`** for tone, style, and user experience approach
+- **📝 CRITICAL: Follow `context/tone-and-vocabulary.md`** for official terminology and voice
 - **Use existing content** from the `content/` directory as source material
 - **Identify gaps** where new content needs to be created
 - **Maintain consistency** with existing documentation patterns and terminology
@@ -98,7 +100,11 @@ Before working on documentation generation, always review:
 
 1. **`context/outline.md`** - Defines the complete structure and topics that must be covered
 2. **`context/build.md`** - Specifies how the final documentation should be structured for import
-3. **Content in `content/` directories** - Source material for remixing and reference
+3. **🎯 `context/vibes.md`** - **ESSENTIAL**: Documentation philosophy, user experience approach, and writing style
+4. **🎯 `context/tone-and-vocabulary.md`** - **ESSENTIAL**: Official terminology, voice guidelines, and vocabulary standards
+5. **Content in `content/` directories** - Source material for remixing and reference
+
+**⚠️ IMPORTANT:** The tone and vibes files are not optional - they define the voice, personality, and user experience approach that makes LeadConduit documentation delightful and effective. All content must follow these guidelines.
 
 ## Usage Instructions
 
@@ -109,10 +115,18 @@ Before working on documentation generation, always review:
 
 ### Documentation Generation
 1. **Study the outline** in `context/outline.md` to understand required coverage
-2. **Review existing content** in the `content/` directory for relevant material
-3. **Follow build specifications** in `context/build.md` for output structure
-4. **Generate documentation** that combines existing content with new material as needed
-5. **Place final artifacts** in the `build/` directory using the Document360 structure
+2. **📝 Read `context/vibes.md`** to understand the documentation philosophy and user experience approach
+3. **📝 Read `context/tone-and-vocabulary.md`** to learn official terminology and voice guidelines
+4. **Review existing content** in the `content/` directory for relevant material
+5. **Follow build specifications** in `context/build.md` for output structure
+6. **Generate documentation** that combines existing content with new material as needed
+7. **Place final artifacts** in the `build/` directory using the Document360 structure
+
+**🎯 Content Quality Standards:**
+- **Voice**: Follow the helpful colleague tone from `vibes.md` (professional but human)
+- **Terminology**: Use exact terms from `tone-and-vocabulary.md` (e.g., "flow" not "workflow")
+- **User Experience**: Apply the "documentation as hospitality" philosophy
+- **Structure**: Use progressive disclosure and celebrate small wins
 
 ### Content Organization
 - **Source content**: Raw materials in `content/` (do not edit these directly)
@@ -165,11 +179,16 @@ The coordination system proved highly effective, enabling parallel work across m
 
 ## Important Notes
 
-- **Always consult both context files** (`outline.md` and `build.md`) before generating documentation
+- **Always consult ALL context files** before generating documentation:
+  - `outline.md` and `build.md` for structure and format
+  - **`vibes.md` for tone and user experience approach** 
+  - **`tone-and-vocabulary.md` for official terminology and voice**
 - **Use existing content** as the foundation and add new knowledge only where needed
 - **Follow the Document360 structure** specified in `build.md` for all output
 - **Maintain traceability** between source content and generated documentation
 - The `content/` directory is regenerated from CSV data - do not edit files there directly
 - **Use the coordination system** for all multi-helper work to ensure project success
+
+**🚨 CRITICAL REMINDER:** The tone and vocabulary guidelines are not suggestions - they are requirements that ensure consistent, delightful user experiences across all LeadConduit documentation.
 
 This approach ensures that every documentation generation effort is comprehensive, structured, and ready for publication while making maximum use of existing knowledge assets and enabling efficient parallel development.

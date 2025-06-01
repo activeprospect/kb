@@ -28,7 +28,34 @@ This guide ensures consistency in how we write about LeadConduit and ActiveProsp
 
 **Important:** The same Entity can be both a Source and a Recipient. This reflects real business relationships where you might buy certain types of leads from a partner while selling them other types. Think of Source and Recipient as "hats" an Entity wears, not as separate companies.
 
-**Partner** - Another company (Entity) with whom you conduct business within LeadConduit. Not "vendor," "client," or "customer" in this context.
+**Partner** - Another company (Entity) with whom you conduct business within LeadConduit. Always represented by an Entity.
+
+#### Types of Sources
+
+**Default Source** - Automatically added to every flow and named after your account. This is your starting point.
+
+**Account Source** - A globally accessible source representing another LeadConduit account holder. Used when LeadConduit users send leads to each other.
+
+**Custom Source** - A source you create that's only accessible within your account. Used for unique submission formats or private partners.
+
+**Standard Source** - Pre-built source integrations for common platforms (Facebook Lead Ads, web forms, etc.).
+
+**My Sources** - Your personalized list including sources you've added to flows, custom sources you've created, and partners you've connected with.
+
+#### Types of Recipients
+
+**Custom Recipients** - Recipients you create that are only accessible within your account. Used for unique delivery formats or private partners.
+
+**My Recipients** - Your personalized list including recipients you've added to flows, custom recipients you've created, and partners you've connected with.
+
+#### Important Terminology Notes
+
+**Destination vs. Recipient** - In LeadConduit, always use "Recipient." The term "Destination" is specific to LeadsBridge (a separate integration product) and should not be used in LeadConduit documentation.
+
+**Direction Matters** - Always be clear about lead flow direction:
+- Sources send leads TO LeadConduit
+- Recipients receive leads FROM LeadConduit
+- An Entity becomes a Source or Recipient based on this direction
 
 ### Data and Processing
 
@@ -126,6 +153,7 @@ Always use these exact status terms:
 | enrichment | enhancement |
 | vendor | source or partner |
 | client | recipient or partner |
+| destination | recipient (in LeadConduit context) |
 | transform | map |
 | criteria (as logic) | rules |
 | script | TrustedForm Certify Web SDK |
@@ -153,6 +181,20 @@ Always use these exact status terms:
 
 **Discussing Partners:**
 "When you connect with partners in LeadConduit, you're creating an Entity that represents your business relationship. The same partner (Entity) can act as both a Source (when they send you leads) and a Recipient (when you send them leads). For example, 'Solar Solutions Inc.' might send you California solar leads (acting as a Source) while receiving your Florida solar leads (acting as a Recipient) - but it's still one Entity representing one business relationship."
+
+**Explaining Entity Relationships:**
+"Think of it this way:
+- ENTITY: 'ABC Marketing Company' (the actual business)
+  - As SOURCE: When ABC sends you leads → [ABC] → [Your LeadConduit] 
+  - As RECIPIENT: When you send ABC leads → [Your LeadConduit] → [ABC]
+- It's one Entity, two possible roles, based on lead flow direction."
+
+**Clarifying Source/Recipient Types:**
+"Your account has access to different types of sources and recipients:
+- Default Source: Automatically created for testing (named after your account)
+- My Sources: All sources available to you (custom ones you built + partners you've connected)
+- My Recipients: All recipients available to you (custom ones you built + partners you've connected)
+- Custom Source/Recipient: Private to your account for unique integrations"
 
 ---
 

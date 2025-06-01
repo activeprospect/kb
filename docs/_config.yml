@@ -3,6 +3,7 @@ title: LeadConduit User Guide
 description: Comprehensive documentation for LeadConduit lead management platform
 baseurl: "/kb"
 url: "https://activeprospect.github.io"
+repository: activeprospect/kb
 
 # Build settings
 markdown: kramdown
