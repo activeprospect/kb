@@ -149,6 +149,7 @@ Always use these exact status terms:
 |--------------|--------|
 | workflow | flow |
 | pipeline | flow |
+| node | step |
 | contact/record | lead |
 | enrichment | enhancement |
 | vendor | source or partner |
