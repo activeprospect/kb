@@ -294,6 +294,8 @@ body {
 .main-content {
   line-height: 1.7;
   color: var(--text-color);
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .main-content h1,
