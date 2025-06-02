@@ -234,9 +234,9 @@ body {
 }
 
 .doc-content {
-  max-width: 1200px;
+  max-width: none;
   margin: 0;
-  padding: 20px 40px 60px;
+  padding: 20px 20px 60px 20px;
 }
 
 /* Breadcrumbs */
@@ -478,7 +478,7 @@ body {
   }
   
   .doc-content {
-    padding: 20px;
+    padding: 15px;
   }
   
   .page-title {
