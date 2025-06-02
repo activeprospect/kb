@@ -1,0 +1,62 @@
+{% comment %}
+Sidebar Navigation Component
+Renders the collapsible navigation tree from _data/toc.yml
+{% endcomment %}
+
+<ul class="nav-list">
+  {% for section in site.data.toc %}
+    <li class="nav-item {% if section.children %}has-children{% endif %}">
+      {% if section.url %}
+        <a href="{{ section.url | relative_url }}" class="nav-link {% if page.url == section.url %}active{% endif %}">
+          {% if section.children %}
+            <span class="nav-toggle" aria-label="Toggle section"></span>
+          {% endif %}
+          <span class="nav-text">{{ section.title }}</span>
+        </a>
+      {% else %}
+        <div class="nav-section">
+          {% if section.children %}
+            <span class="nav-toggle" aria-label="Toggle section"></span>
+          {% endif %}
+          <span class="nav-text">{{ section.title }}</span>
+        </div>
+      {% endif %}
+      
+      {% if section.children %}
+        <ul class="nav-list nav-list-nested">
+          {% for child in section.children %}
+            <li class="nav-item {% if child.children %}has-children{% endif %}">
+              {% if child.url %}
+                <a href="{{ child.url | relative_url }}" class="nav-link {% if page.url == child.url %}active{% endif %}">
+                  {% if child.children %}
+                    <span class="nav-toggle" aria-label="Toggle subsection"></span>
+                  {% endif %}
+                  <span class="nav-text">{{ child.title }}</span>
+                </a>
+              {% else %}
+                <div class="nav-section">
+                  {% if child.children %}
+                    <span class="nav-toggle" aria-label="Toggle subsection"></span>
+                  {% endif %}
+                  <span class="nav-text">{{ child.title }}</span>
+                </div>
+              {% endif %}
+              
+              {% if child.children %}
+                <ul class="nav-list nav-list-nested">
+                  {% for subchild in child.children %}
+                    <li class="nav-item">
+                      <a href="{{ subchild.url | relative_url }}" class="nav-link {% if page.url == subchild.url %}active{% endif %}">
+                        <span class="nav-text">{{ subchild.title }}</span>
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,72 @@
+{% comment %}
+Page Navigation
+Shows previous/next links based on the table of contents
+{% endcomment %}
+
+{% assign found_current = false %}
+{% assign previous_page = nil %}
+{% assign next_page = nil %}
+
+{% comment %} Flatten the navigation structure {% endcomment %}
+{% assign all_pages = '' | split: '' %}
+
+{% for section in site.data.toc %}
+  {% if section.url %}
+    {% assign all_pages = all_pages | push: section %}
+  {% endif %}
+  
+  {% if section.children %}
+    {% for child in section.children %}
+      {% if child.url %}
+        {% assign all_pages = all_pages | push: child %}
+      {% endif %}
+      
+      {% if child.children %}
+        {% for subchild in child.children %}
+          {% if subchild.url %}
+            {% assign all_pages = all_pages | push: subchild %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% comment %} Find previous and next pages {% endcomment %}
+{% for item in all_pages %}
+  {% if found_current and next_page == nil %}
+    {% assign next_page = item %}
+  {% endif %}
+  
+  {% if item.url == page.url %}
+    {% assign found_current = true %}
+  {% elsif found_current == false %}
+    {% assign previous_page = item %}
+  {% endif %}
+{% endfor %}
+
+<nav class="page-navigation">
+  <div class="page-nav-wrapper">
+    {% if previous_page %}
+      <a href="{{ previous_page.url | relative_url }}" class="page-nav-link page-nav-prev">
+        <span class="page-nav-arrow">←</span>
+        <span class="page-nav-content">
+          <span class="page-nav-label">Previous</span>
+          <span class="page-nav-title">{{ previous_page.title }}</span>
+        </span>
+      </a>
+    {% else %}
+      <div class="page-nav-spacer"></div>
+    {% endif %}
+    
+    {% if next_page %}
+      <a href="{{ next_page.url | relative_url }}" class="page-nav-link page-nav-next">
+        <span class="page-nav-content">
+          <span class="page-nav-label">Next</span>
+          <span class="page-nav-title">{{ next_page.title }}</span>
+        </span>
+        <span class="page-nav-arrow">→</span>
+      </a>
+    {% endif %}
+  </div>
+</nav>
