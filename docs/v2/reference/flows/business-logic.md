@@ -7,6 +7,14 @@ tags:
   - technical
   - business-logic
   - rules-focused
+  - flows-focused
+  - pricing-focused
+  - acceptance-criteria
+  - volume-caps
+  - compliance
+  - intermediate
+  - buyer-focused
+  - financial-management
 ---
 
 # Business Logic Phase

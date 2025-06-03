@@ -14,6 +14,13 @@ tags:
   - notifications
   - dynamic-content
   - handlebars
+  - rules-focused
+  - integrations-focused
+  - flows
+  - universal
+  - intermediate
+  - advanced
+  - data-management
 ---
 
 # Templates

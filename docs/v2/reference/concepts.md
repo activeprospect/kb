@@ -1,3 +1,18 @@
+---
+title: Concepts
+description: Understanding how LeadConduit's twelve core concepts work together
+tags:
+  - conceptual
+  - reference
+  - intermediate
+  - core-concept
+  - universal
+  - flows-focused
+  - data-management
+  - business-logic
+  - analytics
+---
+
 # Concepts 
 
 Understanding how LeadConduit's concepts work together is crucial for effective platform usage. This guide maps the relationships between all twelve core concepts.

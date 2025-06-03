@@ -14,6 +14,15 @@ tags:
   - revenue-optimization
   - cost-tracking
   - margin-calculation
+  - rules-focused
+  - events-focused
+  - reporting-focused
+  - financial-management
+  - buyer-focused
+  - seller-focused
+  - flows
+  - intermediate
+  - advanced
 ---
 
 # Pricing

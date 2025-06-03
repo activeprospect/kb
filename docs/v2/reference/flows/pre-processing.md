@@ -6,6 +6,14 @@ tags:
   - reference
   - technical
   - pre-processing
+  - flows-focused
+  - mappings-focused
+  - integrations-focused
+  - entities-focused
+  - source-configuration
+  - intermediate
+  - seller-focused
+  - data-management
 ---
 
 # Pre-Processing Phase

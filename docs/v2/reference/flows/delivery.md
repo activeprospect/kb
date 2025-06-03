@@ -7,6 +7,14 @@ tags:
   - technical
   - delivery
   - integrations
+  - flows-focused
+  - mappings-focused
+  - templates-focused
+  - integrations-focused
+  - entities-focused
+  - intermediate
+  - buyer-focused
+  - distribution
 ---
 
 # Delivery Phase

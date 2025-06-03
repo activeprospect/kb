@@ -4,6 +4,12 @@ Welcome! This section helps you get up and running quickly. Whether you're a lea
 
 ## 🎯 Quick Start Guides
 
+### [What is LeadConduit?](./what-is-leadconduit.md)
+Understand the core concepts and capabilities of the platform before diving in.
+- **Time**: 5 minutes
+- **Level**: Beginner
+- **Tags**: `beginner`, `conceptual`, `platform`
+
 ### [Building Your First Flow](./building-your-first-flow.md)
 Create a working flow in 10 minutes. Learn the essential concepts while building something real.
 - **Time**: 10 minutes
@@ -37,20 +43,23 @@ Common issues new users face and how to solve them quickly.
 ## 📚 Learning Path
 
 ### For Lead Buyers
-1. Start with [Building Your First Flow](./building-your-first-flow.md)
-2. Learn about [Adding Sources](./adding-sources.md) to receive vendor leads
-3. Configure [Your First Integration](./first-integration.md) to your CRM
-4. Review [Basic Troubleshooting](./basic-troubleshooting.md) for common issues
+1. Understand [What is LeadConduit?](./what-is-leadconduit.md) to grasp the platform
+2. Start with [Building Your First Flow](./building-your-first-flow.md)
+3. Learn about [Adding Sources](./adding-sources.md) to receive vendor leads
+4. Configure [Your First Integration](./first-integration.md) to your CRM
+5. Review [Basic Troubleshooting](./basic-troubleshooting.md) for common issues
 
 ### For Lead Sellers
-1. Begin with [Understanding Lead Submission](./understanding-submission.md)
-2. Set up [Your First Integration](./first-integration.md) as a source
-3. Learn [Basic Troubleshooting](./basic-troubleshooting.md) for submission issues
+1. Learn [What is LeadConduit?](./what-is-leadconduit.md) to understand capabilities
+2. Begin with [Understanding Lead Submission](./understanding-submission.md)
+3. Set up [Your First Integration](./first-integration.md) as a source
+4. Learn [Basic Troubleshooting](./basic-troubleshooting.md) for submission issues
 
 ### For Developers
-1. Read [Understanding Lead Submission](./understanding-submission.md) for the technical flow
-2. Review the [API Reference](../../reference/integrations.md) for integration details
-3. Check [Basic Troubleshooting](./basic-troubleshooting.md) for API issues
+1. Read [What is LeadConduit?](./what-is-leadconduit.md) for architecture overview
+2. Study [Understanding Lead Submission](./understanding-submission.md) for the technical flow
+3. Review the [API Reference](../../reference/integrations.md) for integration details
+4. Check [Basic Troubleshooting](./basic-troubleshooting.md) for API issues
 
 ## 🚀 What's Next?
 

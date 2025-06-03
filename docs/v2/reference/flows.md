@@ -7,6 +7,16 @@ tags:
   - technical
   - core-concept
   - universal
+  - rules-focused
+  - templates-focused
+  - mappings-focused
+  - integrations-focused
+  - entities-focused
+  - events-focused
+  - pricing-focused
+  - intermediate
+  - buyer-focused
+  - seller-focused
 ---
 
 # Flows

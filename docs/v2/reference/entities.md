@@ -7,6 +7,14 @@ tags:
   - technical
   - core-concept
   - advanced
+  - integrations-focused
+  - flows
+  - delivery
+  - reporting-focused
+  - vendor-management
+  - buyer-focused
+  - seller-focused
+  - universal
 ---
 
 # Entities

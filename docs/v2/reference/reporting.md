@@ -7,6 +7,16 @@ tags:
   - technical
   - core-concept
   - analytics
+  - events-focused
+  - exports-focused
+  - flows
+  - financial-management
+  - performance-optimization
+  - universal
+  - intermediate
+  - buyer-focused
+  - seller-focused
+  - admin-focused
 ---
 
 # Reporting

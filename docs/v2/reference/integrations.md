@@ -7,6 +7,15 @@ tags:
   - technical
   - core-concept
   - connectivity
+  - entities-focused
+  - mappings-focused
+  - templates-focused
+  - delivery
+  - flows
+  - universal
+  - intermediate
+  - developer-focused
+  - api-related
 ---
 
 # Integrations

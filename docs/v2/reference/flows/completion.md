@@ -7,6 +7,13 @@ tags:
   - technical
   - events
   - completion
+  - flows-focused
+  - events-focused
+  - reporting-focused
+  - analytics
+  - intermediate
+  - universal
+  - audit-trail
 ---
 
 # Completion Phase

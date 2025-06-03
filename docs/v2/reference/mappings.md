@@ -14,6 +14,14 @@ tags:
   - rules
   - data-transformation
   - field-mapping
+  - templates-focused
+  - rules-focused
+  - integrations-focused
+  - flows
+  - universal
+  - intermediate
+  - buyer-focused
+  - seller-focused
 ---
 
 # Mappings

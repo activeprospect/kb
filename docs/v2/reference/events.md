@@ -7,6 +7,16 @@ tags:
   - technical
   - core-concept
   - audit-trail
+  - flows
+  - reporting-focused
+  - exports-focused
+  - analytics
+  - compliance
+  - universal
+  - intermediate
+  - troubleshooting
+  - pricing-focused
+  - rules-focused
 ---
 
 # Events

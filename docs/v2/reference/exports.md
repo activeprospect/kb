@@ -7,6 +7,14 @@ tags:
   - technical
   - core-concept
   - data-portability
+  - events-focused
+  - reporting-focused
+  - compliance-documentation
+  - analytics
+  - universal
+  - intermediate
+  - admin-focused
+  - api-related
 ---
 
 # Exports

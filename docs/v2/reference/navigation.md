@@ -1,3 +1,15 @@
+---
+title: Reference Navigation
+description: Quick navigation guide to find what you need by task, role, or technical depth
+tags:
+  - reference
+  - navigation
+  - beginner
+  - intermediate
+  - universal
+  - how-to
+---
+
 # Reference Navigation
 
 Find what you need quickly by task, role, or technical depth.

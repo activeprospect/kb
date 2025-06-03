@@ -7,6 +7,13 @@ tags:
   - technical
   - core-concept
   - data-management
+  - types-focused
+  - rules-focused
+  - templates-focused
+  - mappings-focused
+  - universal
+  - intermediate
+  - flows
 ---
 
 # Fields

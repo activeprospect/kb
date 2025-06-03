@@ -7,6 +7,13 @@ tags:
   - technical
   - core-concept
   - data-management
+  - fields-focused
+  - rules-focused
+  - validation
+  - quality-control
+  - universal
+  - intermediate
+  - data-transformation
 ---
 
 # Types

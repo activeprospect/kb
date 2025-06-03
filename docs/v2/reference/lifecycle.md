@@ -1,3 +1,17 @@
+---
+title: Flow Lifecycle
+description: The complete journey of a lead through LeadConduit from arrival to analysis
+tags:
+  - flows-focused
+  - reference
+  - conceptual
+  - intermediate
+  - universal
+  - lifecycle
+  - how-to
+  - best-practices
+---
+
 # Flow Lifecycle
 
 This guide traces the complete journey of a lead through LeadConduit, showing exactly how each concept participates in the processing lifecycle.

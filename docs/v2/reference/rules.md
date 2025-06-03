@@ -14,6 +14,12 @@ tags:
   - acceptance-criteria
   - routing
   - validation
+  - templates-focused
+  - flows
+  - integrations
+  - universal
+  - intermediate
+  - advanced
 ---
 
 # Rules
