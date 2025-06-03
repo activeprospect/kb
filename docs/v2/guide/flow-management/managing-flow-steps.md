@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - flows
+  - integrations
+  - operation
+  - technical
+---
+
 # Managing Flow Steps
 
 Master the art of configuring, organizing, and optimizing steps within your LeadConduit flows. Learn how each step type works and how to build efficient lead processing pipelines.
@@ -55,7 +66,7 @@ Execute When:
 ```
 
 **Configuration Example**:
-![Step Criteria Configuration](./images/step-criteria.png)
+![Step Criteria Configuration](./images/image-1.png)
 
 ### Field Mappings
 
@@ -209,7 +220,7 @@ Steps execute sequentially:
 2. Select **Disable Step**
 3. Acknowledge warnings about dependencies
 
-![Disable Step Menu](./images/disable-step.png)
+![Disable Step Menu](./images/image-2.png)
 
 ### Understanding the Impact
 
@@ -224,7 +235,7 @@ When you disable a step:
 - Affected downstream steps are highlighted
 - Warnings appear on dependent steps
 
-![Disabled Step Warning](./images/disabled-warning.png)
+![Disabled Step Warning](./images/image-3.png)
 
 ### Re-enabling Steps
 
