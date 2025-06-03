@@ -129,9 +129,29 @@ html {
 }
 
 article {
-  max-width: 48rem;
-  margin: 0 auto;
-  padding: 2rem 1rem;
+  max-width: none;
+  margin: 0;
+  padding: 2rem 3rem 2rem 2.5rem;
+}
+
+/* Adjust doc page layout */
+.docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module {
+  padding: 0;
+}
+
+.container {
+  max-width: none;
+  padding: 0;
+  margin: 0;
+}
+
+.col.docItemCol_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module {
+  padding: 0;
+}
+
+/* Keep reasonable max-width for readability */
+.markdown {
+  max-width: 52rem;
 }
 
 article h1:first-child {
@@ -274,6 +294,16 @@ blockquote {
   top: calc(var(--ifm-navbar-height) + 1rem);
 }
 
+/* Doc page layout adjustments */
+.theme-doc-wrapper {
+  display: flex;
+}
+
+.theme-doc-main {
+  flex: 1;
+  min-width: 0;
+}
+
 /* Version dropdown - more polished */
 .navbar__item.dropdown {
   font-size: 0.9rem;
@@ -382,6 +412,10 @@ blockquote {
   
   .navbar__title {
     font-size: 1.125rem;
+  }
+  
+  .container {
+    padding: 0 1rem;
   }
 }
 
