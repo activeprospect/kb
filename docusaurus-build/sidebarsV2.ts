@@ -27,7 +27,104 @@ const sidebars: SidebarsConfig = {
         'introduction/key-concepts-overview',
       ],
     },
-    // Guides section will be added when guide content is created
+    {
+      type: 'category',
+      label: 'Getting Started',
+      collapsed: false,
+      link: {
+        type: 'doc',
+        id: 'getting-started/index',
+      },
+      items: [
+        'getting-started/first-flow',
+        'getting-started/for-buyers',
+        'getting-started/for-sellers',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Guides',
+      collapsed: false,
+      link: {
+        type: 'doc',
+        id: 'guide/index',
+      },
+      items: [
+        {
+          type: 'category',
+          label: 'Getting Started',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/getting-started/index',
+          },
+          items: [
+            'guide/getting-started/building-your-first-flow',
+            'guide/getting-started/adding-sources',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Flow Management',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/flow-management/index',
+          },
+          items: [
+            'guide/flow-management/acceptance-criteria',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Compliance',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/compliance/index',
+          },
+          items: [
+            'guide/compliance/implementing-trustedform',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Troubleshooting',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/troubleshooting/index',
+          },
+          items: [
+            'guide/troubleshooting/lead-rejection-analysis',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Flows',
+      collapsed: true,
+      link: {
+        type: 'doc',
+        id: 'flows/index',
+      },
+      items: [
+        {
+          type: 'category',
+          label: 'Lead Submission',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'flows/lead-submission/index',
+          },
+          items: [
+            'flows/lead-submission/sources',
+            'flows/lead-submission/mappings',
+          ],
+        },
+      ],
+    },
     {
       type: 'category',
       label: 'Reference',
