@@ -1,0 +1,5797 @@
+---
+URL: https://whatsnew.activeprospect.com/en
+Page Title: What's New at ActiveProspect
+Screenshot URL: https://service.firecrawl.dev/storage/v1/object/public/media/screenshot-e5d00f5e-b7e9-42b1-a241-6eb7cd2114ee.png
+Scraped At: 2025-05-30 01:37:41.237
+---
+New
+
+
+
+
+
+
+trustedform
+
+
+
+May 20, 2025
+
+### [New in TrustedForm Verify: Enhanced Compliance Checks](https://whatsnew.activeprospect.com/en/new-in-trustedform-verify-enhanced-compliance-checks)
+
+Programmatically validate font size, contrast ratio, and opt-in method, before contacting a lead.
+
+We’ve added three new automated checks to TrustedForm Verify, to help lead buyers enforce consent standards with confidence.
+
+These checks support compliance with the 'clear and conspicuous' consent requirements under the Telephone Consumer Protection Act (TCPA) and related standards.
+
+Here’s what each check does:
+
+- **Font Size Check** – Verifies that the consent language shown to each lead meets a minimum font size, ensuring it’s easy to read. [Learn more](https://community.activeprospect.com/posts/5561944-coming-soon-trustedform-verify-font-size-check)
+
+- **Contrast Ratio Check** – Confirms that consent text stands out clearly against its background for better visibility. [Learn more](https://community.activeprospect.com/posts/5561943-coming-soon-trustedform-verify-contrast-ratio-check)
+
+- **Opt-in Type Check** – Verifies that each lead opted in using an allowed method, helping you enforce your consent standards. [Learn more](https://community.activeprospect.com/posts/5619028-coming-soon-trustedform-verify-opt-in-type-check)
+
+
+These safeguards help protect your brand, reduce regulatory exposure, and improve lead quality. TrustedForm Verify now lets you apply these standards automatically, helping reduce legal risk and ensure every lead meets your compliance criteria before contact.
+
+**Add Enhanced Compliance Checks to your [TrustedForm Verify](https://activeprospect.com/trustedform/verify/) process today.**
+
+![emoji negative reaction for 'New in TrustedForm Verify: Enhanced Compliance Checks'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New in TrustedForm Verify: Enhanced Compliance Checks'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New in TrustedForm Verify: Enhanced Compliance Checks'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+May 08, 2025
+
+### [New LeadConduit Feature Released: Buyer Step & Free Buyer Accounts](https://whatsnew.activeprospect.com/en/new-leadconduit-feature-released-buyer-step-free-buyer-accounts-gVHbFs1L)
+
+The Buyer Step allows a paid LeadConduit user to deliver leads to their buyer without having to configure a delivery to the buyers CRM. They simply add a Buyer Step in their flow and can either have it deliver to a partner they have already connected with or invite a new Buyer.
+
+- If the Buyer does not have an account with ActiveProspect or has an account but does not have a subscription to LeadConduit, they will be prompted to create one and configure a delivery to their own CRM. This account is free but does not allow them to filter and reject leads.
+- If the Buyer has a paid subscription to LeadConduit, they will be asked which flow they want to add this new source to so they can receive leads from their seller.
+
+[Check it out in our community series for more details!](https://community.activeprospect.com/series/5621463)
+
+![emoji negative reaction for 'New LeadConduit Feature Released: Buyer Step & Free Buyer Accounts'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New LeadConduit Feature Released: Buyer Step & Free Buyer Accounts'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New LeadConduit Feature Released: Buyer Step & Free Buyer Accounts'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+integrations
+
+
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+May 02, 2025
+
+### [New Integrations! Fenris Digital - Customer 360 & Property Details](https://whatsnew.activeprospect.com/en/new-integrations-fenris-digital)
+
+The Fenris Digital Insurance APIs provide all the information you need to quote and bind new business quickly and accurately.
+
+- The [Customer 360](https://activeprospect.com/leadconduit/integrations/fenris/customer_360/) integration quickly and accurately populates household information into application forms, making the insurance application process seamless. The service also returns information that can be used to advise an agent or system about the applicant's financial and family status. This includes information such as the presence of children and mortgage data. This information can be used to ensure that the applicant has the coverage that fits their needs.
+
+- The [Property Details](https://activeprospect.com/leadconduit/integrations/fenris/property_details/) integration enhances property insurance with real-time data sourcing and AI-powered insights. Their API provides instant access to detailed property characteristics, ownership history, and hazard risks, allowing insurers to make informed decisions quickly. By automating data retrieval and enriching applications upfront, you can streamline underwriting, reduce costs, and improve customer experience.
+
+Check it out in our [community series](https://community.activeprospect.com/series/5589302) for more details!
+
+![emoji negative reaction for 'New Integrations! Fenris Digital - Customer 360 & Property Details'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integrations! Fenris Digital - Customer 360 & Property Details'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integrations! Fenris Digital - Customer 360 & Property Details'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+April 30, 2025
+
+### [One-Click Subdomain Registration is Here!](https://whatsnew.activeprospect.com/en/one_click-subdomain-registration-is-here-zLSFcmlg)
+
+Managing domains in TrustedForm just got faster and more intuitive.
+
+### ![✅](https://static.getbeamer.com/emoji/2705.png)**Register All Subdomains Automatically**
+
+You can now register **all subdomains** with a single checkbox when adding a new domain. No more repetitive manual entries—just check “Register all subdomains” and you’re done.
+
+> ![⚠️](https://static.getbeamer.com/emoji/26a0.png) Heads-up: If there are subdomains you **don’t** want to register, you’ll need to add each one manually instead.
+
+### ![💡](https://static.getbeamer.com/emoji/1f4a1.png) Get Started in Seconds:
+
+- Go to **Domain Settings**
+
+- Add a domain
+
+- Check **“Register all subdomains”**
+
+
+Want more details? Read our [Verify Domain Ownership Help Article](https://community.activeprospect.com/posts/4649879-verify-domain-ownership)
+
+### ![👀](https://static.getbeamer.com/emoji/1f440.png) ICYMI: **Unowned Certificates Now Highlighted**
+
+To help you maintain better visibility and control, **certificates from domains without a registered owner** are now **highlighted in your dashboard**. Quickly see what’s missing and take action.
+
+![Image #1](https://app.getbeamer.com/pictures?id=494703-77-977-9F--_vTlOS--_ve-_ve-_vXjvv71l77-977-977-9clRH77-9Zg8P77-977-9Zu-_vU7vv712b--_vQ..&v=4)
+
+[Register your subdomains now](https://account.activeprospect.com/domains)
+
+![emoji negative reaction for 'One-Click Subdomain Registration is Here!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'One-Click Subdomain Registration is Here!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'One-Click Subdomain Registration is Here!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+April 10, 2025
+
+### [New Tools to Identify Risky Lead Sources in TrustedForm](https://whatsnew.activeprospect.com/en/new-tools-to-identify-risky-lead-sources-in-trustedform-Qb0qzxiQ)
+
+We’ve launched new updates in our TrustedForm app to help you identify leads from unverified domains, a key risk for compliance and lead quality. In the Home tab, you’ll now see three new charts showing the breakdown of retained certificates across confirmed vs. unconfirmed domains, the percentage of unverified sources, and a vendor list.
+
+In the Retain tab, any new certificates from unverified domains will now include a clear warning icon. These updates apply only to new certificates moving forward.
+
+**Why This Matters**
+Buying leads from anonymous sources puts your business at serious risk. If a lead generator hasn’t confirmed domain ownership, they can’t be held accountable, and that opens the door to regulatory violations, fraud, and low-quality leads.
+
+![✅](https://static.getbeamer.com/emoji/2705.png)**Compliance:** When domain ownership is confirmed, we can alert sources about potential TCPA issues and help all parties stay compliant.
+![🛡](https://static.getbeamer.com/emoji/1f6e1.png)️ **Fraud prevention:** Bad actors hide behind anonymity. If a domain isn’t verified, you have no way of knowing who’s behind the lead.
+![🔎](https://static.getbeamer.com/emoji/1f50e.png)**Trust:** Your legal and compliance teams need transparency. If a vendor can’t (or won’t) confirm their domains, it raises serious concerns about credibility.
+
+**What You Should Do Now** If you're buying leads from unconfirmed domains, it’s time to act. Ask your vendors to confirm all domains used to generate your leads in ActiveProspect. This process gives you the transparency needed to protect your business.
+
+We’ve created a vendor outreach email template to make it easy to get started.
+
+[Get the template and learn more](https://community.activeprospect.com/posts/5570827-risks-of-buying-leads-from-domains-without-confirmed-owners)
+
+![emoji negative reaction for 'New Tools to Identify Risky Lead Sources in TrustedForm'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Tools to Identify Risky Lead Sources in TrustedForm'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Tools to Identify Risky Lead Sources in TrustedForm'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+March 20, 2025
+
+### [Share URLs: Now Easier to Access!](https://whatsnew.activeprospect.com/en/share-urls-now-easier-to-access)
+
+We’ve made it easier to access Share URLs. Previously, Share URLs were hidden in the Certificate History tab, making them hard to find. To improve accessibility, the Share button has now been moved to the certificate header, making it quicker and simpler to share your certificates. This change will only apply to **new certificates** moving forward and will not be retroactively applied to existing ones.
+
+**Share URLs** allow customers to share certificates with other parties without requiring authentication. This feature is often used when sharing certificates in the event of a complaint or litigation, allowing legal teams, judges, or other parties who may not be members of the customer’s account to view the certificate.
+
+Please note that Share URLs are openly viewable by any party that receives them. As such, they should be used cautiously and in accordance with best practices for sharing.
+
+Learn more about [How to share TrustedForm certificates](https://community.activeprospect.com/posts/5139455-how-do-you-share-a-trustedform-certificate) in our updated community post.
+
+![Image #1](https://app.getbeamer.com/pictures?id=479609-77-9XUTvv73vv70r77-9Iu-_ve-_vXFbHlJf77-9CO-_vRfvv71DBCYcPGleCBVDTu-_vQ..&v=4)
+
+![emoji negative reaction for 'Share URLs: Now Easier to Access!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Share URLs: Now Easier to Access!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Share URLs: Now Easier to Access!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+March 10, 2025
+
+### [TrueCall Integration on TrustedForm Certificates](https://whatsnew.activeprospect.com/en/truecall-integration-on-trustedform-certificates-X7fBnA6f)
+
+We’re excited to announce a new integration that enhances the transparency and validation of your inbound calls. TrustedForm now supports the inclusion of **TrueCall IDs** in TrustedForm certificates, helping you easily verify the legitimacy of the calls you're receiving.
+
+When a **TrueCall ID** is available, it will appear in the **Publisher Provided Data** section of the TrustedForm certificate. By clicking on the TrueCall ID, you’ll be redirected to the TrueCall platform where you can view detailed information about the call and confirm whether it was genuinely initiated by a potential customer.
+
+TrueCall helps eliminate the risk of unauthorized outbound calls infiltrating inbound marketing campaigns, giving you more confidence in the quality of your leads.
+
+Learn more about how to take advantage of the TrueCall integration in our **[TrueCall Integration on TrustedForm Certificates](https://community.activeprospect.com/posts/5571263-truecall-integration-on-trustedform-certificates)** community post!
+
+![Image #1](https://app.getbeamer.com/pictures?id=475436-77-9BmLvv73vv71M2Jc1d--_vTfvv70v77-977-977-914_vv70v77-977-9M--_ve-_vR5eLu-_ve-_vQ..&v=4)
+
+![emoji negative reaction for 'TrueCall Integration on TrustedForm Certificates'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrueCall Integration on TrustedForm Certificates'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrueCall Integration on TrustedForm Certificates'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+March 07, 2025
+
+### [Enhanced Session Replay: Now Available to All Customers!](https://whatsnew.activeprospect.com/en/enhanced-session-replay-now-available-to-all-customers-jbmV3gVc)
+
+We’re thrilled to announce that our enhanced session replay is now available to all customers! Previously exclusive to accounts using our latest product offerings, these powerful new features are now accessible across the board, giving you even more control and insights into user interactions.
+
+**Key Enhancements Include:**
+
+- **Hover Over Events**: See what happened at any point in the timeline with just a hover.
+- **Click to Jump Ahead**: Click on any event or spot on the timeline to jump directly to that moment.
+- **Previous/Next Event Navigation**: Easily navigate through interactions with the previous and next event buttons.
+- **Skip Inactivity**: Enable the “Skip Inactivity” feature to breeze through periods of inactivity and focus on key moments.
+- **Replay from the Start**: Start the session replay from the beginning and watch it as many times as needed.
+- **Event Log Navigation**: Jump to specific moments directly from the event log.
+- **Search the Event Log**: Quickly find exactly what you want to see using search functionality.
+- **Green Highlight on Final Submission**: Hover over the final form submission event, now highlighted in green, to easily identify when the form was successfully submitted.
+
+Please note that these enhancements will apply only to **new certificates** moving forward and will not be retroactively applied to existing ones.
+
+We’ve also updated our [community post](https://community.activeprospect.com/posts/4776894-trustedform-session-replay-enhancements) with all the details, be sure to check it out!
+
+We hope these enhancements will make your session replays more insightful and easier to navigate.
+
+![Image #1](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeAdPqmi2xyfXh2ZKGK4prF8ioovrUuQiSs6Wv6szkMO6-QoPcc5yyw3hK7fGtngc_M-G_o95AxTLEcN8dSdW2i_R8fQmO3jzb5o6kX5fG9RNVSKaLPliWHwrLiXyml-bjc_9vIG1lowDYcItwciAcgztts523F=s2048?key=n5OzB4AxAK_pnq0nuCpJ4Q&v=4)
+
+![emoji negative reaction for 'Enhanced Session Replay: Now Available to All Customers! '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Enhanced Session Replay: Now Available to All Customers! '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Enhanced Session Replay: Now Available to All Customers! '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+January 30, 2025
+
+### [Improved Management of Unreviewed Consent Languages](https://whatsnew.activeprospect.com/en/improved-management-of-unreviewed-consent-languages-OyGM3heK)
+
+The [Consent Language Manager](https://community.activeprospect.com/posts/5474006-trustedform-consent-language-manager) under TrustedForm Verify helps you track and manage variations of consent language shown to your leads. New variations appear in the Unreviewed tab, where you can approve or reject them for future use.
+
+To help you better manage consent language variations, we’re updating how newly autogenerated unreviewed templates are created. Going forward, phone numbers and email addresses will be replaced with placeholders instead of actual values, with **{{phone}}** for phone numbers and **{{email}}** for email addresses.
+
+This change prevents unnecessary template duplication due to minor variations, making it easier to review and manage consent languages efficiently.
+
+You can use these placeholders along with wildcards when creating approved consent language templates to group similar variations together and reduce clutter. For more details on how to use placeholders and wildcards effectively, check out our updated [community post](https://community.activeprospect.com/posts/5448162-manually-add-approved-language-to-trustedform-verify-consent-language-manager).
+
+As a reminder, there is a limit of 1,000 unreviewed consent language templates. Be sure to review and approve or reject them regularly to keep your list manageable.
+
+![Image #1](https://app.getbeamer.com/pictures?id=462666-77-9UO-_vS8_fm1MRMqPZO-_vRIS77-977-9cwDvv71u77-977-977-977-9dS7vv70T77-9Ye-_vQ..&v=4)
+
+![emoji negative reaction for 'Improved Management of Unreviewed Consent Languages'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Improved Management of Unreviewed Consent Languages'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Improved Management of Unreviewed Consent Languages'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Announcement
+
+
+
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+January 28, 2025
+
+### [LeadConduit: New Connections Feature](https://whatsnew.activeprospect.com/en/leadconduit-new-connections-feature)
+
+We’re excited to announce a new update that allows you to connect your account with your partners accounts within ActiveProspect. When your account is connected to your partners account, you will see them available as a source to add to any of your flows. Upon adding your connected partner as a source in one of your flows, their submission documents to send leads to your flow will instantly be available in their account. You can track your accounts connections and pending invites from the Accounts Dashboard.
+
+This [article](https://community.activeprospect.com/series/5554657) explains everything you need to know about how you add a connected partner in LeadConduit as a source.
+
+![emoji negative reaction for 'LeadConduit: New Connections Feature'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit: New Connections Feature'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit: New Connections Feature'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+January 23, 2025
+
+### [TrustedForm Verify: New form\_submitted Field Now Available](https://whatsnew.activeprospect.com/en/trustedform-verify-new-form_submitted-field-now-available)
+
+We're excited to introduce the new **`form_submitted`** field in the TrustedForm Verify API response! This boolean field indicates whether a form was successfully submitted ( `true`) or abandoned before submission ( `false`).
+
+Included in every Verify request, the `form_submitted` field provides a programmatic way to detect and verify form submissions, offering clear insights into form activity and giving lead buyers greater confidence in their data. This update also supports features like extended retention windows for submitted leads.
+
+We’ve updated our [community post](https://community.activeprospect.com/posts/5549726-trustedform-verify-introducing-form-submit) and [TrustedForm API documentation](https://developers.activeprospect.com/docs/trustedform/api/v4.0/tag/Verify/) with more details about this feature—be sure to check it out!
+
+![emoji negative reaction for 'TrustedForm Verify: New form_submitted Field Now Available'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Verify: New form_submitted Field Now Available'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Verify: New form_submitted Field Now Available'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+integrations
+
+
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+
+
+recipient
+
+
+
+December 06, 2024
+
+### [New Recipient Integration! ServiceTitan CRM](https://whatsnew.activeprospect.com/en/new-recipient-integration-servicetitan-crm-h4nZyABN)
+
+This Recipient Integration allows you to Submit Lead Forms to a ServiceTitan CRM account.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/5514707) and [integrations catalog](https://activeprospect.com/leadconduit/integrations/servicetitan) for more details!
+
+![emoji negative reaction for 'New Recipient Integration! ServiceTitan CRM'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Recipient Integration! ServiceTitan CRM'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Recipient Integration! ServiceTitan CRM'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+December 05, 2024
+
+### [New limits on the number of unreviewed consent languages](https://whatsnew.activeprospect.com/en/new-limits-on-the-number-of-unreviewed-consent-languages)
+
+The [Consent Language Manager](https://community.activeprospect.com/posts/5474006-trustedform-consent-language-manager) in the Verify section of TrustedForm helps you organize and track variations of consent language shown to your leads. New variations appear in the _Unreviewed_ tab, where you can decide to approve or reject them for future use.
+
+We’ve noticed that for some customers, this section can grow too large, which may affect the performance of certain features. To address this, we’re introducing a limit of 1,000 consent languages in the _Unreviewed_ tab. Once this limit is reached, new variations will stop populating until the existing ones are reviewed.
+
+If you hit this limit, be sure to review your consent languages to make room. You can also use wildcards to group similar languages together and reduce clutter. We're working on additional updates to make the review process even smoother—stay tuned!
+
+![emoji negative reaction for 'New limits on the number of unreviewed consent languages'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New limits on the number of unreviewed consent languages'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New limits on the number of unreviewed consent languages'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Announcement
+
+
+
+
+
+New
+
+
+
+
+December 04, 2024
+
+### [New Features Hub](https://whatsnew.activeprospect.com/en/new-features-hub-tMSw5mbL)
+
+For all of our non-contracted customers, we are introducing the new Features Hub. You can now view and manage which features are enabled on your account. Check it out to learn more about all of the different features we offer!
+
+![emoji negative reaction for 'New Features Hub'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Features Hub'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Features Hub'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+New
+
+
+
+
+November 21, 2024
+
+### [Subdomain Verification](https://whatsnew.activeprospect.com/en/subdomain-verification)
+
+You can now verify your subdomains!
+
+1.  Go to [Domains](https://account.activeprospect.com/domains) and add your subdomain
+2.  Under Actions, select Verify Ownership for that subdomain
+3.  Copy the TXT Record
+4.  In a new tab, go to your domain's DNS registrar and add a new TXT record at the root domain of the subdomain you're trying to verify
+5.  Click Begin Verification
+
+For more information, view our [community post](https://community.activeprospect.com/posts/4649879-verify-domain-ownership).
+
+![emoji negative reaction for 'Subdomain Verification'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Subdomain Verification'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Subdomain Verification'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+add-ons
+
+
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+October 01, 2024
+
+### [LeadConduit's TrustedForm Add-On updated to support 1:1 Consent Check](https://whatsnew.activeprospect.com/en/leadconduits-trustedform-add_on-updated-to-support-11-consent-check-bQSPCEa0)
+
+If you select **Verify**, you'll be prompted to specify the name of the legal entity for an advertiser that will be used to determine if they were given consent in a one-to-one manner; this step is optional, and you should leave it blank if you don't want to check for one-to-one consent.
+
+![Image #1](https://app.getbeamer.com/pictures?id=424788-77-9CO-_vU9_77-9G--_vUpEQO-_vQPvv73vv73vv71pS--_ve-_vWBvUO-_vX0d77-9Mw_vv71h77-9&v=4)
+
+Learn more in our [community post](https://community.activeprospect.com/posts/5098468) and [add-on catalog](https://activeprospect.com/leadconduit/add-on-services/trustedform/trustedform/) for more details!
+
+![emoji negative reaction for 'LeadConduit's TrustedForm Add-On updated to support 1:1 Consent Check'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit's TrustedForm Add-On updated to support 1:1 Consent Check'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit's TrustedForm Add-On updated to support 1:1 Consent Check'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+Improvement
+
+
+
+
+
+New
+
+
+
+
+October 01, 2024
+
+### [Exciting update to your dashboards!](https://whatsnew.activeprospect.com/en/exciting-update-to-your-dashboards-ZJTKKWmZ)
+
+We’ve upgraded our data visualization tools to enhance your experience. Your dashboards will now have a cleaner and more refined look, making it even easier to gain insights. While the design may look a little different, rest assured that all the data you rely on remains exactly the same.
+
+![emoji negative reaction for 'Exciting update to your dashboards!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Exciting update to your dashboards!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Exciting update to your dashboards!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+September 24, 2024
+
+### [TrustedForm Verify's 1:1 Consent Check is available!](https://whatsnew.activeprospect.com/en/trustedform-verifys-11-consent-check-is-available)
+
+Stay ahead of regulations and avoid fines—make Verify’s 1:1 Consent Check part of your compliance process.
+
+We’re excited to introduce the 1:1 Consent Check, a new feature in TrustedForm's Verify product offering, designed for advertisers who purchase leads and contact consumers. In response to the FCC’s new rule requiring advertisers to obtainconsent from consumers in a one-to-one manner, 1:1 Consent Check allows you to programmatically verify that each consumer has specifically consented to be contacted by your business, helping you confirm your vendors have complied with these updated regulations. This feature mitigates the risk of non-compliance, fines, or legal issues, providing peace of mind as you continue to scale your business. Safeguard your outreach efforts by the 1:1 Consent Check to your lead processing today!
+
+[Learn more in the TrustedForm Verify 1:1 Consent Check community article](https://community.activeprospect.com/posts/5471724-trustedform-verify-1-1-consent-check)
+
+![emoji negative reaction for 'TrustedForm Verify's 1:1 Consent Check is available!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Verify's 1:1 Consent Check is available!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Verify's 1:1 Consent Check is available!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+September 24, 2024
+
+### [TrustedForm Verify: New Delete Feature!](https://whatsnew.activeprospect.com/en/trustedform-verify-new-delete-feature)
+
+We’re excited to announce a new update that allows you to clean up your Consent Language Manager more effectively. With this feature, you can now easily delete consent languages from both the **Approved** and **Rejected** tabs, giving you greater control over managing and organizing your consent templates.
+
+No more workarounds or clutter! Whether you want to remove duplicates or discard outdated templates, this feature simplifies the process of keeping your Consent Language Manager streamlined.
+
+Check out our [TrustedForm Verify: Delete Functionality](https://community.activeprospect.com/posts/5479057-trustedform-verify-delete-consent-language-feature) community post for more details on how to get started!
+
+![Image #1](https://app.getbeamer.com/pictures?id=422068-Mu-_ve-_vSUrMu-_vR5gI23vv73vv70Q77-977-9JDHvv71h77-977-9eu-_ve-_vUpd77-9KO-_ve-_ve-_vQ..&v=4)
+
+![emoji negative reaction for 'TrustedForm Verify: New Delete Feature!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Verify: New Delete Feature!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Verify: New Delete Feature!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+integrations
+
+
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+August 08, 2024
+
+### [New Integration! Airtable - Table Lookup](https://whatsnew.activeprospect.com/en/new-integration-airtable-_-table-lookup)
+
+The new Table Lookup integration lets you retrieve values from a table hosted in your Airtable account based on a column and value name; allowing you to set up filters based on the data you have stored and enrich or validate your lead's data with it.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/5452312/) and [integrations catalog](https://activeprospect.com/leadconduit/integrations/airtable/table_lookup/) for more details!
+
+![emoji negative reaction for 'New Integration! Airtable - Table Lookup'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Airtable - Table Lookup'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Airtable - Table Lookup'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+July 30, 2024
+
+### [LeadConduit: New rule to filter obscenities](https://whatsnew.activeprospect.com/en/leadconduit-new-rule-to-filter-obscenities)
+
+The **is obscene** and **is not obscene** rules allow you to filter out leads that contain obscenities in certain fields.
+
+You can use these rules with any _string_ field, including _first name_, _last name_, _city_, _email_, _state_, _street_, and _url_ in the **Acceptance Criteria** of your _Source_, **Conditions** within your _Field Mappings_, **Step Criteria**, and **Filters** within your Flow _Steps_.
+
+Learn how to use it with our [community post](https://community.activeprospect.com/posts/5447001)!
+
+![emoji negative reaction for 'LeadConduit: New rule to filter obscenities'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit: New rule to filter obscenities'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit: New rule to filter obscenities'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+July 19, 2024
+
+### [LeadConduit: Revert Flow to previous version](https://whatsnew.activeprospect.com/en/leadconduit-revert-flow)
+
+LeadConduit now allows you to revert your Flow to a previously saved version directly from the app.
+
+To do that, go to your **Flow > View History** and click the icon under Actions from the change you want to revert to
+
+![Image #1](https://app.getbeamer.com/pictures?id=406424-S--_vT4I77-9O3tbJe-_vQnvv73vv73vv71QLe-_ve-_ve-_ve-_vU_vv71sbjrvv71S77-9U0Xvv73vv70.&v=4)
+
+![emoji negative reaction for 'LeadConduit: Revert Flow to previous version'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit: Revert Flow to previous version'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit: Revert Flow to previous version'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+add-ons
+
+
+
+
+
+integrations
+
+
+
+June 26, 2024
+
+### [New Add-On! Trestle: Right Party Contact](https://whatsnew.activeprospect.com/en/new-add_on-trestle-right-party-contact-4ujn1OJj)
+
+From just a phone number and name input, this Add-On verifies whether the information provided by the lead matches Trestle’s authoritative database, determining whether the phone number is valid and whether the lead’s name matches the phone owner.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/5428247) and [add-ons catalog](https://activeprospect.com/leadconduit/add-on-services/trestle/right_party_contact/) for more details!
+
+![emoji negative reaction for 'New Add-On! Trestle: Right Party Contact'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Add-On! Trestle: Right Party Contact'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Add-On! Trestle: Right Party Contact'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+
+integrations
+
+
+
+
+
+leadconduit
+
+
+
+
+New
+
+
+
+
+June 21, 2024
+
+### [New Integration! IMDataCenter - CIMA Select](https://whatsnew.activeprospect.com/en/new-integration-imdatacenter-_-cima-select)
+
+The CIMA (Complete Integrated Marketing Append) Select takes any PII information you wish to provide and enhances it completely. Bad and incomplete data is welcome here, but know that the more information you provide, the better their match rate and enhancement will be.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/5426243) and [integrations catalog](https://activeprospect.com/leadconduit/integrations/imdatacenter/cima_select/) for more details!
+
+![emoji negative reaction for 'New Integration! IMDataCenter - CIMA Select'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! IMDataCenter - CIMA Select'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! IMDataCenter - CIMA Select'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+June 13, 2024
+
+### [New Bot Detection feature is open for testing!](https://whatsnew.activeprospect.com/en/new-bot-detection-feature-is-open-for-testing)
+
+Our alpha testing period for a new bot detection features has begun! If you would like to find out how many of your leads were actually created by bots then try it out and give us your feedback. Customers using the latest version of our API (4.0), who have purchased the Insights product and have the ability to create custom API calls are invited to join the test. If you are interested read our full post about the [Bot Detection Alpha Testing](https://community.activeprospect.com/posts/5424099-bot-detection-alpha-testing) for instructions and more information.
+
+![emoji negative reaction for 'New Bot Detection feature is open for testing!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Bot Detection feature is open for testing!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Bot Detection feature is open for testing!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+May 31, 2024
+
+### [New Recipient Integration! Shape](https://whatsnew.activeprospect.com/en/new-recipient-integration-shape)
+
+This Recipient Integration allows you to submit leads into a Shape account.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/5412542) and [integrations catalog](https://activeprospect.com/leadconduit/integrations/shape) for more details!
+
+![emoji negative reaction for 'New Recipient Integration! Shape'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Recipient Integration! Shape'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Recipient Integration! Shape'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+May 28, 2024
+
+### [TrustedForm Validity Check](https://whatsnew.activeprospect.com/en/trustedform-validity-check-kvvwuNeZ)
+
+The new TrustedForm Validity Check feature was just released and gives you the ability to check if certificate URLs you receive are valid or not. This is extremely valuable to lead resellers so they can ensure all their leads have valid TrustedForm certificates and can put an end to guessing whether invalid certificates you were sent are completely fake or simply expired.
+
+Read more about how it works in the [TrustedForm Validity Check community post](https://community.activeprospect.com/posts/5412855-trustedform-validity-check) and check out the [Validate API documentation](https://developers.activeprospect.com/docs/trustedform/validating-certificates/) for technical details.
+
+![Image #1](https://app.getbeamer.com/pictures?id=382173-77-9cO-_vV_vv70J77-977-977-977-977-977-977-977-977-9eO-_vUbvv71qaDUsfmgpae-_vSUoNGU.&v=4)
+
+![emoji negative reaction for 'TrustedForm Validity Check'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Validity Check'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Validity Check'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+March 28, 2024
+
+### [TrustedForm Click to Retain](https://whatsnew.activeprospect.com/en/trustedform-click-to-retain-S2b6LgXX)
+
+Introducing **TrustedForm Click to Retain**! Are you tired of managing API requests and searching for a simpler solution to retain TrustedForm certificates for your leads? Look no further! With **TrustedForm Click to Retain**, you can now store proof of consent for all your leads with just a simple click of a button.
+
+Our newest feature eliminates the need for technical integrations, providing a seamless solution tailored to your compliance needs. Simply navigate to the TrustedForm certificate and click the **""Retain Certificate""** button to secure your proof of consent. It's that easy!
+
+![Image #1](https://app.getbeamer.com/pictures?id=382173-77-9cO-_vV_vv70J77-977-977-977-977-977-977-977-977-9eO-_vUbvv71qaDUsfmgpae-_vSUoNGU.&v=4)
+
+![emoji negative reaction for 'TrustedForm Click to Retain'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Click to Retain'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Click to Retain'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+March 05, 2024
+
+### [LeadConduit: Source Authentication](https://whatsnew.activeprospect.com/en/leadconduit-source-authentication)
+
+LeadConduit now allows you the option to require your Sources to authenticate their lead submissions to you. This functionality will allow you to make sure that your source is truly who they claim to be when they submit leads to you.
+
+Check out our [community post](https://community.activeprospect.com/posts/5255702-how-does-leadconduit-source-authentication-work) for more details!
+
+![emoji negative reaction for 'LeadConduit: Source Authentication'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit: Source Authentication'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit: Source Authentication'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+February 21, 2024
+
+### [TrustedForm Verify: New column additions!](https://whatsnew.activeprospect.com/en/trustedform-verify)
+
+We are excited to announce the latest updates to TrustedForm Verify, which now includes two new columns: the Count column and the Sample Certificates column!
+
+- **Count:** the counter shows the number of times a particular consent language was detected in certificates that were Retained or Verified.
+- **Sample Certificates:** this allows you to view the most recently retained or verified certificate associated with the detected consent language.
+
+With the following additions, you can easily track how often a particular consent language is detected and keep note of where the detected consent languages are coming from.
+
+![Image #1](https://app.getbeamer.com/pictures?id=374436-77-9Ty_vv73vv73vv73vv73vv70aMRlYOAVo77-977-9M--_vRTvv73vv73vv70p77-9Ie-_vX8C77-9X--_vQ..&v=4)
+
+![emoji negative reaction for 'TrustedForm Verify: New column additions!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Verify: New column additions!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Verify: New column additions!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+add-ons
+
+
+
+January 31, 2024
+
+### [New Add-Ons Released! BriteVerify - Phone & Address Verification](https://whatsnew.activeprospect.com/en/new-add_ons-released-briteverify-_-phone-address-verification)
+
+These Add-On services from BriteVerify (Validity Inc.) allow you to easily verify and enhance your lead's Phone or Physical Address.
+
+The [Phone Verification](https://activeprospect.com/leadconduit/add-on-services/briteverify/phone/) add-on allows you to validate and enhance phone numbers before calling them, ensuring the number exists and providing information such as Line Type.
+
+The [Address Verification](https://activeprospect.com/leadconduit/add-on-services/briteverify/address/) add-on allows you to validate U.S. mailing addresses, leveraging the official USPS CASS database's power to ensure accurate delivery of physical mailings.
+
+Check it out in our [community series](https://community.activeprospect.com/series/5310260-briteverify-verification-add-ons/) and [add-ons catalog](https://activeprospect.com/leadconduit/add-on-services/) for more details!
+
+![emoji negative reaction for 'New Add-Ons Released! BriteVerify - Phone & Address Verification'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Add-Ons Released! BriteVerify - Phone & Address Verification'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Add-Ons Released! BriteVerify - Phone & Address Verification'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+January 30, 2024
+
+### [New Recipient Integration! Klaviyo](https://whatsnew.activeprospect.com/en/new-recipient-integration-klaviyo)
+
+This Recipient Integration allows you to create profiles, update profiles, add profiles to lists, subscribe profiles to lists, find profiles within a segment, and get profiles from a Klaviyo account.
+
+Check it out in our [community series](https://community.activeprospect.com/series/5310055) and [integrations catalog](https://activeprospect.com/leadconduit/integrations/klaviyo/) for more details!
+
+![emoji negative reaction for 'New Recipient Integration! Klaviyo'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Recipient Integration! Klaviyo'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Recipient Integration! Klaviyo'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+add-ons
+
+
+
+January 29, 2024
+
+### [New Add-On! Blacklist Alliance - Litigation Firewall for Email](https://whatsnew.activeprospect.com/en/new-add_on-blacklist%2Balliance%2Blitigation%2Bfirewall%2Bfor%2Bemail)
+
+This Add-On returns a basic value judgment about a given email address from a known litigator's database.
+
+The Litigation Firewall for Email API provides direct access to Blacklist Alliance's Litigant Email Feed which consists of a feed of over 100,000 toxic email addresses belonging to known TCPA litigants, claimants, and class action attorneys, allowing you to filter email addresses tied to known TCPA litigants.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/5305145) and [add-ons catalog](https://activeprospect.com/leadconduit/add-on-services/blacklist/litigation_firewall_email/) for more details!
+
+![emoji negative reaction for 'New Add-On! Blacklist Alliance - Litigation Firewall for Email'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Add-On! Blacklist Alliance - Litigation Firewall for Email'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Add-On! Blacklist Alliance - Litigation Firewall for Email'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+source
+
+
+
+January 17, 2024
+
+### [New Source! HomeBuddy](https://whatsnew.activeprospect.com/en/new-source-homebuddy)
+
+HomeBuddy is an online home improvement platform connecting homeowners with local contractors.
+
+With this new source, you can easily add HomeBuddy as a Source to your Flows and automatically capture the data they send over.
+
+Check it out in the [integrations catalog](https://activeprospect.com/leadconduit/integrations/homebuddy/) for more details!
+
+![emoji negative reaction for 'New Source! HomeBuddy'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Source! HomeBuddy'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Source! HomeBuddy'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+December 19, 2023
+
+### [TrustedForm Verify](https://whatsnew.activeprospect.com/en/trustedform-new-ui-update-fPrJQyB8)
+
+Today we introduce the newest product offering in the TrustedForm family!
+
+Verify gives you the tools you need to assure yourself that leads you have purchased have given meaningful consent to be contacted. Purchased leads often originate from hundreds or even thousands of different sources. As a marketer it is your job to make sure you only reach out to leads that were generated in a compliant manner to protect your business from unnecessary violations, litigation and poor consumer experiences that hurt your reputation.
+
+![Image #1](https://app.getbeamer.com/pictures?id=361614-Y--_vVQl77-9bAZB77-977-977-977-977-9RHvvv70scDLvv73vv70yAA8Y77-977-9J23vv73vv73vv70.&v=4)
+
+When you view the Verify section of the TrustedForm application you will be taken to your Consent Language Manager. Here you will see all the different variations of consent languages used to generate the leads you purchased. Have your compliance team review them and approve all the ones that meet their requirements while rejecting the ones that don’t. Then simply use the verify operation within the TrustedForm Certificate API for all the new leads you plan to purchase and the result will tell you whether you should accept it or not.
+
+Expand your compliance assessment and make sure you only purchase leads with meaningful consent using TrustedForm Verify!
+
+[Learn more in the ActiveProspect Community!](https://community.activeprospect.com/posts/4918830-trustedform-verify)
+
+![emoji negative reaction for 'TrustedForm Verify'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Verify'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Verify'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+Announcement
+
+
+
+
+November 20, 2023
+
+### [New Pending Users Feature](https://whatsnew.activeprospect.com/en/new-pending-users-feature-NpY6kyUD)
+
+In the User Management section of your account you'll see a new tab for ""Pending Users"".
+
+We have added extra validation to prevent your coworkers from creating duplicate ActiveProspect accounts. If someone from your company tries to create a new account, they'll now be prompted to request access to join your already existing account. When they do that, you'll receive an email and be able to see the requestor in the Pending Users section. From there you'll be able to accept or reject the request.
+
+![emoji negative reaction for 'New Pending Users Feature'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Pending Users Feature'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Pending Users Feature'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+November 13, 2023
+
+### [TrustedForm: New UI Update](https://whatsnew.activeprospect.com/en/trustedform-new-ui-update)
+
+We have finally updated the TrustedForm UI to use a sidebar for navigation! We've given it a sleek, modern makeover to align with the look and feel of our other ActiveProspect products. Now, your key account features are conveniently nested in the left side panel, making it super intuitive to navigate. The best part? All the functionality you've come to rely on is right where you expect it.
+
+We've introduced four tabs as part of this update:
+
+- Home (formerly the Home tab)
+- Certify (formerly the Issuing Certificates tab)
+- Retain (formerly the Stored Certificates tab)
+- Settings (formerly the Settings tab)
+
+![Image #1](https://app.getbeamer.com/pictures?id=353422-LSvvv73vv71f77-9J--_vQx577-977-9Ku-_vSsBVe-_vTgK77-977-977-9au-_ve-_vTvvv73vv70zF--_vQ..&v=4)
+
+This change will greatly simplify the way you navigate between different products, improve visual consistency across our user interfaces, and enhance your overall experience!
+
+![emoji negative reaction for 'TrustedForm: New UI Update'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm: New UI Update'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm: New UI Update'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+October 27, 2023
+
+### [TrustedForm Dashboard: New cards to help fight fraud](https://whatsnew.activeprospect.com/en/trustedform-dashboard-issued-certificates-cards-mW7KQlHm)
+
+We continue to improve our TrustedForm Dashboard to ensure it provides you with insight into the lead event information captured in the certificates you have retained. Today we're happy to spotlight our 3 newest additions:
+
+![Image #1](https://app.getbeamer.com/pictures?id=349747-e--_ve-_vUY8cu-_vVbvv70gSEct77-977-9Pjbvv70B77-9FyMZOU9TA--_vWrvv70aXA..&v=4)
+
+![Image #2](https://app.getbeamer.com/pictures?id=349748-77-9Je-_ve-_ve-_vTjvv73vv73vv70oYe-_vQvvv71-Yjvvv70gM1jvv70W77-977-9HjHvv71S77-977-977-9&v=4)
+
+![Image #3](https://app.getbeamer.com/pictures?id=349749-77-977-977-977-977-977-977-977-9TzRhMe-_vR_vv71OfO-_vQl0de-_vVTvv707Qybvv71677-9OQc.&v=4)
+
+Using these cards can give you a glimpse into how many of your leads fail basic fraud checks and require attention. If you find that you have a problem and want to filter these leads out of your flows [contact us about TrustedForm Insights](https://activeprospect.com/trustedform/insights/#form) so our experts can help!
+
+[View our community article about the TrustedForm Dashboard for more information!](https://community.activeprospect.com/posts/4560120-trustedform-dashboard)
+
+![emoji negative reaction for 'TrustedForm Dashboard: New cards to help fight fraud'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Dashboard: New cards to help fight fraud'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Dashboard: New cards to help fight fraud'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+source
+
+
+
+October 03, 2023
+
+### [New Source! Modernize](https://whatsnew.activeprospect.com/en/new-source-modernize-hW6e1DPh)
+
+Modernize Home Services connects reliable home improvement contractors and remodelers with eager homeowners, fostering business growth and lasting homeowner relationships.
+
+With this new source, you can easily add Modernize as a Source to your Flows and automatically capture the data they send over.
+
+Check it out in the [integrations catalog](https://activeprospect.com/leadconduit/integrations/modernize/) for more details!
+
+![emoji negative reaction for 'New Source! Modernize'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Source! Modernize'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Source! Modernize'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+September 08, 2023
+
+### [TrustedForm Dashboard: Issued Certificates Cards](https://whatsnew.activeprospect.com/en/trustedform-dashboard-issued-certificates-cards)
+
+We introduced two new cards to the TrustedForm Dashboard to show usage of TrustedForm Certify!
+
+![Image #1](https://app.getbeamer.com/pictures?id=338641-EGjvv73vv73vv70677-977-9O00G77-977-9M--_ve-_ve-_vSFT77-9MO-_ve-_ve-_ve-_ve-_ve-_ve-_vR3vv71kAA..&v=4)
+
+Now, it's easy to quickly see that your [verified domains](https://community.activeprospect.com/posts/4649879-verify-domain-ownership) are issuing certificates and do some spot checking to make sure everything is being recorded accurately.
+
+[View our community article about the TrustedForm Dashboard for more information!](https://community.activeprospect.com/posts/4560120-trustedform-dashboard)
+
+![emoji negative reaction for 'TrustedForm Dashboard: Issued Certificates Cards'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Dashboard: Issued Certificates Cards'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Dashboard: Issued Certificates Cards'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+August 08, 2023
+
+### [New Accounts Look and Feel!](https://whatsnew.activeprospect.com/en/new-accounts-look-and-feel)
+
+You may notice a bit of a change around here...we have updated the look and feel of your account to match the other ActiveProspect products. You will now see main account features nested in the left side panel. All the same functionality exists, we just reorganized it to make it clearer to find what you need.
+
+![Image #1](https://app.getbeamer.com/pictures?id=329795-77-977-977-977-9YO-_ve-_ve-_vRTvv73vv73vv71l77-9GO-_ve-_vTvvv73vv70eNe-_vRDvv70yahsv77-9XSI.&v=4)
+
+**Are you an enterprise customer looking for** [Volume Tracking](https://community.activeprospect.com/posts/4870822-volume-tracking) **?**Don't worry, simply select Billing on the left side panel to check the status of your current volume.
+
+**Looking to invite a colleague to your account?**
+Select User Management, then Invite New Member.
+
+**Need your API Key?**
+Select Settings, then Technical to copy your API key
+
+With this update, there is a new url to access your account (https://account.activeprospect.com). This means that all traffic to any sso.activeprospect.com url will automatically redirect to the new account.activeprospect.com experience.
+Feel free to bookmark for easy access!
+
+We know change can be hard, but thanks for adapting to the new experience.
+
+![emoji negative reaction for 'New Accounts Look and Feel! '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Accounts Look and Feel! '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Accounts Look and Feel! '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+July 05, 2023
+
+### [TrustedForm's Enhanced PII Protection](https://whatsnew.activeprospect.com/en/trustedforms-enhanced-pii-protection)
+
+TrustedForm was created to build trust and transparency between buyers and sellers of internet leads. As we maintain that transparency we also remain committed to protecting the sensitive data that is handled in the process. In order to further support that, TrustedForm certificates now hide all form input data by default until [the certificate has been matched with lead data](https://community.activeprospect.com/posts/4766190-trustedform-lead-matching) to ensure that PII and other sensitive information is only made available to parties that already have access to it.
+
+This change highlights the importance and encourages the best practice of lead matching to protect everyone involved in the lead generation process against mistake or bad actors. It also makes TrustedForm certificates suitable for ping/post lead distribution so that they can be passed to potential buyers to gain more information about the lead event without exposing information that can be used to contact or identify the lead. For lead publishers/vendors this means your process just became easier as you don't have to pass a different URL on the ping anymore!
+
+If you view a TrustedForm certificate and are prompted to [perform lead matching](https://community.activeprospect.com/posts/5021187-lead-matching-when-viewing-a-trustedform-certificate), simply enter the email or phone number input during the lead event and the form input values will be revealed to you the same as they have always been. Make sure to automate this process in the your flows by perform lead matching in your API requests when you store certificates. If you run into any issues contact our support team and they will be happy to help.
+
+![Image #1](https://app.getbeamer.com/pictures?id=323730-77-977-9E--_ve-_ve-_vXcgWe-_vRB077-977-9Z--_vULvv70-XQ9_eO-_ve-_vUl877-977-977-977-977-9&v=4)
+
+Don't know if you're already performing lead matching? Check the [Stored Certificate by Match Status card on the TrustedForm Dashboard](https://community.activeprospect.com/posts/4932869-stored-certificates-by-match-status-on-the-trustedform-dashboard). This will show you how many of your recent certificate were matched with leads or not.
+
+![Image #2](https://app.getbeamer.com/pictures?id=323727-77-9fe-_ve-_ve-_ve-_ve-_ve-_ve-_ve-_ve-_vXPvv73vv73vv73vv70577-977-9JgwfMCV5RzpmS--_vSjvv70.&v=4)
+
+[Watch this to learn more](https://vimeo.com/842364260?share=copy)
+
+![emoji negative reaction for 'TrustedForm's Enhanced PII Protection'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm's Enhanced PII Protection'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm's Enhanced PII Protection'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+add-ons
+
+
+
+
+
+integrations
+
+
+
+
+
+trustedform
+
+
+
+June 30, 2023
+
+### [New Add-On! TrustedForm](https://whatsnew.activeprospect.com/en/new-add_on-trustedform-8ilfNcxe)
+
+This new TrustedForm add-on provides unbiased third-party documentation of consent and real-time actionable insights about the leads you’re acquiring with the following products:
+
+- **Retain**: Store consent in TrustedForm certificates for legal (TCPA) compliance. [Learn more](https://community.activeprospect.com/posts/4986362-trustedform-retain-coming-soon).
+- **Insights**: TrustedForm Insights helps buyers identify the leads that are most likely to convert and effectively manage returns and rejections. [Learn more](https://community.activeprospect.com/posts/4709758-trustedform-insights).
+
+This add-on provides you _Legal Protection_ by verifying and documenting consent for compliance with regulations like TCPA, CASL, etc.; _Fraud Protection_ by verifying you receive authentic leads from interested consumers; _Brand Protection_ by verifying your brand is being presented properly and leads are coming from approved sites; _Data Insights_ by helping you identify and understanding the attributes of your ideal leads; _Actionability_ by optimizing your data buying strategies and increase the actionability of your leads; and _Better Leads_ by capturing a breadth of data about every lead creation event.
+
+Check it out in [our community](https://community.activeprospect.com/posts/5098468) post and [add-ons catalog](https://activeprospect.com/add-on-services/trustedform/trustedform/) for more details!
+
+![emoji negative reaction for 'New Add-On! TrustedForm'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Add-On! TrustedForm'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Add-On! TrustedForm'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+June 30, 2023
+
+### [Introducing TrustedForm Certificate API v4.0](https://whatsnew.activeprospect.com/en/introducing-trustedform-certificate-api-v40)
+
+TrustedForm Certificate API v4.0 is the latest and recommended version when using the TrustedForm product offering. It offers a more organized request & response structure that is extensible to accommodate new products in the future. It also offers discounted pricing for storing certificates you generated and protection against making duplicate requests. [Learn more](https://community.activeprospect.com/posts/5066720-introducing-trustedform-certificate-api-v4-0)
+
+As part of this version upgrade, TrustedForm Consent has been replaced with TrustedForm Retain. Retain is our newest product that is streamlined for retaining certificates and has a name to match. It is important to remember that having a TrustedForm certificate is not the same as having prior express written consent. You must examine how your leads are being generated to ensure that consent is properly obtained during the process. For this reason, Retain is more appropriate product name.
+
+Self-service customers should read [TrustedForm Self Service: How to use API version 4.0](https://community.activeprospect.com/posts/5098113-trustedform-self-service-how-to-use-api-version-4-0) for instructions to use the new version.
+
+Managed customers should wait for your customer success manager to reach out to you about upgrading.
+
+![emoji negative reaction for 'Introducing TrustedForm Certificate API v4.0'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Introducing TrustedForm Certificate API v4.0'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Introducing TrustedForm Certificate API v4.0'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+add-ons
+
+
+
+
+
+integrations
+
+
+
+June 15, 2023
+
+### [New Add-On! Trestle: Real Contact](https://whatsnew.activeprospect.com/en/new-integration-trestle-real-contact)
+
+From just a phone number input, this Add-On validates whether a lead is real, confirms the person is who they say they are, and grades the contactability of the lead.
+
+This service allows you to _Prioritize leads_ with the best chance of contactability based on if the number is connected or disconnected, reachable or a temporary number, and belongs to the person who they say they are; and _Reach your target audience_ by managing your business phone reputation and avoiding outgoing calls to disconnected and temporary numbers.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/5085429) and [add-ons catalog](https://activeprospect.com/add-on-services/trestle/real_contact/) for more details!
+
+![emoji negative reaction for 'New Add-On! Trestle: Real Contact'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Add-On! Trestle: Real Contact'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Add-On! Trestle: Real Contact'](https://app.getbeamer.com/images/emojiPos.svg)
+
+
+New
+
+
+
+
+
+Announcement
+
+
+
+
+June 14, 2023
+
+### [International Credit Cards Now Accepted!](https://whatsnew.activeprospect.com/en/international-credit-cards-now-accepted)
+
+Wherever you are in the world, you can now use international credit cards to pay for ActiveProspect's Self-Service products and services. Either when upgrading from TrustedForm Certify to TrustedForm Consent or working with global colleagues, our credit card payment processor now accepts international credit card addresses. Transact away!
+
+To update your credit card visit the [billing page](https://account.activeprospect.com/billing) as any Self-Service account tier.
+
+![emoji negative reaction for 'International Credit Cards Now Accepted! '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'International Credit Cards Now Accepted! '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'International Credit Cards Now Accepted! '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+May 24, 2023
+
+### [View Your Products List and API Version in Settings](https://whatsnew.activeprospect.com/en/stored-certificates-by-match-status-on-the-trustedform-dashboard-3XeqXK6E)
+
+Have you been trying to figure out which products your account has access to and what API version you are using? We've added this information to the Settings page in the TrustedForm application to make it easy to find. Check here to confirm your account's configuration and get a direct link to the appropriate API documentation for your version.
+
+![Image #1](https://app.getbeamer.com/pictures?id=313041-77-9cnlt77-977-9A--_ve-_vSbvv70kaO-_vS9677-977-9KO-_vT1E77-977-9bhYJQO-_ve-_vUEX&v=4)
+
+![emoji negative reaction for 'View Your Products List and API Version in Settings'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'View Your Products List and API Version in Settings'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'View Your Products List and API Version in Settings'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+Coming Soon
+
+
+
+
+April 05, 2023
+
+### [New data security enhancement limiting access to TrustedForm Certificate session replays](https://whatsnew.activeprospect.com/en/stored-certificates-by-match-status-on-the-trustedform-dashboard)
+
+Beginning July 5, 2023, new TrustedForm certificates will, by default, hide all form input data in session replays to protect against any possible unauthorized access of the Personally Identifiable Information (PII) of consumers. Note: All TrustedForm Certificates created prior to this update will have no change.
+
+With this change, the full session replays (with form inputs) will only be viewable by users who have demonstrated that they already have access to the PII in the session replay. This enhancement ensures that consumer data cannot be accessed through the TrustedForm Certificate by any party who doesn’t already have access to the consumer data. This new data protection is achieved without compromising the current session replay functionality of TrustedForm.
+
+[Read more in the ActiveProspect blog!](https://activeprospect.com/blog/trustedform-new-data-security-enhancement/)
+
+![emoji negative reaction for 'New data security enhancement limiting access to TrustedForm Certificate session replays'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New data security enhancement limiting access to TrustedForm Certificate session replays'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New data security enhancement limiting access to TrustedForm Certificate session replays'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+Announcement
+
+
+
+
+March 03, 2023
+
+### [New year, New Accounts App!](https://whatsnew.activeprospect.com/en/new-year-new-accounts-version)
+
+The ActiveProspect Account app has a fresh new interface. ![🎉](https://static.getbeamer.com/emoji/1f389.png)
+
+You will notice an updated look and feel that is consistent across other ActiveProspect products. This update also includes faster loading times and intuitive organization making it easier to find what you are looking for.
+
+Let us know what you think!
+
+[Try New Version](https://sso.activeprospect.com/products)
+
+![emoji negative reaction for 'New year, New Accounts App!  '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New year, New Accounts App!  '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New year, New Accounts App!  '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+January 26, 2023
+
+### [Stored Certificates by Match Status on the TrustedForm Dashboard](https://whatsnew.activeprospect.com/en/consent-languages-on-the-trustedform-dashboard-2)
+
+Have you been using [TrustedForm's lead matching feature](https://community.activeprospect.com/posts/4766190-trustedform-fingerprint-lead-matching) to ensure that your 3rd party leads have been providing the correct TrustedForm certificate with them? If not, you are leaving your business susceptible to lead fraud, mistakes and more!
+
+Use the [TrustedForm Dashboard](https://community.activeprospect.com/posts/4560120-trustedform-dashboard) to assess your usage of this feature and the results you are getting. You can see how many of your stored certificates fall into each of the possible match statuses each month. Gauge the impact of potentially filtering out leads that don't matched or other business strategies. Take a look at the homepage of the TrustedForm application and start learning more about your leads!
+
+![Image #1](https://app.getbeamer.com/pictures?id=284036-77-9De-_vXzvv713bnBC77-977-9HHgeRwQO77-977-9N--_vTPvv70iFR_vv70HPkEg77-9&v=4)
+
+[Read more in the Stored Certificates by Match Status community support article!](https://community.activeprospect.com/posts/4932869-stored-certificates-by-match-status-on-the-trustedform-dashboard)
+
+![emoji negative reaction for 'Stored Certificates by Match Status on the TrustedForm Dashboard'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Stored Certificates by Match Status on the TrustedForm Dashboard'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Stored Certificates by Match Status on the TrustedForm Dashboard'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+
+
+leadconduit
+
+
+
+January 06, 2023
+
+### [New Integration! Trestle: Address Validation](https://whatsnew.activeprospect.com/en/new-integration-trestle-address-validation)
+
+From some address input, such as street, city, state, or postal code; this integration allows you to find information about a location, including whether an address is valid; and normalizing structured address, such as street, city, postal code, zip4, state code, country code, latitude, and longitude.
+
+This service allows you to _Verify addresses_ by leveraging robust address verification and validation to find properties and people that matter to you; and _Validate_ receiving canonicalized and validated addresses for easy use in all your marketing efforts.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/4891399) and [integration catalog](https://activeprospect.com/integrations/trestle/address_validation/) for more details!
+
+![emoji negative reaction for 'New Integration! Trestle: Address Validation'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Trestle: Address Validation'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Trestle: Address Validation'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+
+Fix
+
+
+
+
+January 03, 2023
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-36)
+
+- Improved the accuracy of clicks shown in session replays. Different browsers render web pages differently which made it possible for the location of clicks to be slightly off in session replays. We have updated our display logic to protect against these differences to make the re-enactment shown in session replay even more reliable!
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+
+
+leadconduit
+
+
+
+December 22, 2022
+
+### [New Integration! Trestle: Phone Intelligence](https://whatsnew.activeprospect.com/en/new-integration-trestle-phone-intelligence)
+
+From just a phone number input, this integration allows you to validate the metadata attributes associated with a phone, such as Is Valid, Country Code, Is Prepaid, Line Type, Carrier, and more.
+
+This service will allow you to _Prioritize leads_ by filtering out noise in your lead queue, deprioritizing low-quality leads coming from undesirable line types or invalid and disconnected phone numbers; _Optimize workflows_ by routing leads correctly and with ease, getting leads to the right teams faster using metadata, like country calling code and carrier; and _Improve conversion_ by appending and validating contact records and leads for better conversion rates.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/4891382-trestle-phone-intelligence) and [integration catalog](https://activeprospect.com/integrations/trestle/phone_intelligence/) for more details!
+
+![emoji negative reaction for 'New Integration! Trestle: Phone Intelligence'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Trestle: Phone Intelligence'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Trestle: Phone Intelligence'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+
+Fix
+
+
+
+
+December 21, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-35)
+
+- Fixed a bug preventing  the typing speed metrics form input method, KPM and WPM from being sent when requesting insights for masked certificates.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+Announcement
+
+
+
+
+December 19, 2022
+
+### [Give your feedback on reporting in TrustedForm!](https://whatsnew.activeprospect.com/en/give-your-feedback-on-reporting-in-trustedform)
+
+Do you wish that you had the ability to generate reports in TrustedForm? Tell us more by completing the [TrustedForm Reporting Survey](https://www.surveymonkey.com/r/QFW5X96) to help us help you!
+
+Click the link below or copy and paste it into your address bar:
+[https://www.surveymonkey.com/r/QFW5X96](https://www.surveymonkey.com/r/QFW5X96)
+
+![emoji negative reaction for 'Give your feedback on reporting in TrustedForm!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Give your feedback on reporting in TrustedForm!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Give your feedback on reporting in TrustedForm!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+December 07, 2022
+
+### [Consent Languages on the TrustedForm Dashboard](https://whatsnew.activeprospect.com/en/consent-languages-on-the-trustedform-dashboard)
+
+Do you wonder what consent languages are being shown to the leads you buy? Do you want to know which ones appear most often so you can prioritize reviews or other business decisions? The TrustedForm Dashboard has a new card you will be interested in!
+
+Now you can see a list of all the consent languages on certificates you have retained and how often they appeared. The Consent Languages section of the TrustedForm Dashboard gives you a quick peek at this information and lets you do a deeper dive into the full list. Take a look on the homepage of the TrustedForm application and start learning more about your leads!
+
+![Image #1](https://app.getbeamer.com/pictures?id=273365-ERfvv70X77-9DHTvv73vv73vv71mdTsAP--_ve-_ve-_vUjvv70DKe-_ve-_ve-_vR1hd--_ve-_vWjvv70.&v=4)
+
+Read more in the [Consent Languages on the TrustedForm Dashboard](https://community.activeprospect.com/posts/4885866-consent-languages-on-the-trustedform-dashboard) community support article!
+
+![emoji negative reaction for 'Consent Languages on the TrustedForm Dashboard'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Consent Languages on the TrustedForm Dashboard'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Consent Languages on the TrustedForm Dashboard'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+
+Fix
+
+
+
+
+December 05, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-34)
+
+- Updated Auto-Retain so that it also retains certificates which are contained in an [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) on one of your verified domains that is enabled to do so.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+
+
+leadconduit
+
+
+
+December 01, 2022
+
+### [New Integration! Trestle: Caller Identification](https://whatsnew.activeprospect.com/en/new-integration-trestle-caller-identification)
+
+This integration allows you to return basic data about a given phone number, including the owner's name, address, demographic, and basic phone metadata.
+
+This service will allow you to _Identify Inbound Callers_ by giving your agents the confidence to know who they are talking to, _Enrich Leads & Contacts_ by appending names and addresses to leads and contacts, and _Create a Better Experience_ by providing customers a personalized experience to showcase your brand's care for them.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/4879634) and [integration catalog](https://activeprospect.com/integrations/trestle/caller_id/) for more details!
+
+![emoji negative reaction for 'New Integration! Trestle: Caller Identification'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Trestle: Caller Identification'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Trestle: Caller Identification'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+trustedform
+
+
+
+
+Announcement
+
+
+
+
+November 21, 2022
+
+### [Volume Tracking](https://whatsnew.activeprospect.com/en/volume-tracking)
+
+We are excited to announce that Volume Tracking is live for our enterprise customers! This long awaited feature enables you to track your current product usage against your contract allotments, so you know how much volume you’ve got left at any given time. Visibility into your platform volume will arm you with the knowledge to make better decisions about your lead flows. No more surprise overages!
+
+[Check out Volume Tracking in your account!](https://sso.activeprospect.com/volume)
+
+![Image #1](https://app.getbeamer.com/pictures?id=268695-Xe-_ve-_vQHvv73vv70l77-977-9Pe-_ve-_vVcG77-9NV_vv70yb--_vVDvv71mQCvvv73vv71577-977-9PQ..&v=4)
+
+![Image #2](https://app.getbeamer.com/pictures?id=268696-77-977-977-9HO-_vUXvv73vv73vv73vv71s77-977-977-9QEcjc--_ve-_ve-_vUPvv71C77-9Ku-_vVYCN--_ve-_vQ..&v=4)
+
+When you begin using the dashboard and questions arise, we created [this help article](https://community.activeprospect.com/posts/4870822-volume-tracking) that explains how to use the new feature in detail. We’ve also built in the ability for you to ‘Contact your CSM’ directly from the dashboard - help is only a few clicks away.
+
+This feature is for our enterprise customers only. If you want to learn more about upgrading your account, talk to our sales team sales@activeprospect.com today!
+
+![emoji negative reaction for 'Volume Tracking '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Volume Tracking '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Volume Tracking '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+
+Fix
+
+
+
+
+November 02, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-337jkAiAv8)
+
+- Fixed a small issue causing a stray comma (,) to appear before the geographic location listed on a certificate.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+October 28, 2022
+
+### [TrustedForm Auto-Retain](https://whatsnew.activeprospect.com/en/trustedform-auto_retain)
+
+Are you looking for a simple solution to retain TrustedForm certificates for the leads you generate? Are you tired of managing API requests and are in search of an easier way? Check out our newest offering, TrustedForm Auto-Retain!
+
+Now you can store proof of consent for all your leads with the click of a button after going through our quick [domain verification](https://community.activeprospect.com/posts/4649879-verify-domain-ownership) process. Simply visit the [Issuing Certificates](https://app.trustedform.com/certificates/issue) page and click ""Enable"" next to the domains you wish to retain certificates for. Then TrustedForm will take care of the rest!
+
+![Image #1](https://app.getbeamer.com/pictures?id=263138-77-977-9Exbvv70D77-977-977-977-977-9FO-_vQTvv73vv71i77-9e2Ze77-9Zu-_ve-_ve-_vQPvv70f77-977-9eQ..&v=4)
+
+Read more in the [TrustedForm Auto-Retain for first party lead certification](https://community.activeprospect.com/posts/4812756-trustedform-auto-retain-for-first-party-lead-certification)!
+
+If you find that you don't have access to Auto-Retain contact your account manager or sales@activeprospect.com today!
+
+![emoji negative reaction for 'TrustedForm Auto-Retain'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Auto-Retain'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Auto-Retain'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+release notes
+
+
+
+
+
+leadconduit
+
+
+
+September 21, 2022
+
+### [External Pricing Service](https://whatsnew.activeprospect.com/en/external-pricing-service)
+
+External Pricing Service is an option within Enhanced Real-time Bidding’s Pricing module to enable a flow to use the price returned by a call to an external API. This functionality enables you to use 3rd party or in-house functionality via our “Custom Integration” enhancement instead of relying on LeadConduit’s rules-based pricing module. Thank you to all the @lc-team for all your hard work!!
+
+Read more info in the [External Pricing Service Post!](https://community.activeprospect.com/posts/4802024-external-pricing-service)
+
+![emoji negative reaction for 'External Pricing Service'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'External Pricing Service'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'External Pricing Service'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+release notes
+
+
+
+
+
+leadconduit
+
+
+
+September 20, 2022
+
+### [Event ID's are now Exportable](https://whatsnew.activeprospect.com/en/event-ids-are-now-exportable)
+
+Many of our clients have requested to have Event ID’s exportable so that they can utilize our feedback functionality, now Event ID can be selected to include as part of an export.
+
+![Image #1](https://app.getbeamer.com/pictures?id=253128-77-977-9SO-_vVhNF--_ve-_vW7vv73vv71577-977-9AGvvv73vv73vv70PN--_ve-_vUPvv71jMkMC77-9Og..&v=4)
+
+![emoji negative reaction for 'Event ID's are now Exportable'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Event ID's are now Exportable'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Event ID's are now Exportable'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Fix
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+September 12, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-37)
+
+- Fix - allow flows to be copied
+- Fix  issue where our data modeling could crash our application
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+August 26, 2022
+
+### [Validate TrustedForm Cert URL in LeadConduit Rulesets!](https://whatsnew.activeprospect.com/en/validate-trustedform-cert-url-in-leadconduit-rulesets)
+
+Our customers frequently ask for a way to quickly and easily validate that a TrustedForm certificate URL is real and not expired. And we’ve listened. LeadConduit can now inspect and validate all TrustedForm certificates instantaneously in any ruleset in LeadConduit. That means that a lead submitted with a TrustedForm certificate URL that is fabricated or points to an expired certificate can now be rejected immediately before the lead is processed.
+
+Simply add a rule to your acceptance criteria to check that the format is valid, and LeadConduit will perform an instant deep analysis on the certificate URL, without any cost to you.
+
+Find out what else you can do with this new field type in the community article linked below!
+
+![emoji negative reaction for 'Validate TrustedForm Cert URL in LeadConduit Rulesets!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Validate TrustedForm Cert URL in LeadConduit Rulesets!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Validate TrustedForm Cert URL in LeadConduit Rulesets!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+Fix
+
+
+
+
+
+
+release notes
+
+
+
+August 26, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-36)
+
+- Fix to enable the ability to copy a step to an existing flow
+- Fix to allow for toggling of flows from enabled/disabled
+- Icon branding updates (Platform dropdown; LeadConduit + TrustedForm icon in Lead events)
+- Improvements to sorting on the Flow list page
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+
+Fix
+
+
+
+
+August 16, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-32)
+
+- Ignore malformed html comments to prevent them from affecting the session replay
+- Record the initial screen position when the TrustedForm Web Script loads to improve accuracy of click locations in the session replay
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+August 15, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-34nsc6rpQD)
+
+- Renamed TrustedForm Data Services (ie; Feature Icon Tooltip, Dialog Title, Description) to TrustedForm Insights
+
+- Relocation of the Credentials Page to Settings
+- Increased width of account selector so that full account names can be viewed
+- Reduced initial payload of flows to improve load times and performance overhead
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+August 10, 2022
+
+### [TrustedForm Session Replay Enhancements](https://whatsnew.activeprospect.com/en/trustedform-session-replay-enhancements)
+
+Watching TrustedForm certificate session replays is the best to way to prove that your consumers have given consent and helps answer your questions about their experience when completing lead generation forms. It is important that when you are watching you can find relevant moments and access them as needed. Our new enhancements to the session replay do exactly that!
+
+If you are using the TrustedForm Consent product you will notice that certificate created starting today and hereafter have session replay controls with a new look and feel. These visual changes come with features that include labeling where certain consumer actions occurred and allowing you to skip forward or backward to specific events! We've made a number of changes to make this more intuitive and similar to the common experience when watching an online video.
+
+![Image #1](https://app.getbeamer.com/pictures?id=245693-77-9bVNASe-_ve-_ve-_vQ_vv73vv73vv73vv70K77-977-977-977-977-977-9IO-_vVzvv71977-977-977-977-9Wz7vv70.&v=4)
+
+Read more in the [TrustedForm Session Replay Enhancements community post](https://community.activeprospect.com/posts/4776894-trustedform-session-replay-enhancements)!
+
+Only available if you are using the TrustedForm Consent product. To purchase this, contact your account manager or sales@activeprospect.com today!
+
+![emoji negative reaction for 'TrustedForm Session Replay Enhancements'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Session Replay Enhancements'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Session Replay Enhancements'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+July 21, 2022
+
+### [New Consent Language Detection!](https://whatsnew.activeprospect.com/en/new-consent-language-detection)
+
+If you are using the TrustedForm Consent product and the TrustedForm Web Script finds consent language on a web page, the certificate that is created will have a section titled ""Consent Language Detected"". This section contains text that was identified as consent language by our proprietary machine learning model. Use this to become more aware of what your leads are consenting to and get new variations approved by your legal team to remain compliant with regulations like the TCPA.
+
+![Image #1](https://app.getbeamer.com/pictures?id=245697-Bu-_ve-_ve-_vU4j77-977-9Le-_ve-_ve-_vQ9c77-977-9I--_ve-_vUE177-9aForLXQLY2jvv73vv70.&v=4)
+
+Read more in the [Consent Language Detected section on TrustedForm Certificates community post](https://community.activeprospect.com/posts/4754533-consent-language-detected-section-on-trustedform-certificates)!
+
+Only available if you are using the TrustedForm Consent product. To purchase this, contact your account manager or sales@activeprospect.com today!
+
+![emoji negative reaction for 'New Consent Language Detection!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Consent Language Detection!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Consent Language Detection!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+July 19, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-34)
+
+- Improve performance of step editor by simplifying appended data discovery
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+June 28, 2022
+
+### [View TrustedForm certificates from your verified domains](https://whatsnew.activeprospect.com/en/view-trustedform-certificates-from-your-verified-domains)
+
+Now that ActiveProspect offers a way for you to [verify domain ownership](https://community.activeprospect.com/posts/4649879-verify-domain-ownership) there are many new features and improvements to your experience that we would love for you to take advantage of!
+
+Today we make it much easier to view the certificates generated for leads you have certified using the TrustedForm Web Script. Simply verify the domain(s) where you add the script and your account will be able to view the certificates that originate from it for as long as they are available. This means you can use the same configuration for testing and production and view the result at no cost to ensure that your content is being captured accurately in your TrustedForm certificates.
+
+![Image #1](https://app.getbeamer.com/pictures?id=245698-77-977-9BAPvv70MTQMy77-9Ym4177-9be-_vVNfI2MXBE_vv718GR7vv71DIzIp&v=4)
+
+Read more in the [Viewing TrustedForm certificates from your verified domains community post](https://community.activeprospect.com/posts/4739136-viewing-trustedform-certificates-from-your-verified-domains)!
+
+![emoji negative reaction for 'View TrustedForm certificates from your verified domains'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'View TrustedForm certificates from your verified domains'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'View TrustedForm certificates from your verified domains'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+June 22, 2022
+
+### [New Date Format Option in Event Exports](https://whatsnew.activeprospect.com/en/new-date-format-option-in-event-exports)
+
+Based on a bunch of feedback from our clients, we've introduced a new option for how dates are formatted during event exports. This new ""yyyy-mm-dd hh:mm:ss"" format is recognized as a ""date/time"" object by spreadsheet applications, allowing you to easily reformat the date into whatever format you need - whether you need just the year for someone's age, just need the date and not the time, etc.
+
+This new format is now the default, but you can deselect the toggle to use the older format.
+
+![Image #1](https://app.getbeamer.com/pictures?id=230539-BUdnau-_ve-_ve-_ve-_vTFw77-977-977-9H--_vX3vv71Odu-_vREOZhhJWV58WSVUQg..&v=4)
+
+[Click here to find out more about exporting data from LeadConduit!](https://community.activeprospect.com/posts/4179649-exporting-lead-data-from-leadconduit)
+
+![emoji negative reaction for 'New Date Format Option in Event Exports'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Date Format Option in Event Exports'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Date Format Option in Event Exports'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+June 22, 2022
+
+### [Add a Memo to Reports!](https://whatsnew.activeprospect.com/en/add-a-memo-to-reports)
+
+Sometimes when you're sharing reports with others, a little context can make the difference between building a shared understanding or causing confusion. LeadConduit's Reporting capability now provides a ""Memo"" field you can use to add this context to reports!
+
+![Image #1](https://app.getbeamer.com/pictures?id=230891-Pkc077-977-977-977-977-977-9V1nvv70a77-977-977-9J--_ve-_ve-_ve-_vUPvv73vv73vv73vv73vv70477-9Jm7vv70.&v=4)
+
+[Click here to find out more about adding Memos to Reports!](https://community.activeprospect.com/posts/4732902-adding-memos-to-reports)
+
+![emoji negative reaction for 'Add a Memo to Reports!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Add a Memo to Reports!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Add a Memo to Reports!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+Fix
+
+
+
+
+June 13, 2022
+
+### [Certificate Claims chart correction](https://whatsnew.activeprospect.com/en/certificate-claims-chart-correction)
+
+The Certificate Claims chart was previously using the incorrect date on the x-axis. This has been corrected to reflect the date on which the certificate was claimed rather than when it was created.
+
+![emoji negative reaction for 'Certificate Claims chart correction'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Certificate Claims chart correction'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Certificate Claims chart correction'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+June 06, 2022
+
+### [""Lookback Period"" added to SuppressionList in Enhanced Real-time Bidding](https://whatsnew.activeprospect.com/en/lookback-period-added-to-suppressionlist-in-enhanced-real_time-bidding)
+
+**Our SuppressionList in Enhanced Real-time Bidding capability has been updated to provide you more control over how you check your lists!**
+
+Now, if you want to disregard more recent matches, you can optionally set a ""lookback period"". For example, if you'd like to only consider a record a ""duplicate"" if they were added within the last 30 days, you'd select ""30"", and ""Days"" as shown in the documentation linked below.
+
+Note that this works _independently_ of SuppressionList's ""auto pruning"" functionality, allowing you to fine-tune your checks without compromising the integrity of your lists.
+
+[Find out about SuppressionList in Enhanced Real-time Bidding (including new instructions for the Lookback Period)](https://community.activeprospect.com/posts/4601784-suppressionlist-in-real-time-bidding-and-purchasing-decisions)
+
+![emoji negative reaction for '""Lookback Period"" added to SuppressionList in Enhanced Real-time Bidding'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for '""Lookback Period"" added to SuppressionList in Enhanced Real-time Bidding'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for '""Lookback Period"" added to SuppressionList in Enhanced Real-time Bidding'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+May 23, 2022
+
+### [TrustedForm Insights](https://whatsnew.activeprospect.com/en/trustedform-insights)
+
+TrustedForm Insights is a new product in the TrustedForm family which allows you to retrieve a wide range of metadata that gives you the capacity to gain an intuitive understanding of your leads. Enhance your leads by having metadata appended to your existing TrustedForm API calls or new requests while bidding on leads that you can use to optimize your purchasing strategy.
+
+Read more in the [TrustedForm API Insights community post](https://community.activeprospect.com/posts/4709758-trustedform-api-insights)!
+
+![emoji negative reaction for 'TrustedForm Insights'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Insights'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Insights'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+May 18, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-33mvhpyOAY)
+
+- Pricing Dialog updated for both Source and Recipient Pricing
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+May 13, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-33W8wIhj1b)
+
+- Facebook Integration updated to fix permission issues with new connections
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+
+
+integrations
+
+
+
+May 10, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-31)
+
+- Adjust the TrustedForm Script to set event timestamps at the start of the event
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+
+
+integrations
+
+
+
+May 03, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-30)
+
+- Fixed a minor discrepancy in the lead age reported when using the TrustedForm Certificate API vs the TrustedForm Data Service integration.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+April 19, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-29)
+
+- Fix an issue causing the TrustedForm Script to interfere with the styling of a limited number of web pages.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+April 13, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-28)
+
+- Added script.anura.io to the list of the TrustedForm Script's ignored domains to protect our who use Anura customers from incurring gratuitous fees related to TrustedForm's storage of website assets.
+- Reduced the size of the TrustedForm Script by optimizing the polyfills it uses while maintaining TrustedForm's [supported browsers](https://community.activeprospect.com/questions/4305062).
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+leadconduit
+
+
+
+April 07, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-335MsIiepa)
+
+- Contact Center Compliance (dnc.com) Integration now using latest version (2.3.0)
+- Old records in exports now cleaned up automatically
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+April 05, 2022
+
+### [Ping URLs in Real-time Bidding](https://whatsnew.activeprospect.com/en/ping-urls-in-real_time-bidding)
+
+LeadConduit now supports either TrustedForm Ping URLs or full TrustedForm Cert URLs when used with TrustedForm Data in Real-time Bidding. Previously, only TrustedForm Cert URLs were supported.
+
+LeadConduit's Ping system is already designed such that buyers cannot extract any information about the lead from the Ping - whether it's PII passed as a field, the Cert URL, etc. However, this capability has been implemented to provide better ease of use and to give vendors more confidence in providing TrustedForm information on the Ping.
+
+[Read the community article...](https://community.activeprospect.com/posts/4656714-ping-url-support-in-real-time-bidding-with-trustedform-data)
+
+![emoji negative reaction for 'Ping URLs in Real-time Bidding'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Ping URLs in Real-time Bidding'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Ping URLs in Real-time Bidding'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+leadconduit
+
+
+
+April 05, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-330cUOJtz7)
+
+- Submission Docs now includes instructions for using TrustedForm Ping URL on Ping.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+April 04, 2022
+
+### [Verify your Domains](https://whatsnew.activeprospect.com/en/verify-your-domains)
+
+As a site-owner generating TrustedForm certificates, we want to provide you insights into domain specific certificate volume and give you credit for TrustedForm certificates claimed from your domains. To do that, all you have to do is verify you are the domain owner.
+
+Verifying your Domains is a familiar and straightforward process, go to [https://account.activeprospect.com/domains](https://account.activeprospect.com/domains) to get started
+
+![Image #1](https://app.getbeamer.com/pictures?id=293148-77-977-9Mu-_ve-_vUXvv70E77-9Vgzvv71E77-9He-_vR3vv73vv73vv71mM--_vXgMEu-_vTbvv71s77-977-9&v=4)
+
+Verifying ownership of domains where you have implemented the TrustedForm Script, lets us positively verify that you created a lead associated with the TrustedForm Certificate.
+
+[Learn more](https://community.activeprospect.com/posts/4649879-verify-domain-ownership)
+
+![emoji negative reaction for 'Verify your Domains '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Verify your Domains '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Verify your Domains '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+leadconduit
+
+
+
+March 30, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-33)
+
+- TrustedForm Ping URLs now ""map"" to TrustedForm Cert URLs on Pings
+- TrustedForm Data Service now accepts TrustedForm Ping URLs when used with Enhanced Real-time Bidding
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+March 28, 2022
+
+### [SuppressionList in Real-time Bidding](https://whatsnew.activeprospect.com/en/suppressionlist-in-real_time-bidding)
+
+## We have introduced a new capability: using SuppressionList queries in acceptance criteria and pricing to give greater control over your Real-time Bidding!    This addition to Real-time Bidding allows you to leverage SuppressionList to make decisions about whether you want to accept a lead, or change your bid on a lead.     Adding SuppressionList to be used within Acceptance Criteria, Volume Caps and Pricing will allow you to…    \- Reject leads earlier in the process, providing better, more instantaneous feedback to Sellers while minimizing spend on processing leads you don’t want     \- Protect yourself from litigation by not bidding on leads that have already asked to not be contacted    \- Bid more aggressively on leads you perceive to be of higher value    \- Bid less aggressively on leads you perceive to be of lower value    Your account must be enabled for Real-time Bidding and using SuppressionList to use this feature on the Ping.
+
+![Image #1](https://app.getbeamer.com/pictures?id=210770-Qu-_ve-_vQpWR2nvv73vv73vv70q77-9d--_ve-_ve-_vUTvv73vv73vv70Y77-9EO-_vVbvv70j77-977-977-9DQs.&v=4)
+
+[Read the community article](https://community.activeprospect.com/posts/4601784-suppressionlist-in-real-time-bidding-and-purchasing-decisions)
+
+![emoji negative reaction for 'SuppressionList in Real-time Bidding'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'SuppressionList in Real-time Bidding'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'SuppressionList in Real-time Bidding'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+March 28, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-28)
+
+**Features**
+
+- SuppressionList in Real-time Bidding
+
+**Usability Improvements**
+
+- Increased size of source configuration modals for better usability
+- Ping limit table on dashboard automatically updates
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+March 14, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-27vzI8gAVh)
+
+- We now sort your Save Reports by name.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+March 09, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-26)
+
+- We have enhanced the Automated Retry feature to include support for HubSpot.
+- We fixed an issue that occasionally interfered with adding an enhancement step to a flow.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+March 02, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-25)
+
+- Fixed an issue where Lead Names were not displaying properly on the Event list page
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+March 02, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-27fL19u8LS)
+
+- TrustedForm Script has been updated to support capturing changes made [using shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM).
+- Optimizations to TrustedForm's session replay to improve efficiency and minimize the chance of visual delays when rendering user actions.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+February 28, 2022
+
+### [New Integration! CallTools: Power Contact Center](https://whatsnew.activeprospect.com/en/new-integration-calltools-power-contact-center)
+
+The CallTools: Power Contact Center integration adds leads as contacts to CallTools' newest product of the same name. Using it simplifies and organizes the way you contact your customers with a variety of options to help manage your campaigns for better connections with your customers and prospects
+
+Check it out in our [community post](https://community.activeprospect.com/posts/4624751-calltools-power-contact-center) and [integration catalog](https://activeprospect.com/integrations/calltools/) for more details!
+
+![emoji negative reaction for 'New Integration! CallTools: Power Contact Center'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! CallTools: Power Contact Center'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! CallTools: Power Contact Center'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+February 28, 2022
+
+### [Ping Limits](https://whatsnew.activeprospect.com/en/ping-limits)
+
+## Introducing a new capability in Real-Time Bidding: Ping Limits.
+
+Use Ping Limits to prevent any source from sending too many pings. You can use this to try out a new vendor with greater security and have increased visibility on the ping activity.
+
+![Image #1](https://app.getbeamer.com/pictures?id=204403-77-977-9WE7vv73vv73vv73vv73vv71277-9du-_ve-_ve-_vV_vv73vv71-Ve-_vTAD77-977-9M--_vVzvv70kFu-_vQ..&v=4)
+
+_Real-time bidding must be enabled to use Ping Limits_
+
+![Image #2](https://app.getbeamer.com/pictures?id=204404-77-9SO-_ve-_vU7vv73vv73vv70xCzIs77-9H--_vWvvv70VaTJD77-9Mu-_vSYkJkjvv73vv73vv73vv70.&v=4)
+
+[Learn More about Ping Limits](https://community.activeprospect.com/posts/4583944-ping-limits)
+
+![emoji negative reaction for 'Ping Limits'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Ping Limits'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Ping Limits'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+February 28, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-249sFa0MUC)
+
+- We have released a new capability for Real-Time Bidding: Ping Rate Limits.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+February 25, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-26)
+
+- TrustedForm Script was updated with improvements to how it captures website elements at 3:26pm CT. This change was rolled back at 4:24pm CT after noticing unusual data in our logs. There are no known issues associated with this event but please reach out to support@activeprospect.com if you encounter any issues.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+February 18, 2022
+
+### [New Integration! TrustedForm Consent + Data](https://whatsnew.activeprospect.com/en/new-integration-trustedform-consent-data)
+
+In addition to all the insightful features that come with TrustedForm API Consent, TrustedForm also captures a breadth of metadata about the creation of the lead. When you upgrade to TrustedForm Consent Plus Data, you gain access to these data points, which provide insight into when and where a lead was created -- which can then be used to determine the quality of a lead and its likelihood to convert.
+
+Our TrustedForm API - Consent + Data includes all the great features of our industry-leading consent documentation plus gives marketers the power to use that data to optimize your buying strategies and increase the actionability of your leads
+
+Check it out in our [integration catalog](https://activeprospect.com/integrations/trustedform/consent_plus_data/) and contact sales@activeprospect.com for more details!
+
+![emoji negative reaction for 'New Integration! TrustedForm Consent + Data'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! TrustedForm Consent + Data'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! TrustedForm Consent + Data'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+February 18, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-25)
+
+- Fixed an issue causing the ""xxTrustedFormPingUrl"" hidden field added by the TrustedForm Script to display ""undefined"".
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+February 15, 2022
+
+### [New Integration! Contact Center Compliance(dnc.com): Disconnect Scrub](https://whatsnew.activeprospect.com/en/new-integration-contact-center-compliancednccom-disconnect-scrub)
+
+The Contact Center Compliance(dnc.com): Disconnect Scrub integration returns a real-time connected/disconnected status for a phone number so you don't waste your time reaching out to disconnected phone numbers.
+
+Check it out in our [community post](https://community.activeprospect.com/posts/4611627-contact-center-compliance-dnc-com-disconnect-scrub) and [integration catalog](https://activeprospect.com/integrations/ccc/disconnect_scrub/) for more details!
+
+![emoji negative reaction for 'New Integration! Contact Center Compliance(dnc.com): Disconnect Scrub'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Contact Center Compliance(dnc.com): Disconnect Scrub'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Contact Center Compliance(dnc.com): Disconnect Scrub'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+February 14, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-23)
+
+- We fixed an issue with the export button in reporting
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+February 14, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-2263l23lTO)
+
+- We have added 2 new reporting calculations: Average Cost and Average Revenue.   Use these to better understand your cost and revenue per lead.
+
+![Image #1](https://app.getbeamer.com/pictures?id=201201-Jh3vv70F77-977-977-977-977-977-977-977-9Me-_vRoANDUFWABx77-9KVfvv71A77-9Ge-_ve-_vV0.&v=4)
+
+[Learn more about our reporting here.](https://community.activeprospect.com/posts/4475478-leadconduit-report-columns)
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+February 10, 2022
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-14)
+
+- DNC.com (2.2.1) - adds new [Disconnect Scrub](https://whatsnew.activeprospect.com/en/new-integration-contact-center-compliancednccom-disconnect-scrub) integration
+
+- Faraday (1.1.1) - updated API Request URL
+
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+February 10, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-226px3O89z)
+
+- We fixed a drop down menu within the rule building that would occasionally be locked in a closed state after clicking the down caret.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+February 09, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-24)
+
+- Fixed an issue causing the claim history tab to not appear on masked certificates.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+February 07, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-23)
+
+- Minor updates to the TrustedForm Script to improve event tracking
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+February 03, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-21GV9KhD1f)
+
+- We fixed an issue where a Marketplace integration would show the wrong screen if a credential from a BringYourOwnCredential integration of the same package existed
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+February 03, 2022
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-13)
+
+- Hatch (1.0.2): updated to the endpoint URL as specified in Hatch's [Standard API Integration](https://help.usehatchapp.com/hc/en-us/articles/360059417192-Standard-API-Integration) documentation.
+
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+February 01, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-22)
+
+- Added criteria to trigger an outcome of failure to the Consent and Consent + Data Claim Response. [Read more.](https://whatsnew.activeprospect.com/en/trustedform-api-consent-failure-outcome)
+- Updated Facebook Marketing API usage to v12.0.
+- Updated the TrustedForm Script(1.8.16) to fix an issue accessing stylesheets on cross-origin domains and other minor improvements.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+February 01, 2022
+
+### [TrustedForm API Consent Failure Outcome](https://whatsnew.activeprospect.com/en/trustedform-api-consent-failure-outcome)
+
+TrustedForm API users with a subscription that includes Consent features are now able to take advantage of the outcome field to do more than tell whether or not a claim was successful. The API also considers factors that affect your ability to verify that consumer has given expressed written consent to be contacted. Currently this will cause the outcome field to respond as ""failure"" if none of the provided fingerprints match, forbidden scan terms ware found or required scan terms were missing. In the future we plan to consider additional factors to increase your confidence that consent was provided. If you want to ensure that your lead has consent be sure to review or filter out leads when the outcome is failure.
+
+\-\-\-
+
+As such the description of the outcome field has been updated to the following:
+""The result of the attempt to verify consent. Success indicates that the certificate was claimed and did not generate any warnings related to consent verification. Failure indicates that the certificate was claimed but generated warnings because no fingerprints matched, forbidden scan terms ware found or required scan terms were missing. Error indicates that the certificate was not claimed and the request should be reviewed and potentially retried.""
+
+![emoji negative reaction for 'TrustedForm API Consent Failure Outcome'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm API Consent Failure Outcome'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm API Consent Failure Outcome'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+January 31, 2022
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-12)
+
+- Trustedform (1.17.3): Support for using wildcards in Trustedform Scan Required Text or Trustedform Scan Forbidden Text. Read more in our [How to use Wildcards in LeadConduit's TrustedForm Enhancements](https://community.activeprospect.com/posts/4594748-how-to-use-wildcards-in-leadconduit-s-trustedform-enhancements) community post!
+
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+January 31, 2022
+
+### [Trends (Beta)](https://whatsnew.activeprospect.com/en/trends-beta)
+
+## **See your flows like never before!**
+
+Introducing Trends (beta) providing data visualization for insights into your business. Click on **Trends** in the left navigation to try it today!
+
+![Image #1](https://app.getbeamer.com/pictures?id=197867-77-9ID_vv70g77-977-9Zi_vv73vv73vv73vv73vv70677-9J--_ve-_ve-_vV9g77-9RO-_ve-_vUJ3ByM9TQ..&v=4)
+
+Data since June 2021 is available in Trends.
+
+[Learn More about Trends](https://community.activeprospect.com/posts/4594716-leadconduit-trends)
+
+![emoji negative reaction for 'Trends (Beta)'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Trends (Beta)'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Trends (Beta)'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+January 31, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-19GCfkjYK9)
+
+- We released a Beta version of Trends to visualize flow activity data over time.
+- We added descriptions of of report columns when selecting them for reports.
+- We fixed an issue not allowing the use of an = sign when hashing literal strings.
+- We fixed an issue  in reporting the deduction of returns from  cost and revenue.
+- We fixed an issue in reporting the count of returns sent to the source.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+January 31, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-221iapaObo)
+
+- We fixed an issue with the Ping Report undercounting the actual usage.   Previously uncounted Pings will be counted on the Jan 31 report.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+January 31, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-21)
+
+- Add new monitoring to identify key components related to verifying consume consent.
+- Minor security updates.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+January 28, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-20FoWhHbgv)
+
+- Fix issues generating certificates from the IE 11 browser.
+- Fix minor TrustedForm Script issues involving identifying HTML elements.
+- Retry failed requests that occur due to XMLHttpRequest being altered.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+Announcement
+
+
+
+
+January 26, 2022
+
+### [Two Factor Authentication Now Available](https://whatsnew.activeprospect.com/en/two-factor-authentication-now-available)
+
+Step-up your ActiveProspect account security with Two Factor Authentication (2FA).
+
+You are probably familiar with 2FA. 2FA is an extra layer of security used to ensure when you are logging into your ActiveProspect account, you are who you say you are. Serving as a validation tool, 2FA works to provide your ActiveProspect account the security you need. First, a user will enter their username and a password. Then, instead of immediately gaining account access, they will be required to provide a custom code received in a text message.
+
+Go to your user account settings to enable for yourself or make a request to Support@ActiveProspect.com to enable for all users on your Account.
+
+[How to Enable 2FA](https://community.activeprospect.com/posts/4579643-two-factor-authentication)
+
+![emoji negative reaction for 'Two Factor Authentication Now Available'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Two Factor Authentication Now Available'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Two Factor Authentication Now Available'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+January 24, 2022
+
+### [New Integration! Reassigned Numbers Database: Query](https://whatsnew.activeprospect.com/en/new-integration-reassigned-numbers-database-query)
+
+The Reassigned Numbers Database: Query integration allows you to ensure you’re contacting the right customer with the Reassigned Numbers Database.
+
+This integration allows you to query the Federal Communications Commission’s (FCC’s) reassigned number information to determine whether a telephone number has been permanently disconnected from an intended consumer.
+
+Check out Reassigned Numbers Database: Query in our [community post](https://community.activeprospect.com/posts/4588233-reassigned-numbers-database-query) and [integration catalog](https://activeprospect.com/integrations/reassigned-numbers-database/query/) for more details!
+
+![emoji negative reaction for 'New Integration! Reassigned Numbers Database: Query'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Reassigned Numbers Database: Query'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Reassigned Numbers Database: Query'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+Announcement
+
+
+
+
+January 24, 2022
+
+### [Data Capture for Android Users of TrustedForm](https://whatsnew.activeprospect.com/en/data-capture-for-android-users-of-trustedform)
+
+This morning we detected a sudden issue preventing TrustedForm certificates from being generated for consumers using an Android operating system. Since then the issue has been resolved and have found the root cause to be a change made by Amazon Web Services (AWS), our cloud services provider, to a security feature meant to block malicious database attacks. The impact of this change prevented the creation of TrustedForm Certificates by Android users from approximately 08:00 - 15:55 UTC.
+
+To mitigate incidents like this from happening in the future we are adding monitors to alert us of anomalous changes in our firewall traffic. If you have any questions regarding yesterday’s outage, please reach out to your Client Services representative.
+
+![emoji negative reaction for 'Data Capture for Android Users of TrustedForm'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Data Capture for Android Users of TrustedForm'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Data Capture for Android Users of TrustedForm'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+January 19, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-17wdwteTcy)
+
+- We increased the width of the vertical scrollbar to provide a larger target to click on.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+Announcement
+
+
+
+
+January 14, 2022
+
+### [TrustedForm Facebook Certificate Claims Impacted](https://whatsnew.activeprospect.com/en/trustedform-facebook-certificate-claims-impacted)
+
+Claims made for TrustedForm certificates that originated from Facebook Lead Ads between 11:15am CST and 12:53pm CST saw an abnormally high error rate that caused some requests to receive an unexpected error. If you experienced any errors while trying to claim certificates during this time we recommend that you retry your requests now. Any failed attempts to claim using LeadConduit(powered by ActiveProspect) during this period will be automatically resubmitted.
+
+We apologize for any inconvenience this caused and thank you for your patience.
+
+![emoji negative reaction for 'TrustedForm Facebook Certificate Claims Impacted'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Facebook Certificate Claims Impacted'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Facebook Certificate Claims Impacted'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+January 14, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-19)
+
+- Update the message returned when an API request results in a 404 not found status.
+- Minor adjustments to improve stability and reliability.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+January 13, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-18)
+
+- Fixed an uncaught TypeError in the TrustedForm script preventing certificate generation on a limited number of websites.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+Coming Soon
+
+
+
+
+January 13, 2022
+
+### [New message for TrustedForm certificates that can not be found](https://whatsnew.activeprospect.com/en/new-message-for-trustedform-certificates-that-can-not-be-found)
+
+TrustedForm certificates must be claimed in order to persist past the duration of the period it is eligible to be claimed. If it hasn't been claimed and an API request is made for a valid certificate URL we have historically returned the message ""certificate not found"". This message is often sent as the rejection reason for the lead and has caused some confusion. Some lead vendors would assume this meant the certificate never existed and that something was wrong with their implementation of the TrustedForm Script. In order to clarify what has occurred in these scenario we are changing the message to ""TrustedForm certificate has expired or could not be found"".The message found in a TrustedForm API response should only be used for informational purposes as it is subject to change to improve our overall user experience. Please ensure that any business decisions that need to be triggered when a certificate can not be accessed use the HTTP response status codes or outcome property.
+
+![emoji negative reaction for 'New message for TrustedForm certificates that can not be found'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New message for TrustedForm certificates that can not be found'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New message for TrustedForm certificates that can not be found'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+January 11, 2022
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-16)
+
+- A new feature - Hours of Operation allows you to schedule when the flow will accept leads and communicate this schedule to the vendor via submission documents.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+January 11, 2022
+
+### [Hours of Operation](https://whatsnew.activeprospect.com/en/hours-of-operation-2CNZ6wzR4)
+
+Do you want filter out leads on the weekends or evenings? It's easy to setup your Hours of Operation. Just click the **calendar icon** at the top of the screen to create a schedule to turn your flow on and off.
+
+![Image #1](https://app.getbeamer.com/pictures?id=189933-IURcU0kM77-977-9Y--_ve-_ve-_ve-_ve-_ve-_vSZn77-977-9GWZl77-977-9Fkgf77-9Se-_vQoN&v=4)
+
+![emoji negative reaction for 'Hours of Operation'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Hours of Operation'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Hours of Operation'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+January 11, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-17)
+
+- Gave users the option to login when a certificate is not found.
+- Fixed a minor bug causing lead age to appear negative.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+January 05, 2022
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-17A6oX59Pv)
+
+- Added support for styled-components v5
+- Fixed rare bug preventing the TrustedForm script from loading
+- Updated logging
+- Added interactive code generator for TrustedForm script installation to ""Issuing Certificates"" tab
+- Upgraded background processing library
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+December 28, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-15)
+
+- Minor updates to the TrustedForm tech stack
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+December 22, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-14EkTz4yln)
+
+- Fixed an issue preventing the TrustedForm Script from tracking orphaned sibling elements.
+- Rolled back the above change after reports of console errors caused by the TrustedForm Script
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+December 22, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-11)
+
+- Trustedform (1.17.2): Synced the reasons returned by TrustedForm Consent with the API response.
+
+- Service Objects Geo Phone Plus 2 (2.0.1): Added the fields returned for contacts to the list of appended fields.
+
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+December 21, 2021
+
+### [TrustedForm Homepage with Analytics](https://whatsnew.activeprospect.com/en/trustedform-homepage-with-analytics)
+
+TrustedForm has received an update that includes a new homepage and new look! The homepage is a quick place to see useful information about the TrustedForm certificates you have claims and gather insights about leads contained in them. You will see new data visualizations showcasing your recent volume of certificate claims, how old your leads were when you claimed their certificates, how long leads spent on forms / web pages and more!
+
+Read More in the [TrustedForm Homepage with Analytics](https://community.activeprospect.com/posts/4560120-trustedform-homepage-with-analytics) community post!
+
+![emoji negative reaction for 'TrustedForm Homepage with Analytics'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Homepage with Analytics'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Homepage with Analytics'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+December 21, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-13)
+
+- Added new [TrustedForm Homepage](https://whatsnew.activeprospect.com/en/trustedform-homepage-with-analytics).
+- Updated the TrustedForm UI.
+- Added Beamer notifications to TrustedForm.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+December 20, 2021
+
+### [Day Parting with Submission Timestamp](https://whatsnew.activeprospect.com/en/day-parting-with-submission-timestamp)
+
+We have just released Day Parting functionality that allows your flow to handle leads based on the time of day or day of the week. Just select Submission Timestamp as the ""flow field""
+
+\- Here's just one example of of using the step criteria to deliver to a CRM only between 9am and 5pm.
+
+![Image #1](https://app.getbeamer.com/pictures?id=190770-Je-_vUIpNO-_vR7vv70o77-977-9BHV977-977-9LnZYcu-_ve-_vWh9aO-_vSAh77-9A1Lvv70.&v=4)
+
+[Learn more about Day Parting](https://community.activeprospect.com/posts/4540073-leadconduit-day-parting)
+
+![emoji negative reaction for 'Day Parting with Submission Timestamp'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Day Parting with Submission Timestamp'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Day Parting with Submission Timestamp'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+December 20, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-15aPOztAlr)
+
+- Submission Timestamp can be used in rules to handle leads based on the time of day or the day of the week.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+December 16, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-12Aq3sHBBQ)
+
+- Add necessary processes to store TrustedForm certificates created from mobile applications.
+- Logging adjustments
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+December 13, 2021
+
+### [New Integration! TrustedForm: Consent](https://whatsnew.activeprospect.com/en/new-integration-trustedform-consent)
+
+The TrustedForm: Consent integration allows you to document consent in TrustedForm certificates for legal (TCPA) compliance.
+
+This integration makes it easier than ever to store TrustedForm certificates using LeadConduit as it is streamlined to focus only on the necessities to verify consent and protect your business.
+
+Check out TrustedForm: Consent in our [community post](https://community.activeprospect.com/posts/4552827-trustedform-consent) and [integration catalog](https://activeprospect.com/integrations/trustedform/consent/) for more details!
+
+![emoji negative reaction for 'New Integration! TrustedForm: Consent'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! TrustedForm: Consent'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! TrustedForm: Consent'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+December 13, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-10)
+
+- Trustedform (1.17.1): Added new integration for the new API option, TrustedForm Consent
+
+- Convoso (1.0.4): Updated the description
+
+- BriteVerify (1.0.4): Updated the outcome field description
+
+- iLeads (1.1.2): Added the ""Property Data"" tag
+
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+December 13, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-11)
+
+- Upgrades to core libraries used by the TrustedForm application. No impact expected to TrustedForm users.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+December 09, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-10)
+
+- Two new API options released: ""Consent"" and ""Consent + Data"". These options give you the ability to choose between using TrustedForm strictly for documenting consent or also receiving metadata about the creation of the lead. Contact sales@activeprospect.com to learn more!
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+November 30, 2021
+
+### [New Integration! IPQualityScore: Email Validation](https://whatsnew.activeprospect.com/en/new-integration-ipqualityscore-email-validation)
+
+The IPQualityScore: Email Validation integration allows you to validate email addresses and identify high risk emails.
+
+IPQualityScore's Email Validation service gives you the data you need to identify fake accounts, typos, bounces, invalid user data, and other abuse.
+
+Check out IPQualityScore: Email Validation in our [community post](https://community.activeprospect.com/posts/4540139-ipqualityscore-email-validation) and [integration catalog](https://activeprospect.com/integrations/ipqualityscore/email_validation/) for more details!
+
+![emoji negative reaction for 'New Integration! IPQualityScore: Email Validation'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! IPQualityScore: Email Validation'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! IPQualityScore: Email Validation'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+November 30, 2021
+
+### [New Integration! IPQualityScore: Phone Validation](https://whatsnew.activeprospect.com/en/new-integration-ipqualityscore-phone-validation)
+
+The IPQualityScore: Phone Validation integration verifies phone numbers and identifies suspicious numbers in real-time with phone number reputation scores.
+
+IPQualityScore's Phone Validation service performs carrier lookups by API in any region to detect disconnected phone numbers and retrieve important carrier info including line types to determine if a number is a VOIP, landline, mobile/wireless, or prepaid line.
+
+Check out IPQualityScore: Phone Validation in our [community post](https://community.activeprospect.com/posts/4540140-ipqualityscore-phone-validation) and [integration catalog](https://activeprospect.com/integrations/ipqualityscore/phone_validation/) for more details!
+
+![emoji negative reaction for 'New Integration! IPQualityScore: Phone Validation'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! IPQualityScore: Phone Validation'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! IPQualityScore: Phone Validation'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+November 30, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-9mbaSYh2V)
+
+- IPQualityScore (1.1.1) : added two new integrations: [Phone Validation](https://whatsnew.activeprospect.com/en/new-integration-ipqualityscore-phone-validation) and [Email Validation](https://whatsnew.activeprospect.com/en/new-integration-ipqualityscore-email-validation)
+- Alot.co (1.0.1): [New Integration: Alot.co](https://whatsnew.activeprospect.com/en/new-integration-alotco-add-a-lead)
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+November 30, 2021
+
+### [New Integration! Alot.co: Add a Lead](https://whatsnew.activeprospect.com/en/new-integration-alotco-add-a-lead)
+
+The Alot.co: Add a Lead integration allows you to send leads to the alot platform.
+
+Alot.co is a platform that enhances your sales and marketing efforts by automating outreach and qualification at scale.
+
+Check out Alot.co: Add a Lead in our [community post](https://community.activeprospect.com/posts/4540143-alot-co-add-a-lead) and [integration catalog](https://activeprospect.com/integrations/alot/) for more details!
+
+![emoji negative reaction for 'New Integration! Alot.co: Add a Lead'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Alot.co: Add a Lead'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Alot.co: Add a Lead'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+November 24, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-8)
+
+- iLeads (1.1.1): fix a response parsing issue in the RealTag integration when no ""Liens"" data is returned.
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+November 24, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-9vHHXXoOP)
+
+- New Feature: [Publisher Provided Data: Unique Identifier](https://whatsnew.activeprospect.com/en/publisher-provided-data-unique-identifier)
+- Fixed an issue that could prevent claim reports from being displayed
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+November 24, 2021
+
+### [Publisher Provided Data: Unique Identifier](https://whatsnew.activeprospect.com/en/publisher-provided-data-unique-identifier)
+
+TrustedForm captures data and events revolving around about how a consumer interacts with the web page the TrustedForm Script is installed on. This begs the question... What happens when the consumer interacts with multiple web pages or screens that each generate their own TrustedForm certificate? This is a common occurrence in co-registration lead generation and requires website publishers to maintain data around which TrustedForm certificates belong together. Now that data can be passed onto the TrustedForm certificate itself!
+
+Read More in the [TrustedForm Publisher Provided Data: Unique Identifier](https://community.activeprospect.com/posts/4535777-trustedform-publisher-provided-data-unique-identifier) community post!
+
+![emoji negative reaction for 'Publisher Provided Data: Unique Identifier'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Publisher Provided Data: Unique Identifier'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Publisher Provided Data: Unique Identifier'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+November 23, 2021
+
+### [ActiveProspect Release Notes](https://whatsnew.activeprospect.com/en/activeprospect-release-notes)
+
+- Chat bubble is now available for getting support when managing your account.
+
+![emoji negative reaction for 'ActiveProspect Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'ActiveProspect Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'ActiveProspect Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+November 22, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-8)
+
+- Fixed inline rendering of SVG images in screen capture
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+November 19, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-7)
+
+- TrustedForm (1.16.3): Fix fields that were incorrectly being obfuscated.
+- Google (2.1.1): Update title.
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+November 18, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-14)
+
+- Fixed issue where group by select on shared reports might not show options
+- Fixed issue where user could remove value from the rule LHV input
+- Fixed issue where the searching the list of fields was not filtering the list as expected
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+November 17, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-7c9UJ95dr)
+
+- iLeads (1.1.0): [New Integration: iLeads RealTag](https://whatsnew.activeprospect.com/en/new-integration-ileads-realtag?role=TrustedForm%3BLeadConduit%3BIntegrations%3B).
+
+- TrustedForm (1.16.2): Accept mobile certs, and format reason field on responses with 500 status to be consistent with other statuses.
+- Contact Center Compliance (dnc.com) (2.1.11): Fix formatting of reason field when an unauthenticated request is made.
+- Twilio (1.1.2): Correct a misspelling in a field description.
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+November 17, 2021
+
+### [New Integration! iLeads: RealTag](https://whatsnew.activeprospect.com/en/new-integration-ileads-realtag)
+
+The iLeads: RealTag integration allows you to enhance your lead using bank accurate homeownership, property, and mortgage data.
+
+iLeads' RealTag service gives you the information you need feed your call centers with qualified leads and make you more likely to close deals!
+
+Check out the iLeads: RealTag integration in our [community post](https://community.activeprospect.com/posts/4529518-ileads-realtag) for more details!
+
+![emoji negative reaction for 'New Integration! iLeads: RealTag'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! iLeads: RealTag'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! iLeads: RealTag'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Announcement
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+trustedform
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+November 08, 2021
+
+### [Release Notes for TrustedForm and LeadConduit Now Available!](https://whatsnew.activeprospect.com/en/release-notes-for-trustedform-and-leadconduit-now-available)
+
+We are now posting Release Notes here to make it easier for you to know about what's new at ActiveProspect. You can even filter for just news about a particular product.
+
+![emoji negative reaction for 'Release Notes for TrustedForm and LeadConduit Now Available!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Release Notes for TrustedForm and LeadConduit Now Available!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Release Notes for TrustedForm and LeadConduit Now Available!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+November 08, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13)
+
+- Fixed issue where acceptance criteria would erroneously display on Ping Docs
+- Fixed issue where ad blockers would block our analytics data
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+November 04, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-7gmHQ9tBK)
+
+- The claiming window for leads where the TrustedForm script is able to detect a submit event is now automatically extended to 90 days! Read more about this chance in the [Extended Claim Window for Submitted Leads Community Post](https://community.activeprospect.com/posts/4488105-extended-claim-window-for-submitted-leads).
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+November 01, 2021
+
+### [New Integration! iLeads: Gatekeeper](https://whatsnew.activeprospect.com/en/new-integration-ileads-gatekeeper)
+
+The iLeads: Gatekeeper integration allows you to enhance your lead Using lending-based property data that spans over 99% of U.S. homeowners!
+
+iLeads' Gatekeeper service provides real-time collateral analysis & loan suggestions on your mortgage leads to help you increase your lead to loan conversation rate.
+
+Check out the iLeads: Gatekeeper integration in our [catalog](https://activeprospect.com/integrations/ileads/gatekeeper/) and [community post](https://community.activeprospect.com/posts/4512641-ileads-gatekeeper) for more details!
+
+![emoji negative reaction for 'New Integration! iLeads: Gatekeeper'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! iLeads: Gatekeeper'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! iLeads: Gatekeeper'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+November 01, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes)
+
+- A new iLeads: Gatekeeper integration has been released! Read more about it in the [iLeads: Gatekeeper Community Post.](https://community.activeprospect.com/posts/4512641-ileads-gatekeeper)
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+October 19, 2021
+
+### [New Integration! IPQualityScore: Proxy & VPN Detection](https://whatsnew.activeprospect.com/en/new-integration-ipqualityscore-proxy-vpn-detection)
+
+The IPQualityScore: Proxy & VPN Detection integration allows you to enhance your lead with their IP address details including hostname, ISP, IP reputation and more!
+
+IPQualityScore's Proxy & VPN Detection helps lead buyers proactively prevent fraud via a simple API that provides over 25 data points for risk analysis, geo location, and IP intelligence.
+
+Check out the IPQualityScore: Proxy & VPN Detection integration in our [catalog](https://activeprospect.com/integrations/ipqualityscore/proxy_detection/) and [community post](https://community.activeprospect.com/posts/4498196-ipqualityscore-proxy-vpn-detection) for more details!
+
+![emoji negative reaction for 'New Integration! IPQualityScore: Proxy & VPN Detection'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! IPQualityScore: Proxy & VPN Detection'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! IPQualityScore: Proxy & VPN Detection'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+October 19, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-4tZ51fdmv)
+
+- A new IPQualityScore: Proxy & VPN Detection integration has been released! Read more about it in the [IPQualityScore: Proxy & VPN Detection Community Post.](https://community.activeprospect.com/posts/4498196-ipqualityscore-proxy-vpn-detection)
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+October 18, 2021
+
+### [Download Recent Lead Exports](https://whatsnew.activeprospect.com/en/download-recent-lead-exports)
+
+Ever struggle to find the notification email to download your lead export? You can now also navigate directly to the **Lead Exports** page to access it!
+
+![Image #1](https://app.getbeamer.com/pictures?id=175870-Ke-_vSUV77-977-977-9Ju-_vRnvv71q77-9UO-_ve-_ve-_vTwpY--_ve-_ve-_ve-_vUof77-9Bu-_vQTvv73vv70.&v=4)
+
+In the left hand navigation menu, click Leads>Lead Exports
+
+![emoji negative reaction for 'Download Recent Lead Exports'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Download Recent Lead Exports'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Download Recent Lead Exports'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+October 18, 2021
+
+### [New Icons on the Edit Flow page to Manage Features](https://whatsnew.activeprospect.com/en/new-icons-on-the-edit-flow-page-to-manage-features)
+
+_There are a few new icons you may notice when editing your Flow._
+
+\- The Gavel icon allows you to configure Real-time Bidding (Ping/Post) on the flow.
+
+\- The Shield icon will indicate if TrustedForm Data is being used on your Acceptance Criteria, Volume Caps or Pricing on the flow.
+
+These features must be enabled on your account prior to use. Reach out to your client success manager for more information.
+
+![Image #1](https://app.getbeamer.com/pictures?id=175874-77-9SnYs77-977-9LxUf77-977-9Q--_ve-_vT_vv70oMu-_vXfvv71177-9I--_vQ1N77-9GUnvv73vv70.&v=4)
+
+![emoji negative reaction for 'New Icons on the Edit Flow page to Manage Features'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Icons on the Edit Flow page to Manage Features'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Icons on the Edit Flow page to Manage Features'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+October 18, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13t3tFyby7)
+
+- Now you can directly find and download past lead exports on the Lead Exports page located in the navigation menu under Leads. This is in addition to accessing it from the link in the original notification email.
+- A new Gavel icon appears on the flow editor allows you to configure Real-time bidding.
+- A new Cloud icon appears on the flow editor allows you to configure AWS Firehose if enabled on the account.
+- A new TrustedForm Shield icon appears on the flow editor will indicate if you have any Acceptance Criteria, Volume Cap or Pricing that is being enhanced by TrustedForm Data.
+- Fixed an issue with long flow names colliding with other elements on the page.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+October 06, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13JYKbFQRt)
+
+- Updated the list pricing of the TrustedForm Data Query Enhancement
+- Added automated actions to disable flows when inactivating an account
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+October 05, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13NpJxqGz9)
+
+- Fixed an issue with scrolling on shared reports
+- Fixed an issue with selecting a similar recipient instead when creating a recipient
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+October 01, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13sUXgWyqG)
+
+- Fixed an issue with mapping rule inputs
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+September 28, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes)
+
+- Wildcards and template are available to use in page scanning. These new options give users more flexibility to define required/forbidden text without rewriting similar variations over and over. Read more in the [Improved Page Scanning post.](https://internal.activeprospect.com/posts/4469806-improved-page-scanning)
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+September 28, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13qOflugLE)
+
+- Now you can export all event types when using basic filters - this detailed information is at your command when you need to align with partners about lead deliveries or lead disposition.
+- Fixed an issue with return dashboard counts not matching the events detail view
+- Fixed an issue with dashboard events links missing the flow filter
+- Fixed an issue where enhancement pricing was not displaying correctly
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+September 28, 2021
+
+### [Export All Event Types](https://whatsnew.activeprospect.com/en/export-all-event-types-2)
+
+We've expanded your ability to export events for all event types with basic filters. Yay!
+
+Simply navigate to Leads/Lead Events to select any event type and configure your export. Take ownership of your event data for further analysis or internal reporting.
+
+![Image #1](https://app.getbeamer.com/pictures?id=172126-PCnvv71V77-9YlPvv70e77-9N--_ve-_ve-_vX5U77-977-977-977-9VGI277-977-9JCTvv73vv73vv70977-9&v=4)
+
+![emoji negative reaction for 'Export All Event Types '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Export All Event Types '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Export All Event Types '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+September 21, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-135k2nPH0u)
+
+- Fixed an issue where batch deliveries were sent on some inactive accounts.
+- Fixed social media links in the email footers to go to our LinkedIn, Twitter, Facebook pages
+- Fixed a security that permitted searching for private IPv4 addresses
+- Fixed Marketo lead integration issue
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+integrations
+
+
+
+
+
+release notes
+
+
+
+September 08, 2021
+
+### [LeadConduit Integrations Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-integrations-release-notes-4)
+
+- We added a new recipient integration with Hover.to as a Bring Your Own Credentials. Leads can be delivered into the Hover platform which utilizes homeowner's smartphone to generate a 3D model of the property for use in home renovation projects.
+
+[Hover.to](https://hover.to/)
+
+![emoji negative reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Integrations Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+September 01, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-7k7xwDGk5)
+
+- The script now captures window resize events. This means the screen capture will change size to more accurate replay the end user's experience and the event log will have a record that the window size changed.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+September 01, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13rthwd26R)
+
+- Our help chat is now powered by ZenDesk, check out the new chat bubble in the lower right corner of LeadConduit. Same function for you, centralized backend for us.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+August 27, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13vvXhW1f8)
+
+- Branding has been updated for emails
+- The Sources page will only show Sources that you have added to flows, rather than all Sources in the AP network
+- The Recipients page will only show Recipient that you have added to flows, rather than all Recipients in the AP network
+- Both Standard Sources and Standard Recipients can now be removed from the respective pages, this does not delete them from the network.
+- Fixed issue where the left-hard side navigation bar would show up on the lead import page
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+August 24, 2021
+
+### [Focused view of Sources and Recipients](https://whatsnew.activeprospect.com/en/focused-view-of-sources-and-recipients)
+
+We've updated the Sources and Recipient lists to be more relevant to you.
+
+Only Sources and Recipients that are included in one or more of your Flows will be listed in these views.
+Click on Sources or Recipients on the left menu to check it out.
+
+![Image #1](https://app.getbeamer.com/pictures?id=165378-cX_vv70q77-9fjzvv71nXk_vv70oY31377-9Qe-_vR5lTe-_vUDvv71vAjxs77-9f--_vQ..&v=4)
+
+![emoji negative reaction for 'Focused view of Sources and Recipients'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Focused view of Sources and Recipients'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Focused view of Sources and Recipients'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+August 18, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-7)
+
+- Certificates now include an Event Log tab which shows a textual representation of the actions performed by a user while interacting with a page that has the TrustedForm script install.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+August 11, 2021
+
+### [Batch File Delivery to Google Cloud Storage](https://whatsnew.activeprospect.com/en/batch-file-delivery-to-google-cloud-storage)
+
+![Image #1](https://app.getbeamer.com/pictures?id=161694-Te-_ve-_ve-_ve-_vTTvv71i77-977-9AO-_ve-_vQDvv71Q77-977-977-977-9WXwK77-9Zibvv70BOu-_ve-_ve-_vQ..&v=4)
+
+LeadConduit can now deliver a batch file to your Google Cloud Storage. Adding yet another way that we are delivering leads quickly and securely to wherever you need them.
+
+Note: This requires an existing an Google Cloud Storage Account.
+
+[Learn more about Batch File Delivery in LeadConduit.](https://community.activeprospect.com/posts/4124272-creating-a-batch-delivery)
+
+![emoji negative reaction for 'Batch File Delivery to Google Cloud Storage'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Batch File Delivery to Google Cloud Storage'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Batch File Delivery to Google Cloud Storage'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+August 11, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-12)
+
+- Fixed an issue preventing the initial value of certain select tags from being shown in the screen capture.
+- Began capturing and displaying the disable attribute in the screen capture.
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+August 11, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-139i3h6oEd)
+
+- LeadConduit can now deliver a batch file to your Google Cloud Storage. Adding yet another way that we are delivering leads quickly and securely to wherever you need them. Learn more about [Batch File Delivery in LeadConduit.](https://community.activeprospect.com/posts/4124272-creating-a-batch-delivery)
+- You can copy a filter or enhancement step within a flow or to another flow along with all configured field mappings, step criteria, and notes.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+July 14, 2021
+
+### [Save Time by Copying a Recipient Flow Step](https://whatsnew.activeprospect.com/en/save-time-by-copying-a-recipient-flow-step)
+
+If you have a complicated Recipient step to use in several flows, you can copy that step from one flow to another. Copying a step carries over mappings and rules saving you time and preventing inconsistencies.
+
+**Example of copying a Recipient Step**
+
+1\. Locate the Flow containing the Step to be copied and click Edit Flow.
+
+2\. Locate the Recipient Step to be copied and click the Gear icon on the right side a drop down menu will open and click Copy Step.
+
+![Image #1](https://app.getbeamer.com/pictures?id=155074-Pe-_ve-_ve-_vSd177-977-977-9Ju-_ve-_ve-_vRMX77-9Nmbvv71aHDvvv71FUe-_ve-_vWAp77-9fe-_vQ..&v=4)
+
+3\. In the dialog that appears, select the target destination Flow and click Finish. Note: You can even copy the recipient to the current flow. For example if your flow to send leads to the same CRM with slightly different mappings based on rules.
+
+4\. The target destination flow opens and the copied step appears as the last step. All field mappings, Step Criteria, and other settings will be carried over from the original step.
+
+5\. Be sure to review this step for any fields and rules that may not apply or are different for this flow.
+
+6\. And of course remember to Save your target destination flow to keep this copied step.
+
+![emoji negative reaction for 'Save Time by Copying a Recipient Flow Step'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Save Time by Copying a Recipient Flow Step'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Save Time by Copying a Recipient Flow Step'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+July 13, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13gnU0dIKf)
+
+- Recipient Steps can now be copied within a flow or to another flow along with all configured field mappings, step criteria, and notes.
+- Moving up! AWS Firehose is now only available as a Premium feature. AWS Firehose allows you send event data to an AWS S3 bucket.
+- Math Max function (compares multiple values and returns the highest) now can accept a list that contains arrays of numbers.
+- Found root issue of Batch Gmail Alias is that emails were suspended in a Pending state and needed to be approved by the alias owner.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+release notes
+
+
+
+
+
+trustedform
+
+
+
+June 29, 2021
+
+### [TrustedForm Release Notes](https://whatsnew.activeprospect.com/en/trustedform-release-notes-7lwB8Uign)
+
+- Fixed and issue causing the API response to prepend a comma in the value of the state property when claiming a certificate.
+- Missing 404 error details we re-added.
+- Typing speed calculations were corrected during cases where the user uses auto-fill to populate portions of a form
+
+![emoji negative reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+leadconduit
+
+
+
+
+
+release notes
+
+
+
+June 29, 2021
+
+### [LeadConduit Release Notes](https://whatsnew.activeprospect.com/en/leadconduit-release-notes-13RcCocVoN)
+
+- Improved input validation when configuring Batch Recipient.
+- Improved loading performance of the flows page.
+- Fixed Attom data appended that was being ignored in the export is now included.
+- Fixed missing feedback statistics on the Dashboard.
+- Fixed Ad-blockers that were blocking dashboard metrics.
+- Fixed overlay issue with the Intercom Chat icon.
+
+![emoji negative reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'LeadConduit Release Notes'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+
+
+trustedform
+
+
+
+June 03, 2021
+
+### [Real-Time Bidding now enhanced with TrustedForm data](https://whatsnew.activeprospect.com/en/real_time-bidding-now-enhanced-with-trustedform-data-2w18AXmjC)
+
+## Combine the insights of TrustedForm with the power of LeadConduit:
+
+![✔](https://static.getbeamer.com/emoji/2714.png) Stop leads you don’t want to buy from ever entering your system, before you pay for them.
+
+![✔](https://static.getbeamer.com/emoji/2714.png) Leverage TrustedForm event data to gain a competitive advantage by paying the right price for the right leads.
+
+TrustedForm data is now available to use in your real-time pricing, acceptance criteria, and volume cap rules. The ability to enhance your purchasing rulesets on the ping and post just got much more robust! TrustedForm insights make better bids and improve outcomes, while LeadConduit’s real-time ping/post bidding solution gives you the information you need to make the right decisions before you purchase a lead.
+
+Learn how to start optimizing your rulesets with TrustedForm from our [community article](https://community.activeprospect.com/posts/4316883-enhanced-real-time-bidding-with-trustedform-data-services)
+
+## New to TrustedForm?
+
+ActiveProspect’s TrustedForm is the industry standard for documenting consent and certifying the authenticity of internet leads. TrustedForm captures critical data about the lead generation event so you can use that data to inform your bidding process and make the right decision about every lead you buy.
+
+When TrustedForm generates a certificate, it also captures a wide range of information about every lead - information you can leverage as part of your LeadConduit real-time bidding workflow, such as:
+
+- Lead age
+- Geolocation
+- Browser
+- Device type
+- Typing speed & keystroke behavior
+- Time spent on form
+- Originating source
+
+![emoji negative reaction for 'Real-Time Bidding now enhanced with TrustedForm data '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Real-Time Bidding now enhanced with TrustedForm data '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Real-Time Bidding now enhanced with TrustedForm data '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+June 02, 2021
+
+### [New Navigation is Live!](https://whatsnew.activeprospect.com/en/new-navigation-is-live-26q9YiTpO)
+
+As you can see, our new LeadConduit navigation is live.
+
+Tell us what you think in the feedback section below!
+
+If you need some additional guidance, [click here](https://community.activeprospect.com/posts/4312063-leadconduit-new-navigation).
+
+![Image #1](https://app.getbeamer.com/pictures?id=147596-77-977-9L--_vQxX77-9LQDvv73vv71STQ1NPDnvv70F77-9O--_vTHvv70AORrvv73vv71EHO-_vQ..&v=4)
+
+![emoji negative reaction for 'New Navigation is Live! '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Navigation is Live! '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Navigation is Live! '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Coming Soon
+
+
+
+
+
+
+leadconduit
+
+
+
+May 26, 2021
+
+### [New LeadConduit Navigation Coming Soon!](https://whatsnew.activeprospect.com/en/new-leadconduit-navigation-coming-soon-2EWCUuX3V)
+
+Exciting news! LeadConduit is getting a new navigation to go along with our recent ActiveProspect branding updates. We are thrilled to bring a fresh new look and feel to LeadConduit that will:
+
+- Elevate priority features to a new side menu
+- Give you faster access to the features you use most
+- Provide collapsible navigation views based on your preference
+
+![Image #1](https://app.getbeamer.com/pictures?id=147595-77-977-977-977-977-977-977-977-9au-_ve-_vQ93dO-_vU7vv71677-9ZO-_ve-_vW4S77-9R--_vQo-eHtL&v=4)
+
+The new navigation will be released on **Tuesday, June 1, 2021.**
+
+In order to hit the ground running that day, be sure to check out our video tour and article about the changes.
+
+[Sneak preview video tour and help article](https://community.activeprospect.com/posts/4312063-leadconduit-new-navigation)
+
+![emoji negative reaction for 'New LeadConduit Navigation Coming Soon! '](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New LeadConduit Navigation Coming Soon! '](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New LeadConduit Navigation Coming Soon! '](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+February 10, 2021
+
+### [Introducing the all-new ActiveProspect look and feel!](https://whatsnew.activeprospect.com/en/introducing-the-all_new-activeprospect-look-and-feel-2)
+
+It’s an exciting day for ActiveProspect as we announce the launch of our new website, logo, and redesign of the brand’s entire look and feel! While we loved our previous branding, we wanted the new design and website messaging to properly reflect who we are, what we do, and how we do it.
+
+The timing for our rebranding is ideal as a fresh new look, strong value proposition, and new tagline all combine to clearly articulate our mission of making consent-based marketing the best platform for customer acquisition. We hope you enjoy the new look and feel free to let us know if you have any questions.
+
+![Image #1](https://app.getbeamer.com/pictures?id=126816-77-977-977-977-9Oe-_ve-_ve-_vS9IMu-_vVnvv71cIBPvv73vv71iae-_ve-_ve-_vUHvv71b77-9LO-_vTTvv70.&v=4)
+
+Logo updates and loading screen
+
+![Image #2](https://app.getbeamer.com/pictures?id=126815-77-977-977-9Eu-_vTPvv71qBRUgSu-_ve-_vQp477-9Ve-_ve-_ve-_ve-_vVDvv71vVxLvv70177-977-977-9&v=4)
+
+Updated branding on navbar
+
+![emoji negative reaction for 'Introducing the all-new ActiveProspect look and feel!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Introducing the all-new ActiveProspect look and feel!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Introducing the all-new ActiveProspect look and feel!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+December 29, 2020
+
+### [We've introduced new action icons on our data tables.](https://whatsnew.activeprospect.com/en/weve-introduced-new-action-icons-on-our-data-tables)
+
+Introducing data table action icons and improved consistency!
+
+One of our goals is to communicate effectively with our users. This improvement aims to improve clarity and consistency throughout our data tables.
+
+We've added new icons, improved column names, consistent column order, and added color and tooltips to icons.
+
+You might notice a few views without these improvements. We're working on it!
+
+![Image #1](https://app.getbeamer.com/pictures?id=120808-77-977-977-977-9JCvvv70l77-977-977-9SHIeKmtUSzHvv70H77-977-977-9Sg1zKlbvv716CQ..&v=4)
+
+Have any comments, questions, or concerns? Let us know in the feedback section below!
+
+![emoji negative reaction for 'We've introduced new action icons on our data tables.'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'We've introduced new action icons on our data tables.'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'We've introduced new action icons on our data tables.'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+October 19, 2020
+
+### [Disable a Source](https://whatsnew.activeprospect.com/en/disable-a-source)
+
+Now you can temporarily prevent a source from submitting leads into your flow by disabling that source within LeadConduit.
+
+Leads sent from a disabled source never enter your flow and don’t incur a transaction cost, so it’s a helpful way to manage unexpected situations with your lead sellers or web forms.
+
+![Image #1](https://app.getbeamer.com/pictures?id=109216-SSHvv73vv73vv713dyNFbe-_vWzvv71RdO-_vVBZ77-9aO-_ve-_vQfvv71q77-977-9Q3hP77-9Xw..&v=4)
+
+To get started, navigate to the source tab within your flow editor and disable the source by clicking the ellipsis on the right and selecting the **disable source** option. Follow the same steps to enable your source.
+
+![emoji negative reaction for 'Disable a Source'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Disable a Source'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Disable a Source'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+October 19, 2020
+
+### [Importing from the Leads View](https://whatsnew.activeprospect.com/en/importing-from-the-leads-view)
+
+We've made it easier to upload leads from your CSV files!
+
+To get started, navigate to the new leads view and select the **Import Leads** button in the top right of your screen. Choose the flow and source you want to associate with these leads and we'll take you directly to the lead import wizard where you can make any last-minute adjustments before importing your file.
+
+![Image #1](https://app.getbeamer.com/pictures?id=109213-LWAoFu-_ve-_vSTvv71s77-9F--_ve-_ve-_ve-_ve-_vXYJ77-977-9dl3vv73vv73vv71J77-9Igjvv70y77-9&v=4)
+
+![emoji negative reaction for 'Importing from the Leads View'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Importing from the Leads View'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Importing from the Leads View'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+September 04, 2020
+
+### [Drill down on stats in any report](https://whatsnew.activeprospect.com/en/drill-down-on-stats-in-any-report)
+
+LeadConduit's new reporting drill-down feature brings the numbers in your reporting table to life by providing clickable stats within the rows of your report.
+
+![Image #1](https://app.getbeamer.com/pictures?id=91484-BO-_ve-_vTFEQxrvv70D77-977-977-977-977-977-977-9xK85Qwbvv70le9WVdu-_ve-_vQVw77-9&v=4)
+
+Drilling down into the individual lead details makes it easy to investigate leads submitted without TrustedForm certificates or scan a list of leads from Texas that were rejected as duplicates last week.
+
+Whether you’re troubleshooting or optimizing, reporting drill-down gives you the granularity you need when you need it.
+
+Visit your [reporting page](https://next.leadconduit.com/reports) and start drilling down today!
+
+![emoji negative reaction for 'Drill down on stats in any report'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Drill down on stats in any report'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Drill down on stats in any report'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+September 01, 2020
+
+### [New Integration! Hatch](https://whatsnew.activeprospect.com/en/new-integration-hatch)
+
+**Integration:** Hatch
+
+**Type:** Outbound
+
+**Action:** Create a Lead in a Hatch account
+
+**Description:** The Hatch Messaging Platform for Home Improvement automates all your sales conversations from one collaborative workspace.
+
+[Check out the Hatch integration in our catalog for full integration details!](https://activeprospect.com/integrations/hatch/)
+
+![emoji negative reaction for 'New Integration! Hatch'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Hatch'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Hatch'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+August 27, 2020
+
+### [New Integration! SalesRabbit](https://whatsnew.activeprospect.com/en/new-integration-salesrabbit)
+
+**Integration:** SalesRabbit
+
+**Type:** Outbound
+
+**Action:** Create a Lead in a SalesRabbit account
+
+**Description:** SalesRabbit is a complete outside sales app that optimizes your sales and management process.
+
+[Check out the SalesRabbit integration in our catalog for full integration details!](https://activeprospect.com/integrations/salesrabbit/)
+
+![emoji negative reaction for 'New Integration! SalesRabbit'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! SalesRabbit'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! SalesRabbit'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+July 30, 2020
+
+### [New Integration! FillQuick Call Center](https://whatsnew.activeprospect.com/en/new-integration-fillquick-call-center)
+
+**Integration:** FillQuick
+
+**Type:** Outbound
+
+**Action:** Create a Lead in a FillQuick account
+
+**Description:** FillQuick is an Alarm Dealer Business Management Software + CRM. It is an all-in-one solution for security alarm dealers of all sizes.
+
+[Check out the FillQuick integration in our catalog for full integration details!](https://activeprospect.com/integrations/fillquick/)
+
+![emoji negative reaction for 'New Integration! FillQuick Call Center'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! FillQuick Call Center'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! FillQuick Call Center'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+April 14, 2020
+
+### [Introducing Real-time Ping Post Bidding!](https://whatsnew.activeprospect.com/en/introducing-real_time-ping-post-bidding)
+
+LeadConduit now offers real-time ping post bidding!
+
+Real-time bidding lets LeadConduit users engage in auction-based lead purchasing directly within the platform. This method of lead buying helps you maximize ROI by getting the leads you want - at the price you want.
+
+![Image #1](https://app.getbeamer.com/pictures?id=73522-77-977-977-9P--_ve-_vQsJeUzvv71t77-9c--_vQdo77-9M2Rq77-9NXt477-977-9dTxJ77-9fw..&v=4)
+
+LeadConduit makes it easy to configure and automate bidding, onboard lead sellers, and analyze the metrics that matter.
+
+Real-time bidding is currently available for professional and enterprise tier clients. Click [here](https://activeprospect.com/products/leadconduit/real-time-bidding/) to learn more and reach out to your client success manager or [contact our sales team](https://activeprospect.com/contact-us/) to get started today!
+
+![emoji negative reaction for 'Introducing Real-time Ping Post Bidding!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Introducing Real-time Ping Post Bidding!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Introducing Real-time Ping Post Bidding!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+March 09, 2020
+
+### [New Integration! XenCALL Call Center](https://whatsnew.activeprospect.com/en/new-integration-xencall-call-center)
+
+LeadConduit now offers a **XenCALL Create a Lead** integration for the XenCALL call center platform.
+
+Using XenCALL's API, you can deliver quality leads directly into XenCALL as they flow through LeadConduit, empowering you to make decisions in real time.
+
+Our integration with XenCall supports some client-requested features including a duplicate busting option and a time shift option, allowing you to adjust the submission timestamp, plus support for up to 50 custom XenCALL fields!
+
+[Check out the XenCALL integration in our catalog for more details!](https://activeprospect.com/integrations/xencall/)
+
+![emoji negative reaction for 'New Integration! XenCALL Call Center'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! XenCALL Call Center'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! XenCALL Call Center'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+March 02, 2020
+
+### [Integration Update! SendGrid Upsert Contact](https://whatsnew.activeprospect.com/en/integration-update-sendgrid-upsert-contact)
+
+LeadConduit now offers a **SendGrid Upsert Contact** integration.
+
+**Upsert (a.k.a. Create or Update)** creates a contact if it doesn't exist in an account already, or updates a contact with the latest property values if it already exists in your account and is useful for collecting both updated and additional information.
+
+**Pro Tip:** LeadConduit also supports SendGrid Email Templates with the Send Email Integration.
+
+[Check out all our SendGrid Integrations](https://activeprospect.com/integrations/sendgrid/)
+
+![emoji negative reaction for 'Integration Update! SendGrid Upsert Contact'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Integration Update! SendGrid Upsert Contact'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Integration Update! SendGrid Upsert Contact'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+February 24, 2020
+
+### [New Integration! Lead Scoring by Faraday](https://whatsnew.activeprospect.com/en/new-integration-lead-scoring-by-faraday)
+
+Create outstanding customer experiences with the power of AI. Faraday includes everything you need to transform your customer data into actionable predictive insights, all in 6-8 weeks.
+
+Using Faraday's API, you can score and enhance leads as they flow through LeadConduit, empowering you to make decisions in real time.
+
+Our integration with Faraday.io is Bring Your Own Credentials (BYOC), meaning you'll need to sign up independently with Faraday. The patterns uncovered via the machine learning algorithms will be custom to your lead data and require your own account.
+
+[Check out the Faraday integration page in our catalog for more details.](https://activeprospect.com/integrations/faraday/score/)
+
+![emoji negative reaction for 'New Integration! Lead Scoring by Faraday'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Lead Scoring by Faraday'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Lead Scoring by Faraday'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+February 13, 2020
+
+### [New Integration! Phone Lookup by Twilio](https://whatsnew.activeprospect.com/en/new-integration-phone-lookup-by-twilio)
+
+LeadConduit now offers Phone Lookup by Twilio.
+
+Using the phone number, Twilio returns the Caller ID Name and Carrier information, including whether it's a landline, mobile, or VoIP number and if the number is for a business or consumer.
+
+All this data makes it easy for you to cross-reference the information provided by the lead source and check for inconsistencies.
+
+[Try out Phone Lookup by Twilio for only $0.03 a transaction!](https://activeprospect.com/integrations/twilio/)
+
+![emoji negative reaction for 'New Integration! Phone Lookup by Twilio'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! Phone Lookup by Twilio'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! Phone Lookup by Twilio'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+December 20, 2019
+
+### [Store Your Lead Data in the Cloud](https://whatsnew.activeprospect.com/en/store-your-lead-data-in-the-cloud)
+
+LeadConduit’s new Firehose feature gives you an easy way to connect your lead flows to [Amazon Web Services Simple Storage Service](https://aws.amazon.com/s3/?nc2=h_ql_prod_fs_s3) (S3). Once enabled, Firehose streams lead data directly to S3 where you can store data as long as you’d like and perform powerful queries for predictive analysis.
+
+Access the gear icon within the step editor and start sending lead data to S3 today!
+
+![Image #1](https://app.getbeamer.com/pictures?id=58405-77-9bxTvv71rOu-_vTTvv70rPilDce-_vVvvv71mIHkp77-977-95pKKTDXvv71C&v=4)
+
+![emoji negative reaction for 'Store Your Lead Data in the Cloud'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Store Your Lead Data in the Cloud'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Store Your Lead Data in the Cloud'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+leadconduit
+
+
+
+November 14, 2019
+
+### [Introducing sticky headers and improved button placement!](https://whatsnew.activeprospect.com/en/introducing-sticky-headers-and-improved-button-placement)
+
+With sticky headers, tasks like saving a flow or adding a new step are available no matter how far down the screen you've scrolled. This makes key actions easier to find - and you more productive.
+
+![Image #1](https://app.getbeamer.com/pictures?id=54272-77-9MFrvv73vv70_77-977-977-9G1_vv70177-977-9RlTvv71bOGd377-9Yu-_vdWy77-977-9YO-_vV4.&v=4)
+
+Wondering where a button went? Chances are we’ve moved it to the header in the top right of your screen. This way, there’s greater consistency (and less to think about) when you need to take an action within LeadConduit.
+
+Have an idea for improving usability? Let us know in the feedback section below!
+
+![emoji negative reaction for 'Introducing sticky headers and improved button placement!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Introducing sticky headers and improved button placement!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Introducing sticky headers and improved button placement!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+
+trustedform
+
+
+
+
+Improvement
+
+
+
+
+October 18, 2019
+
+### [Stop Certificate Recording Manually](https://whatsnew.activeprospect.com/en/stop-certificate-recording-manually)
+
+ActiveProspect has released an update to the TrustedForm script to include a function that stops recording.
+
+For anyone collecting web leads from within a [Single Page Application](https://en.wikipedia.org/wiki/Single-page_application) (SPA) this means you're now able to control precisely when the TrustedForm script stops recording end-user events without waiting for the page to unload.
+
+[Check out the KB for more details](https://community.activeprospect.com/posts/4090767-manually-stopping-the-trustedform-script)
+
+![emoji negative reaction for 'Stop Certificate Recording Manually'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Stop Certificate Recording Manually'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Stop Certificate Recording Manually'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+integrations
+
+
+
+October 17, 2019
+
+### [Teledrip now includes support for the 2019 API updates](https://whatsnew.activeprospect.com/en/teledrip-now-includes-support-for-the-2019-api-updates)
+
+Earlier this year Teledrip released updates to their API and now our Teledrip integration brings all those features to you including:
+
+- **AB** \- The A/B Test id for split testing campaigns.
+- **Transfer Number** \- A phone number to override the transfer destination on basic and advanced calls
+- **Cost** \- The cost of the lead. If provided, this information will be used in the Teledrip ROI Report to provide more accurate costs.
+- **IP Address** \- When a TrustedForm certificate is claimed, the IP from the certificate is provided, otherwise the vendor-provided IP will be used.
+
+[Check out the full technical details of our Teledrip integration](https://activeprospect.com/integrations/teledrip/)
+
+![emoji negative reaction for 'Teledrip now includes support for the 2019 API updates'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Teledrip now includes support for the 2019 API updates'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Teledrip now includes support for the 2019 API updates'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+October 09, 2019
+
+### [Introducing an Easier Way to Test Your Lead Flows](https://whatsnew.activeprospect.com/en/introducing-an-easier-way-to-test-your-lead-flows)
+
+LeadConduit now gives you the power to test your lead flows without having to leave the app!
+
+![Image #1](https://app.getbeamer.com/pictures?id=49797-c0Pvv73vv713Ku-_vWQ677-9HF0i77-9SmUkeX0gVO-_vVLvv71lNmTDou-_ve-_ve-_vQ..&v=4)
+
+Whether you’re a first-time flow creator or a seasoned vet, testing your flow is a critical part of the “go-live” process. LeadConduit's new testing tool makes this process easier by providing a pre-populated test form accessible from anywhere within the flow editor.
+
+If you’re confident in your flow’s configuration but need an easy way to submit leads manually, you can use the tool for that too!
+
+Click the **Test Your Flow** button within the sources, fields, or step editor to get started.
+
+![emoji negative reaction for 'Introducing an Easier Way to Test Your Lead Flows'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Introducing an Easier Way to Test Your Lead Flows'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Introducing an Easier Way to Test Your Lead Flows'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+October 07, 2019
+
+### [Forensiq by Impact](https://whatsnew.activeprospect.com/en/forensiq-by-impact)
+
+LeadConduit now offers an integration with Forensiq by Impact.
+
+Forensiq uses machine-learning and advanced bot fingerprinting to identify and block ad fraud so you can eliminate costly, ineffectual marketing spend and keep your data clean.
+
+Combined with TrustedForm, which independently verifies the origin and authenticity of internet leads, Forensiq receives the most reliable data possible to make informed determinations about fraud.
+
+**BYOC:** To provide the best of both worlds, LeadConduit's Forensiq integration allows clients to Bring Your Own Credentials so you're able to access dashboards and reports based only on your lead flows.
+
+[Check out the Forensiq by Impact integration page!](https://activeprospect.com/integrations/forensiq/check/)
+
+![emoji negative reaction for 'Forensiq by Impact'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Forensiq by Impact'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Forensiq by Impact'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+leadconduit
+
+
+
+September 05, 2019
+
+### [Share Reports with the Click of a Button!](https://whatsnew.activeprospect.com/en/share-reports-with-the-click-of-a-button)
+
+Ever wish you could share your reports with a lead partner or colleague? With LeadConduit’s new shared reporting feature - you can!
+
+![Image #1](https://app.getbeamer.com/pictures?id=46088-77-977-9RTPvv71A77-9Su-_vQYQ3rfvv73vv70M77-9dmc577-9JO-_ve-_ve-_vdyJ77-977-9QRw.&v=4)
+
+Shared reporting lets you generate a unique URL for any report in your account. Just copy, paste, and share that URL with anyone you’d like to give access. There's no need to log in to see the report, so you can confidently curate insights for non-account holders and start sharing with the click of a button.
+
+Need to revoke access to a report? You can do that too! Visit the **[reports page](https://next.leadconduit.com/reports)** and give it a try.
+
+![emoji negative reaction for 'Share Reports with the Click of a Button!'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Share Reports with the Click of a Button!'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Share Reports with the Click of a Button!'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+integrations
+
+
+
+August 27, 2019
+
+### [New Integration! HubSpot Create or Update Contact](https://whatsnew.activeprospect.com/en/new-integration-hubspot-create-or-update-contact)
+
+LeadConduit now offers a **Hubspot Create or Update Contact** integration.
+
+**Create or Update** creates a contact if it doesn't exist in an account already, or updates a contact with the latest property values if it already exists in an account.
+
+This action is useful for collecting both updated and additional information versus Create Contact, which rejects duplicates.
+
+**Just in case you didn't know:** HubSpot CRM is a flexible, intuitive solution for managing your prospects and sales pipeline. It is also 100% free for unlimited users and contacts.
+
+[Check out all our HubSpot Integrations](https://activeprospect.com/integrations/hubspot/?utm_source=beamer&utm_medium=changelog&utm_campaign=hubspot_create_update)
+
+![emoji negative reaction for 'New Integration! HubSpot Create or Update Contact'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'New Integration! HubSpot Create or Update Contact'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'New Integration! HubSpot Create or Update Contact'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Announcement
+
+
+
+
+
+
+leadconduit
+
+
+
+August 23, 2019
+
+### [Keep Up With What’s New In LeadConduit](https://whatsnew.activeprospect.com/en/keep-up-with-whats-new-in-leadconduit)
+
+Introducing a brand new way to stay up to date with all the new features, integrations, and improvements in LeadConduit.
+
+![Image #1](https://app.getbeamer.com/pictures?id=44727-77-9XS3vv73vv71r77-9ae-_vSN777-9XEFsLhzvv73vv706OhNzais4S--_vdei77-977-9&v=4)
+
+Keep an eye out for more updates in the coming weeks and be sure to give us your feedback!
+
+![emoji negative reaction for 'Keep Up With What’s New In LeadConduit'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Keep Up With What’s New In LeadConduit'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Keep Up With What’s New In LeadConduit'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+Improvement
+
+
+
+
+
+
+integrations
+
+
+
+June 18, 2019
+
+### [Updated Facebook Lead Ads integration](https://whatsnew.activeprospect.com/en/updated-facebook-lead-ads-integration)
+
+We're pleased to announce a significant update to LeadConduit's Facebook Lead Ads integration. You can connect Facebook Pages directly to any LeadConduit flow. All the standard Facebook fields are automatically connected to your flow and all you have to do to complete the set up is add field mappings for custom Facebook Form Fields.
+
+In addition, you can easily claim TrustedForm Facebook Lead Ads certificates using the Trustedform integration in the same flow!
+
+[See the Facebook Lead Ads KB for more details](https://support.activeprospect.com/hc/en-us/articles/208248126)
+
+![emoji negative reaction for 'Updated Facebook Lead Ads integration'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'Updated Facebook Lead Ads integration'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'Updated Facebook Lead Ads integration'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+
+New
+
+
+
+
+
+
+trustedform
+
+
+
+June 04, 2019
+
+### [TrustedForm: Extended Claims](https://whatsnew.activeprospect.com/en/trustedform-extended-claims)
+
+Now the full power of TrustedForm is available to anyone buying leads up to 3 months old! When you buy leads from another TrustedForm client, ActiveProspect can enable the vendor's TrustedForm account to extend the claim period for any certificate claimed by the vendor account.
+
+There are no changes required to the TrustedForm script and since the vendor is already claiming certificates for the leads they sell within the standard claim period, there are zero changes to the lead selling process to extend the claim period for these certificates.
+
+![emoji negative reaction for 'TrustedForm: Extended Claims'](https://app.getbeamer.com/images/emojiNeg.svg)![emoji neutral reaction for 'TrustedForm: Extended Claims'](https://app.getbeamer.com/images/emojiNeut.svg)![emoji positive reaction for 'TrustedForm: Extended Claims'](https://app.getbeamer.com/images/emojiPos.svg)
+
+Thanks for your feedback
+
+[Create your own newsfeed](https://www.getbeamer.com/?ref=watermark_MErKJCnu12412_public&company=ActiveProspect&watermarkRef=create&utm_term=MErKJCnu12412&utm_content=ActiveProspect&utm_source=standalone&utm_medium=footer&utm_campaign=create)"
+
