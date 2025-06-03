@@ -136,6 +136,8 @@ Facebook custom questions need special configuration:
      - Right side: The Facebook field ID
    - Click **Insert {Field ID}**
 
+![Facebook Custom Field Mapping Configuration](./images/image-1.png)
+
 5. **Test the Mapping**
    - Resubmit your test lead
    - Verify the custom field appears correctly

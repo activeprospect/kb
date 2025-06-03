@@ -66,6 +66,8 @@ Caps reset at the END of their duration period in your account timezone:
    - For Flow/Source caps: Flow Editor → Sources tab
    - For Step caps: Flow Editor → Steps tab → Select step
 
+![Flow/Source Volume Caps Configuration](./images/image-1.png)
+
 2. **Add Volume Cap**
    - Click "Add Volume Cap" or "Configure Caps"
    - Choose cap type if prompted
@@ -95,6 +97,8 @@ Rules: None (applies to all leads from this source)
 
 ## 🎯 Advanced Configurations
 
+![Volume Caps Configuration Options](./images/image-2.png)
+
 ### Conditional Caps
 
 Use rules to create caps that only apply to specific leads:
@@ -111,6 +115,8 @@ Quantity: 800
 Duration: 1 day
 IF: state is not equal to "CA"
 ```
+
+![Multiple and Conditional Caps](./images/image-3.png)
 
 ### Nested Caps
 
@@ -131,6 +137,8 @@ How it works:
 - Daily cap prevents more than 500/day
 - Monthly cap ensures total doesn't exceed 10,000
 - If parent cap rule doesn't match, children aren't evaluated
+
+![Nested Caps Configuration](./images/image-4.png)
 
 ### Multiple Independent Caps
 
@@ -240,12 +248,16 @@ See cap status at a glance:
 - Time until reset
 - Nested cap expansion
 
+![Flow Dashboard with Volume Caps](./images/image-5.png)
+
 ### Real-Time Monitoring
 
 Track cap usage throughout the day:
 - Green: Under 80% capacity
 - Yellow: 80-95% capacity
 - Red: Over 95% or exceeded
+
+![LeadConduit Dashboard with Nested Caps](./images/image-6.png)
 
 ### Cap Naming Convention
 
