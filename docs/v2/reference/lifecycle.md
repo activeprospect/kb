@@ -1,4 +1,4 @@
-# The LeadConduit Flow Lifecycle
+# Flow Lifecycle
 
 This guide traces the complete journey of a lead through LeadConduit, showing exactly how each concept participates in the processing lifecycle.
 

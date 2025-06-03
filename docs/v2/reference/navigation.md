@@ -1,4 +1,4 @@
-# LeadConduit Reference Navigation
+# Reference Navigation
 
 Find what you need quickly by task, role, or technical depth.
 

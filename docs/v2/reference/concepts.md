@@ -1,4 +1,4 @@
-# LeadConduit Concept Relationships
+# Concepts 
 
 Understanding how LeadConduit's concepts work together is crucial for effective platform usage. This guide maps the relationships between all twelve core concepts.
 

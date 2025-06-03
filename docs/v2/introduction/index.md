@@ -1,5 +1,5 @@
 ---
-title: What is LeadConduit?
+title: Introduction
 description: Transform your chaotic lead operations into a streamlined, profitable business with the lead processing platform that protects your investment
 tags: 
   - beginner

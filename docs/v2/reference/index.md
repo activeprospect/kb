@@ -1,5 +1,5 @@
 ---
-title: LeadConduit Reference Documentation
+title: Reference
 description: Technical reference for LeadConduit's core concepts, showing how they work together to process leads from arrival to delivery
 tags:
   - reference
@@ -9,7 +9,7 @@ tags:
   - advanced
 ---
 
-# LeadConduit Reference Documentation
+# Reference
 
 ## Understanding Lead Processing Through Flows
 
