@@ -51,6 +51,12 @@ Common issues new users face and how to solve them quickly.
 - **Level**: Beginner
 - **Tags**: `beginner`, `troubleshooting`
 
+### [Support & Resources](./support-resources.md)
+How to get help, training materials, and community resources.
+- **Time**: 10 minutes
+- **Level**: Beginner
+- **Tags**: `beginner`, `support`, `resources`
+
 ## 📚 Learning Path
 
 ### For Lead Buyers

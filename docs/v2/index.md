@@ -1,7 +1,7 @@
 ---
 title: LeadConduit Documentation
 description: Your complete guide to mastering lead distribution and optimization
-layout: default
+displayed_sidebar: docs
 tags:
   - home
   - documentation

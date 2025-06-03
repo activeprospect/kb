@@ -33,6 +33,42 @@ Connect ActiveCampaign, Constant Contact, Mailchimp, and more.
 - **Level**: Beginner
 - **Tags**: `beginner`, `how-to`, `integrations`, `email`
 
+### [WordPress/Gravity Forms Integration](./wordpress-gravity-forms.md)
+Complete guide to WordPress lead capture with Gravity Forms.
+- **Time**: 35 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `source-focused`, `integrations`
+
+### [Form Builder Integrations](./form-builder-integrations.md)
+Connect popular form builders like 123FormBuilder, Formidable, and Landbot.
+- **Time**: 40 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `source-focused`, `integrations`
+
+### [LeadsBridge Complete Guide](./leadsbridge-complete-guide.md)
+Master LeadsBridge for Facebook and multi-platform integration.
+- **Time**: 45 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `integrations`, `facebook`
+
+### [Google Lead Forms Integration](./google-lead-forms.md)
+Capture leads directly from Google Ads with lead form extensions.
+- **Time**: 30 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `source-focused`, `google`
+
+### [Infusionsoft/Keap Integration](./infusionsoft-integration.md)
+Complete CRM integration with contact management and automation.
+- **Time**: 35 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `crm`, `integrations`
+
+### [SendGrid Email Integration](./sendgrid-integration.md)
+Transactional and marketing email delivery at scale.
+- **Time**: 30 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `email`, `integrations`
+
 ### [Zapier Integration Guide](./zapier-integration.md)
 Connect to 5,000+ apps through Zapier webhooks.
 - **Time**: 30 minutes

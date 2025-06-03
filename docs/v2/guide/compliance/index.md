@@ -39,6 +39,24 @@ Certificate retention, custom validation, and troubleshooting.
 - **Level**: Advanced
 - **Tags**: `advanced`, `how-to`, `compliance`, `troubleshooting`
 
+### [TrustedForm API Complete Guide](./trustedform-api-guide.md)
+Master the TrustedForm API v4.0 for advanced integration.
+- **Time**: 45 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `api-related`, `compliance`, `developer-focused`
+
+### [Domain Verification & Security](./domain-verification-security.md)
+Secure your operations with domain verification and data protection.
+- **Time**: 40 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `security`, `compliance`, `best-practices`
+
+### [TrustedForm Advanced Implementation](./trustedform-advanced-implementation.md)
+Callbacks, manual control, and platform-specific implementations.
+- **Time**: 35 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `compliance`, `trustedform`
+
 ## 📋 Consent Management
 
 ### [Consent Language Management](./consent-language.md)

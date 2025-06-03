@@ -1,24 +1,16 @@
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-/**
- * Creating a sidebar enables you to:
- - create an ordered group of docs
- - render a sidebar for each doc of that group
- - provide next/previous navigation
-
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
- */
 const sidebars: SidebarsConfig = {
-  // Manual sidebar configuration with custom ordering
-  tutorialSidebar: [
+  docs: [
+    {
+      type: 'doc',
+      id: 'index',
+      label: 'Home',
+    },
     {
       type: 'category',
       label: 'Introduction',
-      collapsed: false,
+      collapsed: true,
       link: {
         type: 'doc',
         id: 'introduction/index',
@@ -32,7 +24,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Getting Started',
-      collapsed: false,
+      collapsed: true,
       link: {
         type: 'doc',
         id: 'getting-started/index',
@@ -46,7 +38,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Guides',
-      collapsed: false,
+      collapsed: true,
       link: {
         type: 'doc',
         id: 'guide/index',
@@ -119,12 +111,16 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'guide/integrations/facebook-lead-ads',
+            'guide/integrations/google-lead-forms',
             'guide/integrations/email-marketing-integrations',
             'guide/integrations/email-marketing-platforms',
             'guide/integrations/zapier-integration',
             'guide/integrations/batch-delivery-management',
             'guide/integrations/response-parsing',
             'guide/integrations/webhooks-and-apis',
+            'guide/integrations/wordpress-gravity-forms',
+            'guide/integrations/form-builder-integrations',
+            'guide/integrations/leadsbridge-complete-guide',
           ],
         },
         {
@@ -170,6 +166,7 @@ const sidebars: SidebarsConfig = {
             'guide/compliance/implementing-trustedform',
             'guide/compliance/tcpa-compliance',
             'guide/compliance/trustedform-api-guide',
+            'guide/compliance/domain-verification-security',
           ],
         },
         {
@@ -221,6 +218,28 @@ const sidebars: SidebarsConfig = {
           items: [
             'flows/lead-submission/sources',
             'flows/lead-submission/mappings',
+            'flows/lead-submission/acceptance-criteria',
+            'flows/lead-submission/volume-caps',
+            'flows/lead-submission/pricing',
+            'flows/lead-submission/submission-response',
+            'flows/lead-submission/flow-source-hierarchy',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Flow Steps',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'flows/flow-steps/index',
+          },
+          items: [
+            'flows/flow-steps/filter-steps',
+            'flows/flow-steps/enhancement',
+            'flows/flow-steps/enhancement-integrations',
+            'flows/flow-steps/recipient-steps',
+            'flows/flow-steps/delivery',
+            'flows/flow-steps/custom-integrations',
           ],
         },
       ],
@@ -234,6 +253,9 @@ const sidebars: SidebarsConfig = {
         id: 'leads/index',
       },
       items: [
+        'leads/lead-events',
+        'leads/lead-data-field-types',
+        'leads/firehose',
         {
           type: 'category',
           label: 'Events',
@@ -244,6 +266,7 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'leads/events/event-patterns',
+            'leads/events/source-events',
             'leads/events/system-events',
             'leads/events/filter-events',
             'leads/events/recipient-events',
@@ -256,22 +279,32 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Reference',
-      collapsed: false,
+      collapsed: true,
       link: {
         type: 'doc',
         id: 'reference/index',
       },
       items: [
         'reference/concepts',
+        'reference/lifecycle',
+        'reference/fields',
+        'reference/types',
+        'reference/mappings',
+        'reference/templates',
+        'reference/rules',
+        'reference/entities',
+        'reference/events',
+        'reference/integrations',
+        'reference/exports',
+        'reference/pricing',
+        'reference/reporting',
+        'reference/navigation',
         {
           type: 'category',
           label: 'Flows',
           collapsed: true,
-          link: {
-            type: 'doc',
-            id: 'reference/flows',
-          },
           items: [
+            'reference/flows',
             'reference/flows/pre-processing',
             'reference/flows/step-processing',
             'reference/flows/business-logic',
@@ -279,15 +312,6 @@ const sidebars: SidebarsConfig = {
             'reference/flows/completion',
           ],
         },
-        'reference/lifecycle',
-        'reference/fields',
-        'reference/entities',
-        'reference/types',
-        'reference/mappings',
-        'reference/integrations',
-        'reference/templates',
-        'reference/rules',
-        'reference/navigation',
       ],
     },
     {
@@ -298,9 +322,7 @@ const sidebars: SidebarsConfig = {
         type: 'doc',
         id: 'api/index',
       },
-      items: [
-        // API sub-pages will be added here as they're created
-      ],
+      items: [],
     },
     {
       type: 'category',

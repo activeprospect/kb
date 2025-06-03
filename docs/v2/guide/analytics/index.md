@@ -33,11 +33,23 @@ Set up dashboards and alerts for immediate visibility.
 - **Level**: Intermediate
 - **Tags**: `intermediate`, `how-to`, `analytics`, `performance-optimization`
 
-### [Data Exports](./data-exports.md)
-Export lead data for external analysis and backup.
-- **Time**: 15 minutes
-- **Level**: Beginner
-- **Tags**: `beginner`, `how-to`, `exports-focused`, `analytics`
+### [Data Exports and Analytics](./data-exports.md)
+Master data exports for advanced analytics and compliance.
+- **Time**: 35 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `exports-focused`, `analytics`
+
+### [LeadConduit Reporting Mastery](./leadconduit-reporting.md)
+Build powerful reports and dashboards for insights.
+- **Time**: 40 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `reporting-focused`, `analytics`
+
+### [Lead Feedback System](./lead-feedback-system.md)
+Implement comprehensive feedback loops for quality improvement.
+- **Time**: 45 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `analytics`, `quality-control`
 
 ## 📈 Performance Analytics
 

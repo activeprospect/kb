@@ -59,6 +59,36 @@ Route leads based on geographic and demographic criteria.
 - **Level**: Intermediate
 - **Tags**: `intermediate`, `how-to`, `distribution`
 
+### [Buyer Step and Connection Management](./buyer-step-connections.md)
+Master buyer configuration and invite-to-connect system.
+- **Time**: 35 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `buyer-focused`, `security`
+
+### [Volume Caps Advanced Configuration](./volume-caps-advanced.md)
+Sophisticated volume control beyond basic daily limits.
+- **Time**: 40 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `business-logic`, `performance-optimization`
+
+### [Day Parting Strategies](./day-parting-strategies.md)
+Optimize distribution and pricing based on time patterns.
+- **Time**: 35 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `business-logic`, `financial-management`
+
+### [Advanced Delivery Patterns](./advanced-delivery-patterns.md)
+Round-robin, weighted distribution, and pixel tracking.
+- **Time**: 40 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `distribution`, `performance-optimization`
+
+### [Step Components Guide](./step-components-guide.md)
+Deep dive into all step components and configurations.
+- **Time**: 35 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `conceptual`, `flows`, `technical`
+
 ## 🛠️ Flow Optimization
 
 ### [Disabling and Testing Steps](./disabling-steps.md)

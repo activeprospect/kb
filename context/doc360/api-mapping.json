@@ -1,0 +1,36 @@
+{
+  "categoryMapping": {
+    "guide": "Guides",
+    "getting-started": "Getting Started",
+    "reference": "API Reference",
+    "tutorials": "Tutorials",
+    "concepts": "Concepts",
+    "troubleshooting": "Troubleshooting"
+  },
+  "metadataDefaults": {
+    "status": "published",
+    "visibility": "public",
+    "author": "ActiveProspect Team"
+  },
+  "contentTransformations": {
+    "enableCodeHighlighting": true,
+    "convertRelativeLinks": true,
+    "processImages": true,
+    "imageBaseUrl": "https://yourdomain.com/docs/v2"
+  },
+  "excludePatterns": [
+    "**/README.md",
+    "**/node_modules/**",
+    "**/.git/**",
+    "**/drafts/**"
+  ],
+  "frontmatterMapping": {
+    "title": "title",
+    "description": "description",
+    "tags": "tags",
+    "category": "category_override",
+    "order": "display_order",
+    "slug": "slug",
+    "draft": "is_draft"
+  }
+}

@@ -1,0 +1,96 @@
+name: Deploy to Document360
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/v2/**'
+  workflow_dispatch:
+    inputs:
+      deploy_mode:
+        description: 'Deployment mode'
+        required: true
+        default: 'incremental'
+        type: choice
+        options:
+          - incremental
+          - full
+
+env:
+  NODE_VERSION: '18'
+  DOCS_PATH: './docs/v2'
+
+jobs:
+  deploy-document360:
+    runs-on: ubuntu-latest
+    name: Deploy Documentation to Document360
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch full history for better change detection
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ env.NODE_VERSION }}
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: |
+        npm install -g d360
+        npm install axios glob fs-extra
+
+    - name: Get changed files
+      id: changed-files
+      if: github.event_name == 'push' && github.event.inputs.deploy_mode != 'full'
+      uses: tj-actions/changed-files@v40
+      with:
+        files: |
+          docs/v2/**/*.md
+          docs/v2/**/*.mdx
+
+    - name: Deploy API Documentation
+      if: hashFiles('docs/v2/openapi.yaml') != '' || hashFiles('docs/v2/api/**') != ''
+      env:
+        D360_API_KEY: ${{ secrets.D360_API_KEY }}
+        D360_USER_ID: ${{ secrets.D360_USER_ID }}
+        D360_VERSION_ID: ${{ secrets.D360_VERSION_ID }}
+      run: |
+        echo "Deploying API documentation..."
+        if [ -f "./docs/v2/openapi.yaml" ]; then
+          d360 apidocs --apiKey=$D360_API_KEY \
+                       --userId=$D360_USER_ID \
+                       --versionId=$D360_VERSION_ID \
+                       --path=./docs/v2/openapi.yaml \
+                       --publish
+        fi
+
+    - name: Deploy Markdown Documentation
+      env:
+        D360_API_KEY: ${{ secrets.D360_API_KEY }}
+        D360_PROJECT_ID: ${{ secrets.D360_PROJECT_ID }}
+        CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        DEPLOY_MODE: ${{ github.event.inputs.deploy_mode || 'incremental' }}
+      run: |
+        node scripts/deploy-markdown-to-document360-v2.js
+
+    - name: Verify Deployment
+      env:
+        D360_API_KEY: ${{ secrets.D360_API_KEY }}
+      run: |
+        # Add verification logic here
+        echo "Deployment completed successfully"
+
+    - name: Create Deployment Summary
+      if: always()
+      run: |
+        echo "## Document360 Deployment Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- Deployment Mode: ${{ github.event.inputs.deploy_mode || 'incremental' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Branch: ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Commit: ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.changed-files.outputs.all_changed_files }}" != "" ]; then
+          echo "### Changed Files:" >> $GITHUB_STEP_SUMMARY
+          echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
+        fi

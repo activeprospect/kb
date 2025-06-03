@@ -54,6 +54,7 @@ const config: Config = {
         routeBasePath: 'v2',
         sidebarPath: './sidebarsV2.ts',
         editUrl: 'https://github.com/activeprospect/kb/tree/main/',
+        showLastUpdateTime: true,
       },
     ],
     // Version 1
@@ -84,6 +85,11 @@ const config: Config = {
   ],
 
   themeConfig: {
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
+      },
+    },
     navbar: {
       title: 'LeadConduit',
       logo: {

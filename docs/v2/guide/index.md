@@ -20,6 +20,7 @@ Welcome! Find practical, step-by-step instructions for common tasks and advanced
 - **Lead Sellers**: [Getting Started](./getting-started/) → [Integrations](./integrations/) → [Troubleshooting](./troubleshooting/)
 - **Developers**: [Data Management](./data-management/) → [Integrations](./integrations/) → [Best Practices](./best-practices/)
 - **Administrators**: [Analytics](./analytics/) → [Compliance](./compliance/) → [Best Practices](./best-practices/)
+- **Finance Teams**: [Finance & Billing](./finance/) → [Analytics](./analytics/) → [Troubleshooting](./troubleshooting/)
 
 ### By Experience Level
 - **New Users**: Start with [Getting Started](./getting-started/)
@@ -38,6 +39,7 @@ Welcome! Find practical, step-by-step instructions for common tasks and advanced
 | ✅ **[Compliance](./compliance/)** | TrustedForm, consent, suppression lists, TCPA | Legal requirements |
 | 🔍 **[Troubleshooting](./troubleshooting/)** | Fix rejections, errors, and performance issues | Problem solving |
 | 📈 **[Analytics](./analytics/)** | Reports, events, vendor tracking, and exports | Business insights |
+| 💰 **[Finance & Billing](./finance/)** | Pricing, transactions, reconciliation, and margins | Financial control |
 | 💡 **[Best Practices](./best-practices/)** | Optimization patterns and scaling strategies | Advanced users |
 | 🚀 **[Advanced Techniques](./advanced/)** | Ping-post, real-time bidding, complex routing | Expert users |
 

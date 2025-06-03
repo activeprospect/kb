@@ -39,6 +39,12 @@ Transform data between sources and destinations effectively.
 - **Level**: Intermediate
 - **Tags**: `intermediate`, `how-to`, `mappings-focused`, `data-management`
 
+### [Field Classes Deep Dive](./field-classes-deep-dive.md)
+Master all field classes and their components for advanced data handling.
+- **Time**: 45 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `conceptual`, `fields-focused`, `data-management`
+
 ## 🛡️ Data Quality
 
 ### [List Management and Suppression](./list-management.md)
@@ -58,6 +64,12 @@ When and how to use custom fields effectively.
 - **Time**: 15 minutes
 - **Level**: Advanced
 - **Tags**: `advanced`, `best-practices`, `fields-focused`, `data-management`
+
+### [Custom Fields Advanced Guide](./custom-fields-advanced.md)
+Create and manage custom fields when standard fields don't exist.
+- **Time**: 35 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `how-to`, `fields-focused`, `data-management`
 
 ## 🔄 Data Transformation
 
