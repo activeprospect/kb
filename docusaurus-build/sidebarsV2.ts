@@ -19,8 +19,11 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Introduction',
       collapsed: false,
+      link: {
+        type: 'doc',
+        id: 'introduction/index',
+      },
       items: [
-        'introduction/index',
         'introduction/key-concepts-overview',
       ],
     },
@@ -29,8 +32,11 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Reference',
       collapsed: false,
+      link: {
+        type: 'doc',
+        id: 'reference/index',
+      },
       items: [
-        'reference/index',
         'reference/concepts',
         {
           type: 'category',
@@ -63,8 +69,12 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'API',
       collapsed: true,
+      link: {
+        type: 'doc',
+        id: 'api/index',
+      },
       items: [
-        'api/index',
+        // API sub-pages will be added here as they're created
       ],
     },
   ],
