@@ -61,8 +61,13 @@ const sidebars: SidebarsConfig = {
             id: 'guide/getting-started/index',
           },
           items: [
+            'guide/getting-started/what-is-leadconduit',
             'guide/getting-started/building-your-first-flow',
             'guide/getting-started/adding-sources',
+            'guide/getting-started/understanding-submission',
+            'guide/getting-started/testing-your-flow',
+            'guide/getting-started/first-integration',
+            'guide/getting-started/basic-troubleshooting',
           ],
         },
         {
@@ -74,7 +79,83 @@ const sidebars: SidebarsConfig = {
             id: 'guide/flow-management/index',
           },
           items: [
+            'guide/flow-management/managing-flow-steps',
             'guide/flow-management/acceptance-criteria',
+            'guide/flow-management/volume-caps',
+            'guide/flow-management/volume-caps-advanced',
+            'guide/flow-management/buyer-step-connections',
+            'guide/flow-management/disabling-steps',
+            'guide/flow-management/using-templates',
+            'guide/flow-management/hours-of-operation',
+            'guide/flow-management/day-parting-strategies',
+            'guide/flow-management/configuring-delivery',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Data Management',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/data-management/index',
+          },
+          items: [
+            'guide/data-management/field-configuration',
+            'guide/data-management/data-mapping',
+            'guide/data-management/content-filtering',
+            'guide/data-management/suppression-lists',
+            'guide/data-management/list-management',
+            'guide/data-management/duplicate-management',
+            'guide/data-management/lead-feedback',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Integrations',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/integrations/index',
+          },
+          items: [
+            'guide/integrations/facebook-lead-ads',
+            'guide/integrations/email-marketing-integrations',
+            'guide/integrations/email-marketing-platforms',
+            'guide/integrations/zapier-integration',
+            'guide/integrations/batch-delivery-management',
+            'guide/integrations/response-parsing',
+            'guide/integrations/webhooks-and-apis',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Analytics',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/analytics/index',
+          },
+          items: [
+            'guide/analytics/understanding-events',
+            'guide/analytics/custom-reports',
+            'guide/analytics/leadconduit-reporting',
+            'guide/analytics/monitoring-performance',
+            'guide/analytics/data-exports',
+            'guide/analytics/lead-feedback-system',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Best Practices',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/best-practices/index',
+          },
+          items: [
+            'guide/best-practices/leadconduit-pro-tips',
+            'guide/best-practices/workflow-optimization',
+            'guide/best-practices/flow-optimization',
           ],
         },
         {
@@ -87,6 +168,8 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'guide/compliance/implementing-trustedform',
+            'guide/compliance/tcpa-compliance',
+            'guide/compliance/trustedform-api-guide',
           ],
         },
         {
@@ -98,7 +181,22 @@ const sidebars: SidebarsConfig = {
             id: 'guide/troubleshooting/index',
           },
           items: [
+            'guide/troubleshooting/common-issues',
             'guide/troubleshooting/lead-rejection-analysis',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Advanced Topics',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'guide/advanced/index',
+          },
+          items: [
+            'guide/advanced/ping-post',
+            'guide/advanced/real-time-bidding',
+            'guide/advanced/multi-buyer-routing',
           ],
         },
       ],
@@ -123,6 +221,34 @@ const sidebars: SidebarsConfig = {
           items: [
             'flows/lead-submission/sources',
             'flows/lead-submission/mappings',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Leads & Events',
+      collapsed: true,
+      link: {
+        type: 'doc',
+        id: 'leads/index',
+      },
+      items: [
+        {
+          type: 'category',
+          label: 'Events',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'leads/events/index',
+          },
+          items: [
+            'leads/events/event-patterns',
+            'leads/events/system-events',
+            'leads/events/filter-events',
+            'leads/events/recipient-events',
+            'leads/events/feedback-events',
+            'leads/events/retention-archival',
           ],
         },
       ],
