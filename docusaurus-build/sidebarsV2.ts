@@ -25,6 +25,8 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'introduction/key-concepts-overview',
+        'introduction/product-overview',
+        'introduction/data-model',
       ],
     },
     {
@@ -172,6 +174,36 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         // API sub-pages will be added here as they're created
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Tutorials',
+      collapsed: true,
+      link: {
+        type: 'doc',
+        id: 'guides/tutorials/index',
+      },
+      items: [
+        'guides/tutorials/leadconduit-tutorial',
+        'guides/tutorials/data-security-in-leadconduit',
+        'guides/tutorials/feedback-instructions',
+        'guides/tutorials/shared-reporting',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Appendix',
+      collapsed: true,
+      link: {
+        type: 'doc',
+        id: 'appendix/index',
+      },
+      items: [
+        'appendix/activeprospect-product-glossary',
+        'appendix/leadsbridge-glossary',
+        'appendix/trustedform-glossary',
+        'appendix/content-taxonomy',
       ],
     },
   ],
