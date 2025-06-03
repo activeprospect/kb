@@ -1,3 +1,15 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - troubleshooting
+  - how-to
+  - analytics
+  - quality-control
+  - vendor-management
+  - events-focused
+---
+
 # Lead Rejection Analysis
 
 When leads are being rejected at higher rates than expected, this guide helps you diagnose the cause and implement solutions. Learn to use Events effectively, identify patterns, and communicate clearly with sources about requirements.

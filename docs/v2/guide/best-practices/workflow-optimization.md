@@ -1,3 +1,15 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - best-practices
+  - how-to
+  - flows
+  - performance-optimization
+  - operation
+  - semi-technical
+---
+
 # Workflow Optimization Tips
 
 Save time and increase efficiency with these proven workflow optimization techniques. Learn shortcuts, automation strategies, and configuration patterns that experienced users rely on daily.

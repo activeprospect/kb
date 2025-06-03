@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - beginner
+  - how-to
+  - conceptual
+  - flows
+  - implementation
+  - universal
+---
+
 # Getting Started Guide
 
 Welcome! This section helps you get up and running quickly. Whether you're a lead buyer setting up vendor management or a lead seller connecting to partners, you'll find step-by-step guides to help you succeed.

@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - beginner
+  - how-to
+  - flows
+  - entities-focused
+  - vendor-management
+  - implementation
+---
+
 # Adding Sources to Receive Leads
 
 Sources are the entry points for your leads - where vendors, forms, or partners send their data. This guide walks you through adding and configuring sources to start receiving leads.

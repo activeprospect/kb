@@ -1,3 +1,15 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - analytics
+  - reporting-focused
+  - vendor-management
+  - performance-optimization
+  - semi-technical
+---
+
 # Building Custom Reports
 
 Create reports that answer your specific business questions. Learn to build, customize, and share reports that provide actionable insights into your lead operations.

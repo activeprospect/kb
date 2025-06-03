@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - conceptual
+  - compliance
+  - compliance-documentation
+  - universal
+  - legal
+---
+
 # Compliance & Consent Guide
 
 Ensure your lead operations meet regulatory requirements and industry standards. Learn how to implement proper consent verification, manage suppression lists, and maintain compliance documentation.

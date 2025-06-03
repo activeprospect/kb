@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - beginner
+  - conceptual
+  - flows
+  - universal
+  - evaluation
+  - non-technical
+---
+
 # What is LeadConduit?
 
 Understanding the core concepts and capabilities of LeadConduit - your lead management platform that connects, validates, and routes lead data between sources and recipients.

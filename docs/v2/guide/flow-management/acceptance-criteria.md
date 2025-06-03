@@ -1,3 +1,15 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - business-logic
+  - rules-focused
+  - quality-control
+  - flows
+  - technical
+---
+
 # Acceptance Criteria Mastery
 
 Acceptance criteria are your first line of defense against bad leads. They enforce your purchase agreements, ensure data quality, and protect you from paying for leads that can't convert. This guide shows you how to build bulletproof acceptance criteria.

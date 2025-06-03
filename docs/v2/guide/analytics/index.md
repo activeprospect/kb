@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - conceptual
+  - analytics
+  - reporting-focused
+  - vendor-management
+  - universal
+---
+
 # Analytics & Reporting Guide
 
 Transform your lead data into actionable insights. Learn how to build custom reports, understand events, track performance, and make data-driven decisions about your lead operations.

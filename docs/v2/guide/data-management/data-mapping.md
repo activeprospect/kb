@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - data-management
+  - mappings-focused
+  - integrations
+  - technical
+---
+
 # Data Mapping and Transformation
 
 Master the art of transforming lead data between sources and recipients. Learn field mapping, data transformation, and standardization techniques for seamless data flow.

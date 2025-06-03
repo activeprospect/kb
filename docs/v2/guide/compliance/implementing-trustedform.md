@@ -1,3 +1,15 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - compliance
+  - integrations
+  - compliance-documentation
+  - technical
+  - implementation
+---
+
 # Implementing TrustedForm in Your Flow
 
 This guide walks you through adding TrustedForm validation to your flows, from basic setup to advanced configuration. You'll learn how to verify consent, validate certificates, and optimize costs while maintaining compliance.

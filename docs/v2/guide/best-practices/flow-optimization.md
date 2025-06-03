@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - advanced
+  - best-practices
+  - flows
+  - performance-optimization
+  - technical
+  - operation
+---
+
 # Flow Optimization Best Practices
 
 Maximize performance, reliability, and cost-efficiency in your LeadConduit flows. Learn proven strategies from high-volume implementations and expert recommendations.
@@ -37,41 +48,6 @@ Optimal Order:
 - Reduce processing time
 - Improve success rates
 
-### Parallel Processing
-
-When steps don't depend on each other:
-
-```
-Sequential (Slow):
-Email Validate → Phone Validate → Address Verify
-Total: 3 seconds
-
-Parallel (Fast):
-Email Validate ┐
-Phone Validate ├→ Continue
-Address Verify ┘
-Total: 1 second (max of all three)
-```
-
-### Caching Strategies
-
-**Cache Enhancement Results**:
-- Phone carrier lookups
-- Email domain validation
-- Geographic data
-- Company information
-
-**Cache Duration**:
-```javascript
-// Short cache (hours)
-- Email validation: 24 hours
-- Phone status: 1 hour
-
-// Long cache (days/weeks)
-- Geographic data: 30 days
-- Company info: 7 days
-- Domain reputation: 7 days
-```
 
 ## 🛡️ Reliability Patterns
 

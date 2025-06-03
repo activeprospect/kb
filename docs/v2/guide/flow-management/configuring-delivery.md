@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - flows
+  - integrations
+  - distribution
+  - technical
+---
+
 # Configuring Lead Delivery
 
 Set up reliable delivery of your validated leads to CRMs, call centers, and custom endpoints. Learn real-time posting, batch delivery, and advanced routing strategies.

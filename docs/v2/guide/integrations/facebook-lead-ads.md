@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - integrations
+  - implementation
+  - semi-technical
+  - marketing
+---
+
 # Facebook Lead Ads Setup
 
 Connect Facebook's native lead forms directly to your flows for real-time lead delivery. This guide walks you through setup, permissions, custom fields, and troubleshooting Facebook Lead Ads integration.

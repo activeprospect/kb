@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - beginner
+  - conceptual
+  - how-to
+  - universal
+  - operation
+  - non-technical
+---
+
 # Help Guide
 
 Welcome! Find practical, step-by-step instructions for common tasks and advanced configurations.
@@ -14,6 +25,7 @@ Welcome! Find practical, step-by-step instructions for common tasks and advanced
 - **New Users**: Start with [Getting Started](./getting-started/)
 - **Intermediate**: Explore [Flow Management](./flow-management/) and [Data Management](./data-management/)
 - **Advanced**: Master [Best Practices](./best-practices/) and [Troubleshooting](./troubleshooting/)
+- **Expert**: Implement [Advanced Techniques](./advanced/) like ping-post and real-time bidding
 
 ## 📚 Guide Categories
 
@@ -27,6 +39,7 @@ Welcome! Find practical, step-by-step instructions for common tasks and advanced
 | 🔍 **[Troubleshooting](./troubleshooting/)** | Fix rejections, errors, and performance issues | Problem solving |
 | 📈 **[Analytics](./analytics/)** | Reports, events, vendor tracking, and exports | Business insights |
 | 💡 **[Best Practices](./best-practices/)** | Optimization patterns and scaling strategies | Advanced users |
+| 🚀 **[Advanced Techniques](./advanced/)** | Ping-post, real-time bidding, complex routing | Expert users |
 
 ## 🚀 Quick Links
 

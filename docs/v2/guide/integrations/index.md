@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - conceptual
+  - integrations
+  - integrations-focused
+  - distribution
+  - technical
+---
+
 # Integrations Guide
 
 Connect your flows with external systems and services. From CRM platforms to marketing automation, learn how to set up reliable integrations that keep your lead data flowing smoothly.
@@ -16,11 +27,17 @@ Send leads directly to Salesforce CRM.
 - **Level**: Intermediate
 - **Tags**: `intermediate`, `how-to`, `integrations`, `crm`
 
-### [Email Platform Connections](./email-platforms.md)
-Connect Mailchimp, Constant Contact, and ActiveCampaign.
+### [Email Marketing Platform Integrations](./email-marketing-integrations.md)
+Connect ActiveCampaign, Constant Contact, Mailchimp, and more.
 - **Time**: 20 minutes per platform
 - **Level**: Beginner
 - **Tags**: `beginner`, `how-to`, `integrations`, `email`
+
+### [Zapier Integration Guide](./zapier-integration.md)
+Connect to 5,000+ apps through Zapier webhooks.
+- **Time**: 30 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `integrations`, `automation`
 
 ### [Webhook Configuration](./webhook-setup.md)
 Set up custom webhooks for any system.

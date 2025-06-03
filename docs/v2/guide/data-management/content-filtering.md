@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - data-management
+  - quality-control
+  - integrations
+  - semi-technical
+---
+
 # Content Filtering with SuppressionList
 
 Filter unwanted content from your leads by checking against custom word lists. This guide shows you how to implement content filtering for profanity, spam indicators, or any other unwanted text patterns.

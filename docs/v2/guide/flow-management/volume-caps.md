@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - business-logic
+  - flows
+  - financial-management
+  - operation
+---
+
 # Volume Caps Configuration
 
 Control the flow of leads with volume caps - your automated traffic controller. Set limits by source, time period, or conditions to manage costs, prevent overselling, and maintain quality service levels.

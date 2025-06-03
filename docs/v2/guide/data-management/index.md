@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - conceptual
+  - data-management
+  - fields-focused
+  - quality-control
+  - universal
+---
+
 # Data Management Guide
 
 Master data handling in your flows. Learn how to configure fields, validate data, transform values, and maintain data quality throughout your lead processing pipeline.
@@ -30,9 +41,9 @@ Transform data between sources and destinations effectively.
 
 ## 🛡️ Data Quality
 
-### [Suppression Lists Management](./suppression-lists.md)
-Prevent duplicates and manage exclusion lists.
-- **Time**: 20 minutes
+### [List Management and Suppression](./list-management.md)
+Manage suppression lists, allowlists, and custom lists.
+- **Time**: 30 minutes
 - **Level**: Intermediate
 - **Tags**: `intermediate`, `how-to`, `data-management`, `quality-control`
 

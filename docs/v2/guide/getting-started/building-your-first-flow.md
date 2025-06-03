@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - beginner
+  - how-to
+  - flows
+  - implementation
+  - universal
+  - evaluation
+---
+
 # Building Your First Flow
 
 Ready to process your first lead? In the next 10 minutes, you'll build a working flow that receives leads, validates them, and delivers them to a destination. Let's dive in!

@@ -1,8 +1,25 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - best-practices
+  - conceptual
+  - performance-optimization
+  - universal
+  - operation
+---
+
 # Best Practices Guide
 
 Learn from proven patterns and optimization strategies. These guides distill years of experience into actionable advice for building efficient, scalable lead operations.
 
 ## 🚀 Optimization Strategies
+
+### [LeadConduit Pro Tips](./leadconduit-pro-tips.md)
+Master advanced techniques and hidden features.
+- **Time**: 30 minutes
+- **Level**: Advanced
+- **Tags**: `advanced`, `best-practices`, `performance-optimization`
 
 ### [Workflow Optimization Tips](./workflow-optimization.md)
 Time-saving techniques and efficiency hacks.

@@ -1,3 +1,15 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - how-to
+  - data-management
+  - quality-control
+  - compliance
+  - integrations
+  - technical
+---
+
 # Suppression Lists Management
 
 Suppression lists are your defense against duplicates, unwanted contacts, and compliance violations. This guide shows you how to implement effective suppression strategies, from basic duplicate checking to advanced multi-list configurations.

@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - intermediate
+  - conceptual
+  - flows
+  - business-logic
+  - distribution
+  - universal
+---
+
 # Flow Management Guide
 
 Master the art of flow configuration and optimization. Learn how to build sophisticated lead processing pipelines that enforce your business rules, manage vendor relationships, and maximize ROI.
@@ -62,9 +73,15 @@ Speed up your flows and reduce processing time.
 - **Level**: Advanced
 - **Tags**: `advanced`, `best-practices`, `performance-optimization`
 
-### [Hours of Operation](./hours-of-operation.md)
-Configure when your flows accept and process leads.
-- **Time**: 10 minutes
+### [Using Templates](./using-templates.md)
+Accelerate flow creation with reusable templates.
+- **Time**: 20 minutes
+- **Level**: Intermediate
+- **Tags**: `intermediate`, `how-to`, `flows`
+
+### [Hours of Operation and Scheduling](./hours-of-operation.md)
+Control when flows accept leads and manage schedules.
+- **Time**: 25 minutes
 - **Level**: Intermediate
 - **Tags**: `intermediate`, `how-to`, `business-logic`
 
