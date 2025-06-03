@@ -578,24 +578,13 @@ a:focus {
 }
 
 /* Fix category navigation - ensure links work even when inside category */
-/* Create visual separation between link and collapse button */
+/* Make space for the caret without visual artifacts */
 .menu__link--sublist {
   position: relative;
   padding-right: 2.5rem !important;
 }
 
-/* Visual separator line */
-.menu__link--sublist::after {
-  content: '';
-  width: 1px;
-  height: 60%;
-  background-color: var(--ifm-toc-border-color);
-  position: absolute;
-  right: 2.5rem;
-  top: 20%;
-}
-
-/* Style for the caret area */
+/* Style the caret area without borders */
 .menu__link--sublist .menu__link--sublist-caret {
   position: absolute;
   right: 0;
@@ -605,13 +594,11 @@ a:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-left: 1px solid transparent;
   transition: background-color 0.2s;
 }
 
 .menu__link--sublist .menu__link--sublist-caret:hover {
   background-color: var(--ifm-menu-color-background-hover);
-  border-left-color: var(--ifm-toc-border-color);
 }
 
 /* Ensure proper cursor for different areas */
@@ -621,9 +608,4 @@ a:focus {
 
 .menu__link--sublist .menu__link--sublist-caret {
   cursor: pointer;
-}
-
-/* Add visual hint on hover */
-.menu__link--sublist:hover::after {
-  background-color: var(--ifm-color-primary);
 }
