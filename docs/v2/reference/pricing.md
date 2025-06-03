@@ -7,6 +7,13 @@ tags:
   - technical
   - core-concept
   - financial
+  - rules
+  - source-configuration
+  - buyer-configuration
+  - bidding
+  - revenue-optimization
+  - cost-tracking
+  - margin-calculation
 ---
 
 # Pricing

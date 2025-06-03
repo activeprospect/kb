@@ -7,6 +7,13 @@ tags:
   - technical
   - core-concept
   - data-access
+  - mappings
+  - delivery
+  - custom-integrations
+  - response-parsing
+  - notifications
+  - dynamic-content
+  - handlebars
 ---
 
 # Templates

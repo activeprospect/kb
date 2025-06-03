@@ -7,6 +7,13 @@ tags:
   - technical
   - core-concept
   - data-management
+  - source-configuration
+  - delivery
+  - integrations
+  - templates
+  - rules
+  - data-transformation
+  - field-mapping
 ---
 
 # Mappings
