@@ -1,3 +1,14 @@
+---
+tags:
+  - buyer-focused
+  - beginner
+  - conceptual
+  - flows
+  - data-management
+  - technical
+  - vendor-management
+---
+
 # Understanding Lead Submission
 
 Learn how leads flow into your system and what happens at each step of the submission process. This guide explains submission documentation, authentication, and response handling.
@@ -41,7 +52,6 @@ Submission docs are auto-generated technical guides for each source in your flow
    - Safe to share with vendors
    - No account credentials required
 
-![Flow Navigation and Submission Docs](./images/flow-submission-docs.png)
 
 ### What's in the Documentation
 
@@ -220,7 +230,6 @@ From the submission docs page:
    - 6 concurrent submissions max
    - Shows progress and results
 
-![Batch Import Interface](./images/batch-import.png)
 
 ### CSV Format Example
 
