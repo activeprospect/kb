@@ -44,13 +44,6 @@ const config: Config = {
         routeBasePath: 'v2',
         sidebarPath: './sidebars.ts',
         editUrl: 'https://github.com/activeprospect/kb/tree/main/',
-        remarkPlugins: [],
-        rehypePlugins: [],
-        beforeDefaultRemarkPlugins: [],
-        beforeDefaultRehypePlugins: [],
-        mdxLoaderOptions: {
-          format: 'md',
-        },
       },
     ],
     // Version 1
@@ -62,13 +55,6 @@ const config: Config = {
         routeBasePath: 'v1',
         sidebarPath: './sidebars.ts',
         editUrl: 'https://github.com/activeprospect/kb/tree/main/',
-        remarkPlugins: [],
-        rehypePlugins: [],
-        beforeDefaultRemarkPlugins: [],
-        beforeDefaultRehypePlugins: [],
-        mdxLoaderOptions: {
-          format: 'md',
-        },
       },
     ],
     // Redirect root to v2
