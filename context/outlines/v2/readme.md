@@ -42,7 +42,7 @@ reference
   flows.md
   fields.md
   etc...
-guides
+help guide
   all bloomfire articles for how-to guides go here, organized by category. make sure the adjust terminology according to context/vocabulary.
 ```
 
