@@ -576,3 +576,54 @@ a:focus {
 .mb-4 {
   margin-bottom: 2rem;
 }
+
+/* Fix category navigation - ensure links work even when inside category */
+/* Create visual separation between link and collapse button */
+.menu__link--sublist {
+  position: relative;
+  padding-right: 2.5rem !important;
+}
+
+/* Visual separator line */
+.menu__link--sublist::after {
+  content: '';
+  width: 1px;
+  height: 60%;
+  background-color: var(--ifm-toc-border-color);
+  position: absolute;
+  right: 2.5rem;
+  top: 20%;
+}
+
+/* Style for the caret area */
+.menu__link--sublist .menu__link--sublist-caret {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-left: 1px solid transparent;
+  transition: background-color 0.2s;
+}
+
+.menu__link--sublist .menu__link--sublist-caret:hover {
+  background-color: var(--ifm-menu-color-background-hover);
+  border-left-color: var(--ifm-toc-border-color);
+}
+
+/* Ensure proper cursor for different areas */
+.menu__link--sublist {
+  cursor: pointer;
+}
+
+.menu__link--sublist .menu__link--sublist-caret {
+  cursor: pointer;
+}
+
+/* Add visual hint on hover */
+.menu__link--sublist:hover::after {
+  background-color: var(--ifm-color-primary);
+}

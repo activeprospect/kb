@@ -79,6 +79,8 @@ const config: Config = {
         ],
       },
     ],
+    // Custom plugin to fix category navigation
+    './src/plugins/category-nav-fix.js',
   ],
 
   themeConfig: {
