@@ -45,7 +45,7 @@ jobs:
     - name: Get changed files
       id: changed-files
       if: github.event_name == 'push' && github.event.inputs.deploy_mode != 'full'
-      uses: tj-actions/changed-files@v40
+      uses: tj-actions/changed-files@v46
       with:
         files: |
           docs/v2/**/*.md
