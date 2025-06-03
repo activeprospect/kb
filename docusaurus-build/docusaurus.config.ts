@@ -2,6 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const {removeLiquidSyntax} = require('./remarkPlugins');
+
 const config: Config = {
   title: 'LeadConduit Documentation',
   tagline: 'Comprehensive documentation for LeadConduit lead management platform',
@@ -44,6 +46,7 @@ const config: Config = {
         routeBasePath: 'v2',
         sidebarPath: './sidebars.ts',
         editUrl: 'https://github.com/activeprospect/kb/tree/main/',
+        remarkPlugins: [removeLiquidSyntax],
       },
     ],
     // Version 1
@@ -55,6 +58,7 @@ const config: Config = {
         routeBasePath: 'v1',
         sidebarPath: './sidebars.ts',
         editUrl: 'https://github.com/activeprospect/kb/tree/main/',
+        remarkPlugins: [removeLiquidSyntax],
       },
     ],
     // Redirect root to v2
