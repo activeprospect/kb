@@ -1,0 +1,25 @@
+{
+  "name": "zendesk-deployment",
+  "version": "1.0.0",
+  "description": "Deploy documentation to Zendesk Help Center",
+  "main": "deploy-to-zendesk.js",
+  "scripts": {
+    "deploy:zendesk": "node deploy-to-zendesk.js",
+    "deploy:dry": "DRY_RUN=true node deploy-to-zendesk.js",
+    "deploy:full": "DEPLOY_MODE=full node deploy-to-zendesk.js",
+    "test": "node test-zendesk-deployment.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.10",
+    "gray-matter": "^4.0.3",
+    "marked": "^15.0.12"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
